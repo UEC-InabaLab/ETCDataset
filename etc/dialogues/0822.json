@@ -1,0 +1,182 @@
+{
+    "participants": {
+        "speaker": "CU",
+        "listener": "BB"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "自分の老後を不安に思っています。",
+            "emotion_transcription": "心配な感情です"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "今から考えると私も不安に感じます。健康面とかが特に不安です。",
+            "emotion_transcription": "健康面で不安に感じることを相手はどのように受け止めるか興味があります。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "健康面ですと私は腰や膝が不安です。",
+            "emotion_transcription": "心配な体の場所を表現しています"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "私も以前ぎっくり腰になったことがあり、繰り返さないか心配になることもあります。膝も負担がかかりそうですよね。",
+            "emotion_transcription": "当時感じた痛みや辛い思いが頭の中によみがえってきました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "腰は毎年整形外科に通う機会があります。膝も最近階段の昇り降りなどでカクカクします。",
+            "emotion_transcription": "現状の体を心配しています"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "毎年通うのは大変ですね。階段の昇り降りは負担がかかりそうです。お薬などで対処されているのですか。",
+            "emotion_transcription": "相手がどのようにつらい症状を抑えているのか知りたくなりました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "注射や湿布を処方してもらっています。",
+            "emotion_transcription": "現状を理解してもらおうと考えています"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "注射はよく効きそうですが、少し痛そうですね。",
+            "emotion_transcription": "注射の痛みはどれくらいあるのか、辛くないか心配に感じました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そのときは痛いですがよく効き目がありますよ。",
+            "emotion_transcription": "良く効くと説明したいと考えています"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "それは良かったです。辛い症状が少しでも楽になれば心も落ち着きますね。",
+            "emotion_transcription": "ひざの痛みに効き目があることを聞いて安心できました。"
+        }
+    ],
+    "dialogue_emotion": "不安に思う",
+    "dialogue_id": 822
+}

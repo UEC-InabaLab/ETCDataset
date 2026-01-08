@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "AR",
+        "listener": "GD"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "大谷翔平選手に期待することはありますか？",
+            "emotion_transcription": "これ以上を求められるかどうか知りたいです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "打席に出てくれるだけで嬉しいですよ",
+            "emotion_transcription": "野球に詳しくないので大谷選手の名前ぐらいしかわかりません"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "これだけ期待に応え続けられるのはすごいですよね。",
+            "emotion_transcription": "偉大さを共有したいです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はい。アメリカだけでなく日本でもメジャー選手として活躍している選手は珍しいと思います",
+            "emotion_transcription": "ごめいわくをおかけしました。たわいない会話で申し訳ないです"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "さらに性格もいいので、老若男女に好かれていますよね。",
+            "emotion_transcription": "すごさを共有できて嬉しいです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ほんとに性格も良いのは家庭での環境もあると思います",
+            "emotion_transcription": "話を会わせていただき感謝します"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ご両親を見ていても、あまり表に出たがらない品の良さがありますね。",
+            "emotion_transcription": "家庭環境の良さがわかりました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はい。本当そうですね。私も大谷選手だけでなくご両親の様になりたいです。",
+            "emotion_transcription": "話をうまく合わせてくれるので助かります"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私だったら、あの実績があれば、すぐ天狗になってしまいそうです。",
+            "emotion_transcription": "凡人には難しいと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私もすぐ調子になるので見直さないといけないと思います。",
+            "emotion_transcription": "こちらの意図を組んでいただきありがとうございました。大変、作業が行いやすかったです"
+        }
+    ],
+    "dialogue_emotion": "期待する",
+    "dialogue_id": 502
+}

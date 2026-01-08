@@ -1,0 +1,183 @@
+{
+    "participants": {
+        "speaker": "FU",
+        "listener": "AG"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り",
+                    "嫌悪"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "スーパーのレジにてお釣りをもらったおばさんが、その場で小銭を一枚一枚財布の中に入れるのがイライラします。",
+            "emotion_transcription": "つい最近起きた出来事で思い出すだけでも腹が立ってきます。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り",
+                    "嫌悪"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "並んでいる人が多いと迷惑ですよね。",
+            "emotion_transcription": "相手のいらだちに共感を示しました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り",
+                    "嫌悪"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "そうなんです。自分のことしか考えておらず周りが見えていないのです。",
+            "emotion_transcription": "並んでいたのが自分なので腹が立ちます。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "そういう人はセルフレジに行ってほしいです。",
+            "emotion_transcription": "相手の怒りに合わせて、こちらも憤っていると共感を示しました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "最近はセルフレジも増えてきたので助かってます。",
+            "emotion_transcription": "たしかにセルフレジで会計してほしいと共感しました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "本当にセルフレジって増えましたよね。",
+            "emotion_transcription": "相手への共感と、状況の変化への驚きを示そうとしました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ただセルフレジがはたして効率の良いレジなのかも疑問です。",
+            "emotion_transcription": "セルフレジも時間がかかっては意味がないものと思っています。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "どういったところが疑問ですか？",
+            "emotion_transcription": "相手の意見に対して、どのように考えてその意見に至ったか知ろうとしました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "店員さんに会計してもらった方が早かったりします。",
+            "emotion_transcription": "疑問に答えてあげようと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "たしか店員さんのレジって早いですよね。",
+            "emotion_transcription": "相手の意見に共感を示しました。"
+        }
+    ],
+    "dialogue_emotion": "いらいらする",
+    "dialogue_id": 128
+}

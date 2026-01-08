@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "DP",
+        "listener": "FF"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "今日、買物に出かけて店に入ってから恥ずかしい状況に気が付いたんです。",
+            "emotion_transcription": "出来事を聞いて欲しい。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "なにがあったんですか。",
+            "emotion_transcription": "なにがおこったのか相手の方の話に興味があります。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "シャツのボタンをかけちがえたまま出掛けていたんです。",
+            "emotion_transcription": "笑われないか不安な心境。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それはちょっと恥ずかしかったですね。どこで気が付かれたんですか。",
+            "emotion_transcription": "恥ずかしい気持ちに共感する感じで問いかけを行っています。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "レジで支払いをしているときに、店員さんが何度も胸元を見るので何だろうとみてびっくりです。",
+            "emotion_transcription": "鈍さに呆れられないか気になる心情です。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "私も裏表で着て行ったことがあります。店員さんも指摘してくれたらいいのにと少し思いますよね。",
+            "emotion_transcription": "相手の状況に同調する気持ちです。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "そうなんです。でも、その場でボタンを掛け直す事も出来ないだろうし、余計に恥ずかしい思いをしたかもです。",
+            "emotion_transcription": "気持ちをわかり同意して欲しい。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。反対に自分が見つけてもなかなか言う勇気がありませんしね。",
+            "emotion_transcription": "相手の方の冷静な判断に同意しています。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですよね。恥ずかしい失敗をしないように気を付けなければです。",
+            "emotion_transcription": "同じことをしないためにも励ました欲しい。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "出かける前には落ち着いて鏡を見てって、ほんとにお互い気を付けましょうね。",
+            "emotion_transcription": "励ましあう気持ちです。"
+        }
+    ],
+    "dialogue_emotion": "恥ずかしい",
+    "dialogue_id": 617
+}

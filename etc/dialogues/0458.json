@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "GQ",
+        "listener": "GU"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "最近地震が多いから、大きい地震が来ないか怖いです。",
+            "emotion_transcription": "地震の怖さを共感して欲しかったです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "本当に地震怖いですよね。はっきり震度3でも怖いなと感じます。",
+            "emotion_transcription": "地震の怖さを相手に共感しました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "確かに震度1や2では大丈夫ですけど、3からちょっと怖くなりますね。地震きたらどうしますか？",
+            "emotion_transcription": "地震の怖さを理解をし、地震後の話を聞きたかったです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "小さい地震は何もしないですけど、ちょっとやばい地震は外に逃げます。逆にどうしますか？",
+            "emotion_transcription": "地震後のことを相手に詳しく詳しく知りたかったです。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "どうすればいいのか分からないので、そのまま怖がりながらいます。",
+            "emotion_transcription": "地震の後の行動を教えました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうでしたか。私にはじっと居るのは無理なので家から逃げます。",
+            "emotion_transcription": "相手の気持ちを分かりつつ、逆に私の行動を教えました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "逃げるというのは良い行動だと思います。私もこれから大きな地震は逃げるようにします。",
+            "emotion_transcription": "アドバイスの共感をし、相手に教わったことを理解を感じました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "命を守るのが先決なので、いつどのときも地震に備えた方がいいです。",
+            "emotion_transcription": "相手に地震の怖さを教え、備えをすることを伝えたいと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。来てほしくないですが、絶対地震は来ますから、備えをしようと思います。",
+            "emotion_transcription": "相手に教わったことを理解し、しっかり地震に備えたいと教わりました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "怖いですが、備えは大切ですね。",
+            "emotion_transcription": "相手と共感を得るようにしました。"
+        }
+    ],
+    "dialogue_emotion": "怖い",
+    "dialogue_id": 458
+}

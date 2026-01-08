@@ -1,0 +1,186 @@
+{
+    "participants": {
+        "speaker": "FY",
+        "listener": "DP"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ",
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "息子が言うことを聞かなくて毎日いらいらしています",
+            "emotion_transcription": "子育てあるあるだが辛い"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ",
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "息子さんはおいくつ何ですか？",
+            "emotion_transcription": "相手の話を聞き出してあげたい・"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ",
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "6歳で小学校一年生です。",
+            "emotion_transcription": "みんなそんなものなのか、子育ては大変。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ",
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "やんちゃな年頃ですものね。いらいらさせられっぱなしなの分かります。",
+            "emotion_transcription": "気持ちが分かりもっと知りたい心情。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんです。言い返されたり、同じことを何度もしたり。疲弊します。",
+            "emotion_transcription": "お子さんいるのかな？聞いていいのかな。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ",
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "だんだんと物の考え方もしっかりしてきてやり込められる事もあったりしてたいへんでしょう。",
+            "emotion_transcription": "同情したい心情。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はい。でも女の子をみていると、生意気レベルが違って、まだマシなのかなと思ったりもします。",
+            "emotion_transcription": "みんなじゃないけどそういう子が多い印象"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び",
+                    "怒り"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ここだけの話、女の子の口の達者さには見ていてもいらいらします。",
+            "emotion_transcription": "気持ちがとても分かり嬉しい心情。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "やっぱりそうですよね。他人の子をみててもイライラします！",
+            "emotion_transcription": "やっぱりそうかー私の心が狭いだけじゃないかー"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "自分たちは、ああではなかったですよね！",
+            "emotion_transcription": "同じ考えがわかりとても嬉しい気持ち、。"
+        }
+    ],
+    "dialogue_emotion": "いらいらする",
+    "dialogue_id": 428
+}

@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "AN",
+        "listener": "EP"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "先日急に息子が喋り始めたので驚きました。",
+            "emotion_transcription": "息子が話し始めたのを誰かに共有したい気持ちです"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "息子さんどれくらいですか？",
+            "emotion_transcription": "具体的な話を聞きたいと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "今月で2歳です",
+            "emotion_transcription": "相手が興味を持ってくれたようで嬉しかったです"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "可愛らしいですね。うちの子はもう大学生ですが中々喋り始めず、喋り始めてら早かったです。",
+            "emotion_transcription": "自分の経験を伝えて何か共通点がないか知りたいと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "一生懸命に話す姿がとても可愛いです。大学生にもなるとこれまで反抗期なんてあったんじゃないですか?",
+            "emotion_transcription": "子育ての先輩に何か聞いてみたいと思いました"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "割といい子で育ってきましたが、気難しいところもあって結構扱いにくです。",
+            "emotion_transcription": "相手が興味を持ってくれたのでもっと知って欲しいと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "いくつになっても子育てには悩むということですね。",
+            "emotion_transcription": "今の自分とは違った悩みがあるのがと思いました"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ですね。どんどん違う面の悩みが出できますよね。",
+            "emotion_transcription": "共感してもらえて嬉しく感じました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び",
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それでは悩みながらも今のかわいさをたくさん噛み締めたいと思います。",
+            "emotion_transcription": "今の可愛さは今しか感じられないのだと思いました"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "子どもは三歳までにその可愛さで一生分の親孝行をすると言いますしね。たくさん可愛がってください。",
+            "emotion_transcription": "本当にそうだなと思いました。"
+        }
+    ],
+    "dialogue_emotion": "おどろく",
+    "dialogue_id": 378
+}

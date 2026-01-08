@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "BB",
+        "listener": "CU"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "やっと春になりましたが、最近風が冷たい日もあり、暖かい日が早く来ることを待ち望んでいます。",
+            "emotion_transcription": "少し寒い日があり不満に感じる気持ちを相手に分かってもらいたいです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "まだまだ朝と夜は寒い日が多くありますね！",
+            "emotion_transcription": "相手の会話に対する同調を表現しています"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですよね。朝晩の気温差が激しく私はまだエアコンを使っています。",
+            "emotion_transcription": "自分の生活の様子を相手がどのようにとらえるか興味があります。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "日によっても寒暖差があると体にこたえますね！",
+            "emotion_transcription": "辛さを表現しています"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "はい、先日も風邪のような症状でやっと治ったところです。だるさを感じました。",
+            "emotion_transcription": "先日自分がひいた風邪のような症状の辛さを思い出しました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "季節の変わり目は体調を崩しやすいので注意が必要です。私も夏に体調を崩しやすいです。",
+            "emotion_transcription": "相手に同調する説明をしています"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "体調を崩しやすい季節というのは確かにありますね。私も手足が冷えやすく、室内でも手袋をすることもあります。",
+            "emotion_transcription": "自分の冷え対策を相手が知ったら変に思われないか少し心配です。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "冷え性もエアコンの設定温度に気を遣いますよね？",
+            "emotion_transcription": "相手を心配しています"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですね。家族も一緒に暮らしているので少し気を遣いますね。乾燥なども気になります。",
+            "emotion_transcription": "相手が自分を気遣ってくれたようでうれしく感じました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "お互い健康には十分注意して元気に生活したいですね！",
+            "emotion_transcription": "相手に気にしています"
+        }
+    ],
+    "dialogue_emotion": "待ち望む",
+    "dialogue_id": 832
+}

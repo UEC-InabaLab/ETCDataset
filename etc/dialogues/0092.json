@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "AY",
+        "listener": "AG"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "引っ越しして新しい土地に来てから毎日が楽しいです。",
+            "emotion_transcription": "相手に何が楽しいか伝えようとしました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "新しい土地ってテンション上がりますよね",
+            "emotion_transcription": "相手に共感していることを伝えようとしました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうなんです。お店や道などすべてが新しく、テンションあがりまくりです。",
+            "emotion_transcription": "具体的に何が楽しいかを相手に伝えようとしました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "どんなお店を見つけましたか？",
+            "emotion_transcription": "相手がテンション上がっているように見えたので、もっと詳しく話を聞こうとしました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "田舎なので、あまり店はないのですが、道の駅があります。",
+            "emotion_transcription": "どんな店があるか相手に伝えようとしました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "道の駅ではどんなものが売っていますか？",
+            "emotion_transcription": "相手のことを聞くことで、興味を持っていることを伝えようと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "新鮮な野菜や果物がたくさんあります。果物は柑橘類の種類が豊富面白いです。",
+            "emotion_transcription": "具体的にどんなものが売っているか\n相手に伝えようとしました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "周りには田畑が多いのですか？",
+            "emotion_transcription": "より話を掘り下げて相手のことをもっと知ろうと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんです。田畑が多くて、80代の方も毎日仕事をしていますよ。",
+            "emotion_transcription": "相手に自分住んでいるところのことを知ってほしいと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "元気な方が多くて良い地域ですね。",
+            "emotion_transcription": "相手の住む地域に対して賞賛している気持ちを伝えようとしました。"
+        }
+    ],
+    "dialogue_emotion": "わくわくする",
+    "dialogue_id": 92
+}

@@ -1,0 +1,182 @@
+{
+    "participants": {
+        "speaker": "AZ",
+        "listener": "ES"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "卵を割ったら黄身が二つ入っていました",
+            "emotion_transcription": "人生初で驚いた"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "それはサプライズのような出来事です。",
+            "emotion_transcription": "なんだか知らないけれどハッピーな気分になります。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び",
+                    "驚き"
+                ],
+                [
+                    "喜び",
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "初めてのことだったのでびっくりしました",
+            "emotion_transcription": "びっくりしたけど嬉しかった"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "噂には聞いた事がありますが、実際にあると驚きます",
+            "emotion_transcription": "心がなんだかほっこりします"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "思わずスマホで写真を撮っちゃいました",
+            "emotion_transcription": "この驚きを誰かに伝えたかった"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "スマホで撮影したくなる気持ち、とても分かります",
+            "emotion_transcription": "なんとなく心が躍る、リラックスした感覚を覚えた"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "でも写真を贈った友人から「私なんて何度もあるよ」と言われました",
+            "emotion_transcription": "なかなかない体験だと思っていたのに…"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "あらあら、それはなんだか残念な返信ですね。お察しします。",
+            "emotion_transcription": "残念なきもちが自然と湧き上がり、励ましたい感覚をおぼえた"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "「何て貴重な体験だろう」と思ったのに、ちょっとがっかりしちゃいました",
+            "emotion_transcription": "友人の反応に逆に驚き"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "何気ない一言が心に刺さるような感覚、意外とありますし、辛い事です",
+            "emotion_transcription": "自分にも似た経験があり、とても親近感をおぼえた。元気になってほしいと切にねがった"
+        }
+    ],
+    "dialogue_emotion": "おどろく",
+    "dialogue_id": 85
+}

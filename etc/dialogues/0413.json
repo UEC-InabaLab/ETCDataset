@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "GN",
+        "listener": "EE"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "今日でゴールデンウィークも終わりで悲しいです。",
+            "emotion_transcription": "休みが終わってしまうので相手にも悲しい気持ちを伝えたいです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "そうですね、あっという間に終わりになりますね。",
+            "emotion_transcription": "悲しい気持ちに共感できました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "今年の休みはどこかに行かれましたか？",
+            "emotion_transcription": "相手にも休み中にどこかへ行ったか聞いてみたい気持ちになりました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "それが、どこにも行けていないんです。あなたは？",
+            "emotion_transcription": "出かけられていないことを伝えたくなりました。また、同じ境遇なのか知りたくなりました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "実は私も仕事が忙しくて結局どこにも行けませんでした。",
+            "emotion_transcription": "相手の返答に共感し自分と同じだと感じました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "テレビのニュースを見ると外出されている方が多くて楽しそうですよね。",
+            "emotion_transcription": "同じ境遇で安心しました。周りについても伝えたくなりました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "本当にうらやましいと思います。",
+            "emotion_transcription": "相手に対して同じ意見で安心し、自分も共感しました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "私は、この悲しい気持ちをどこにブツケたらいいのか、分からないです。",
+            "emotion_transcription": "自分の感情の矛先について話したくなりました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "全く同感ですね。",
+            "emotion_transcription": "相手の悲しい気持ちに同感しました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "来年までお預けで、楽しみは次回に取っておきましょうね。",
+            "emotion_transcription": "共感してもらえて嬉しくなりました。"
+        }
+    ],
+    "dialogue_emotion": "悲しい",
+    "dialogue_id": 413
+}

@@ -1,0 +1,184 @@
+{
+    "participants": {
+        "speaker": "DP",
+        "listener": "BY"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "昨日、夫婦喧嘩をしてしまって。まだ夫に謝る事が出来ないんです。",
+            "emotion_transcription": "落ち込む気持ちを聞いて欲しい。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "それは大変ですね。何が切っ掛けだったのですか？",
+            "emotion_transcription": "心配ですね。お話を聞かせて欲しいです。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私に内緒で高価なゴルフクラブを購入していたんです。",
+            "emotion_transcription": "理由を伝えてもっと話を聞いて欲しい。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それはなんというか、あるあるですね。いくらでしたか。",
+            "emotion_transcription": "定番中の定番の原因ですね。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り",
+                    "嫌悪"
+                ],
+                [
+                    "怒り",
+                    "嫌悪"
+                ],
+                [
+                    "怒り",
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "10万円もする商品なんです。頭にきて、謝る夫にキツイ言葉をあびせてしまって。",
+            "emotion_transcription": "腹立ちと自己嫌悪を分かってもらいたい。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖",
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "結構なお値段ですね！？それは仕方ないかもですね。",
+            "emotion_transcription": "１０万はやばいですね。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "時間が経つにつれて、仕事を頑張る夫にあびせた言葉に後悔しきりで。",
+            "emotion_transcription": "謝る機会のヒントを得たい。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "理由を考えれば仕方ないですが、なるべく傷が浅いうちに仲直りしたほうが良いと思います。",
+            "emotion_transcription": "一概に言えませんがそうするのが一番と考えます。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "そうですよね。責めた事を心から悔やんでいる誠実な気持ちを上手く伝える事が出来ればいいのですが。",
+            "emotion_transcription": "現状を改善する事が出来るか不安な気持ち。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "難しいとは思いますがエネルギーの無駄と思って頑張ってください。",
+            "emotion_transcription": "応援しています"
+        }
+    ],
+    "dialogue_emotion": "誠実な気持ち",
+    "dialogue_id": 994
+}

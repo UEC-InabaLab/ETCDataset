@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "FE",
+        "listener": "EO"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "こんにちは",
+            "emotion_transcription": "まずはあいさつから"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "GW真っ只中ですが、わくわくするようなことがありましたか？",
+            "emotion_transcription": "相手にお聞きしたと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "はい。ありました",
+            "emotion_transcription": "久しぶりに経験"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "どんな出来事にワクワクしましたか？",
+            "emotion_transcription": "内容をお聞きしたと思いました"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "久しぶりにバイクに乗りました。",
+            "emotion_transcription": "5年ぶりくらい"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ＧＷは天気がいいのでツーリングにぴったりですね。とこまでいかれたのですか？",
+            "emotion_transcription": "ツーリングの内容を知りたいと思いました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "隣の県まで行きました。",
+            "emotion_transcription": "予想以上に遠くに行く"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんですね。道は混んでませんでしたか？",
+            "emotion_transcription": "道の混雑具合が気になりました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "混んでました。原付なのでスピードも出せず時間がかかりました。",
+            "emotion_transcription": "結構疲れました"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "原付だと大変そうですが、楽しそうです。でも、安全運転が一番ですね。",
+            "emotion_transcription": "安全が一番ということをお伝えしたいと思いました"
+        }
+    ],
+    "dialogue_emotion": "わくわくする",
+    "dialogue_id": 98
+}

@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "FV",
+        "listener": "DO"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "夏休みの予定を考えています。",
+            "emotion_transcription": "自分の夏休みが楽しみなのを聞いてもらいたい気持ちです"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "夏休みが楽しみですね。どんなことをしたいですか？",
+            "emotion_transcription": "相手の予定がどんなものかワクワクしています。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "１泊２日で伊豆に行こうかなと考えています。海水浴がしたいからです。",
+            "emotion_transcription": "旅行が楽しみで、相手にどんな計画をしているのかわかってもらいたい気持ちです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "伊豆いいですね！泳ぐことがお好きですか？",
+            "emotion_transcription": "綺麗な海のイメージが想像されて嬉しい気持ちです。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "泳ぐのは好きなんですが、実は海水浴に行ったことがないんです。あなたはありますか？",
+            "emotion_transcription": "初めの海水浴にわくわくしており、相手にその感想を求めている気持ちです"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私は子供の頃に行った記憶がありますが、実は泳ぐことが苦手です。",
+            "emotion_transcription": "相手に共感する気持ちです。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうでしたか。あなたは夏休みにはどこか行く計画はありますか？",
+            "emotion_transcription": "相手はどんな夏休みの計画があるのか参考にしたい気持ちです"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "旅行の予定はまだありませんが、地元のお祭りで演奏をする予定です。",
+            "emotion_transcription": "自分もワクワクしているイベントを知ってもらいたい気持ちです。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び",
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "お祭りでの演奏ですか！すごいですね",
+            "emotion_transcription": "相手の特技に尊敬しています"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ありがとうございます。いい演奏が出来るように頑張りたいです！",
+            "emotion_transcription": "相手に応援してもらえて嬉しい気持ちです。"
+        }
+    ],
+    "dialogue_emotion": "わくわくする",
+    "dialogue_id": 389
+}

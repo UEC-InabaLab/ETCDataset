@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "HP",
+        "listener": "FN"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り",
+                    "嫌悪"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "明日の天気が悪そうでいらいらします",
+            "emotion_transcription": "いらいらします"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "気圧が下がると気分が悪くなりますよね。",
+            "emotion_transcription": "経験があるので相手の気持ちがわかります"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "なるほど。気圧は意識したことがなかったです。",
+            "emotion_transcription": "とても納得しました"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "雨の煩わしさもいらいらしますが、私は頭痛や気持ちの落ち込みなどもあって、天気が悪い日はいろいろ辛いですね。",
+            "emotion_transcription": "勘違いしてしまったかなと少し慌てました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "それは大変ですね。いい薬があると良いのですが。",
+            "emotion_transcription": "気の毒だと思います"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私は利用していないのですが、いい漢方があるという話は聞いたことがあります。悩んでいるかたは多いようですよ。",
+            "emotion_transcription": "以前耳にした話を思い出しました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "今は色々と調べる環境が整っているので、試してみるのも良いかもしれませんね",
+            "emotion_transcription": "とても良い話が聞けました"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "すぐに調べられて便利ですよね。あなたは天気が悪くてイライラする時、何か気分転換になるようなことはされていますか？",
+            "emotion_transcription": "アドバイスをいただけで嬉しい気持ちでいます"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "できるだけ早く家に帰って、ゆっくりと過ごします",
+            "emotion_transcription": "明日もそのようにしようと思います"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "それが一番ですね。気分もそうですが、体調を崩されませんようにゆっくりお過ごしください。",
+            "emotion_transcription": "自分もゆっくり過ごすことにしようと考えました"
+        }
+    ],
+    "dialogue_emotion": "いらいらする",
+    "dialogue_id": 718
+}

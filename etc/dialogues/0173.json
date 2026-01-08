@@ -1,0 +1,183 @@
+{
+    "participants": {
+        "speaker": "FE",
+        "listener": "GY"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "僕が今までやったゲームで一番恐ろしかったゲームの話を聞いてもらえますか？",
+            "emotion_transcription": "普通の恋愛ゲームに見えましたが"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はい。聞かせてください。",
+            "emotion_transcription": "相手の話に興味を持ち、聞き出そうとしています。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ニトロプラスのゲーム「君と彼女と彼女の恋。」です。",
+            "emotion_transcription": "ヒロインは二人です。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "どのようなゲームなんですか？恐ろしいということはホラーゲームですか？",
+            "emotion_transcription": "ホラー要素があるゲームなのかなと気になっています。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ホラーゲームではないですが曽根美雪のエンディングの一つが恐ろしいです。",
+            "emotion_transcription": "特殊な条件で出てきます。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "どのようなエンディングなんですか？聞くのが怖い気もしますが…。",
+            "emotion_transcription": "話が怖そうなので、少し怯えています。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "そのヒロインを裏切るとバットを持ってきて画面越しに血まみれでプレイヤーの方に話しかけてきます。",
+            "emotion_transcription": "今までで一番恐ろしかったです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖",
+                    "驚き"
+                ],
+                [
+                    "恐怖",
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "わぁ！それはグロテスクですね…。裏切りたくないヒロインです。",
+            "emotion_transcription": "血まみれというワードに驚いています。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "曽根美雪エンディングで検索すればわかりやすいです。画像も出てきます。ただ見た目はそこまで怖くないです。",
+            "emotion_transcription": "見た方が分かりやすいです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖",
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "私は血がダメなので、怖くて検索できそうにないです…。",
+            "emotion_transcription": "検索を勧められたが、断りたい気持ちになっています。"
+        }
+    ],
+    "dialogue_emotion": "恐ろしい",
+    "dialogue_id": 173
+}

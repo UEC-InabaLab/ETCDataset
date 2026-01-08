@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "BU",
+        "listener": "DT"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "信じてもらえないかもしれませんが車のカギを二か月ドアにつけっぱなしにしていました。",
+            "emotion_transcription": "エピソードをまずは共有するために書きました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "盗難とか大丈夫たったんですか？何もなくてよかったです。",
+            "emotion_transcription": "とても驚いた"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "信じられないことに大丈夫でした。妻に怒られて恥ずかしかったです。",
+            "emotion_transcription": "当時の状況を説明しました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "本当に何もなくてよかったです。普段はあまり車に乗られないのですか？",
+            "emotion_transcription": "何もなくて安心した"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんです。何もなければ2月ぐらい乗らないこともあって。もともと注意力がないので。",
+            "emotion_transcription": "質問への回答と自分の性格の表明をしました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんですね。私は結構心配性な方で、何度も確認しちゃうところがあります。",
+            "emotion_transcription": "相手のおおらかなところにちょっと羨ましさを感じる"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですか。私もそうしないと同じことがありそうで不安です。",
+            "emotion_transcription": "相手の習慣を踏まえつつ回答しました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "この正確性で助かる部分もありますが、面倒くさいと思う部分も多くて嫌になることがあります",
+            "emotion_transcription": "いい部分だけではないので、複雑な気持ち"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それも大変ですね。性格は様々ですが、私ももう少し注意深くありたいです。",
+            "emotion_transcription": "相手に同意しつつ、自分も参考にしたい旨を述べました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ご自分でもわかってらっしゃいますし、少し注意するようにすれば大丈夫ですよ！",
+            "emotion_transcription": "相手を理解して寄り添う気持ち。"
+        }
+    ],
+    "dialogue_emotion": "恥ずかしい",
+    "dialogue_id": 620
+}

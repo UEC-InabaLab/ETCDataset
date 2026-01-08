@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "HP",
+        "listener": "DZ"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "GWは11連休の人もいたそうで、とても羨ましいです。",
+            "emotion_transcription": "心の底から羨ましいと感じます。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "11連休あったら、どんなことをして過ごしたかったですか？",
+            "emotion_transcription": "その通りだと感じています"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "海外旅行に行っていたと思います。でも料金が高そうですよね。",
+            "emotion_transcription": "連休中は飛行機の料金が高くて困ります。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "そうみたいですね。今、海外旅行に行くと食事にとてもお金がかかると聞きました。",
+            "emotion_transcription": "相手の話に共感しています"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "物価も上がっているし、何と言っても円安が進行していますからね。",
+            "emotion_transcription": "円安になると海外旅行に行きにくくて困ります。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "日本にいても円安によって困ったと感じることはありますか？",
+            "emotion_transcription": "どのように考えているのか聞いてみたいです"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "スーパーなどで商品が値上がりしているのも円安が原因なのかなと思うことはありますね。",
+            "emotion_transcription": "物価高で大変だなと感じます。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "わかります。私はオリーブオイルの値上がりが厳しいと感じますが、あなたはスーパーで特に値上がりを実感する商品は何ですか？",
+            "emotion_transcription": "相手の意見を聞いてみたいと考えています"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "私はワインをよく飲むのですが、とても値上がりしたと感じています。",
+            "emotion_transcription": "とても残念な気持ちです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "私はワインを時々しか買わないので、値上がり以前との価格をスーパーで価格を見て確認してみたいと感じました。有意義な話題提供ありがとうございます。",
+            "emotion_transcription": "自分も同じ考えです。"
+        }
+    ],
+    "dialogue_emotion": "羨ましい",
+    "dialogue_id": 880
+}

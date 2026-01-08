@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "AG",
+        "listener": "EO"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "昨日車にひかれそうになったんだよね。",
+            "emotion_transcription": "恐怖した体験を共有したいと思いました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それは恐ろしい経験ですね。どのような状況だったんですか？",
+            "emotion_transcription": "詳しい内容をお聞きしたいと思いました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "青信号で渡ってたのに、右折車が突っ込んできたの。",
+            "emotion_transcription": "より詳細に状況を伝えて、恐怖への共感を得ようとしました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "前方不注意の車って多いから、青信号でも安心して渡れませんね。",
+            "emotion_transcription": "気を付けた方がいいと思ったことを伝えたかったです"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんです、青信号でも気を付けないと。",
+            "emotion_transcription": "相手の言葉に共感しようとしました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "最近は、高齢者の運転での事故や飲酒運転など多いから怖いですよね。",
+            "emotion_transcription": "交通事故の多さを伝えようと思いました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "本当に恐いですよね、近くの郵便局に高齢者の車が突っ込んだのを見たことがあります。",
+            "emotion_transcription": "自分が見たことを伝えてより強く共感していることを伝えようとしました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "アクセルとブレーキの踏み間違えはよくニュースで見ますけど、実際に目にしたことはなかったです",
+            "emotion_transcription": "相手の話題に驚いたことを伝えようと思いました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "怪我人は一人もいなかったのが幸いでした。",
+            "emotion_transcription": "状況をより詳細に伝えて、相手からの関心を引こうとしました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それは不幸中の幸いです。お互い気を付けないといけないですね",
+            "emotion_transcription": "今後、用心が必要なことを伝えたかったです。"
+        }
+    ],
+    "dialogue_emotion": "恐ろしい",
+    "dialogue_id": 463
+}

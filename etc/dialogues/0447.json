@@ -1,0 +1,182 @@
+{
+    "participants": {
+        "speaker": "HB",
+        "listener": "EF"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "誰も来ないと一人ぼっちのようで寂しいものですね。",
+            "emotion_transcription": "誰が来るのか分からないのでドキドキする気持ち"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "まちあわせですか。",
+            "emotion_transcription": "不思議な気持ち"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "はい。今外出中でカフェで待ち合わせをしています。友人が来なくて寂しいです。待ち遠しいです。",
+            "emotion_transcription": "1人の時間は悲しいくて寂しい気持ちになる。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "ずいぶん待っていますか。",
+            "emotion_transcription": "少し同情する気持ち"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "まだ15分程度ですが、待っているのはすごく長く感じます。",
+            "emotion_transcription": "遅れてくる人の気持ちを知りたくなる。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "たしかにそうですね。",
+            "emotion_transcription": "とても共感と、感心する"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "待ち合わせには遅れることはありますか？",
+            "emotion_transcription": "とても寂しい。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "よほどのことがない限り、遅れません。遅刻されることは多いです。",
+            "emotion_transcription": "残念な気持ち"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "とても誠実な方なんですね。素晴らしいですね。",
+            "emotion_transcription": "素晴らしい人だと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "誠実でありたいものです。",
+            "emotion_transcription": "前向きな気持ち"
+        }
+    ],
+    "dialogue_emotion": "さびしい",
+    "dialogue_id": 447
+}

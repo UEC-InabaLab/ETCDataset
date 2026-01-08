@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "CE",
+        "listener": "AT"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "誠実な気持ちを持ち続けるのって大変だなと年を重ねるごとに思うようになりました。",
+            "emotion_transcription": "若いころの方が物事に対して誠実だったように思うと感じています。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "年を重ねるごとに様々な経験が自分の誠実な気持ちを失ているように思えます。",
+            "emotion_transcription": "様々な思惑が重なってしまうと感じました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "経験が邪魔をしている感じに思います。",
+            "emotion_transcription": "年を重ねるごとに感じることを共感して欲しいと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "素晴らしい経験はしたいものです。",
+            "emotion_transcription": "良質な経験は何物にも代えがたいです。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はい、私も素晴らしい経験はたくさんしたいと思っています。",
+            "emotion_transcription": "経験したいことの共有ができました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "最近した素晴らしい経験ってどんなのですか？",
+            "emotion_transcription": "素晴らしい経験はどんなものか疑問に思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そういえば最近そんな経験がないです。何かそんな経験最近ありましたか？",
+            "emotion_transcription": "経験したいないのでもどかしい気持ちになりました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ありがとうって言われたときはうれしくなりました。それぐらいです。",
+            "emotion_transcription": "感謝の気持ちは人を幸せにします。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ありがとうって言葉好きです。たくさん言いたいし、言われたいですよね。",
+            "emotion_transcription": "好きな言葉の共有ができました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "本当にそうです。感謝されるとうれしいです。",
+            "emotion_transcription": "感謝は誠実な気持ちの第一歩です。"
+        }
+    ],
+    "dialogue_emotion": "誠実な気持ち",
+    "dialogue_id": 667
+}

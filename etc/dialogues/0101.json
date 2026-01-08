@@ -1,0 +1,186 @@
+{
+    "participants": {
+        "speaker": "GA",
+        "listener": "GY"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "パソコンのキーボードをアマゾンで買ったら、それも壊れていました。",
+            "emotion_transcription": "楽しみにしていたのに、残念です"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それは最悪ですね。返品はできたのですか？",
+            "emotion_transcription": "壊れていたとのことだったので、返品はできたのか気になりました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り",
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ",
+                    "怒り"
+                ],
+                [
+                    "悲しみ",
+                    "怒り"
+                ]
+            ],
+            "utterance": "それで、メーカー側に、交換依頼したら、在庫切れで一月以上先と言われたのです。",
+            "emotion_transcription": "絶望的な気分。もっと怒ってやりたいです"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "怒り",
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ",
+                    "驚き"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "ひどいですね。そのメーカーは低評価を付けたくなりますね。",
+            "emotion_transcription": "ひどいメーカーもいるものだなと思って、悔しい気持ちに共感しました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "そうなのです。ネット販売はトラブルとほんと大変ですね・・",
+            "emotion_transcription": "ネット販売は、あんまり高いものは頼めないな・・・"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。私も以前、買った商品が届かなかったことがありました。",
+            "emotion_transcription": "自分の経験も話したくなりました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "確かに、それありますね。特にフリマとか個人売買は怖いです。",
+            "emotion_transcription": "残念な気持ちが、ふつふつと湧いてきました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "わかります。私が買った商品は中国から取り寄せだったのですが、海外のメーカーも気をつけた方がいいですよ。",
+            "emotion_transcription": "自分の経験から、注意喚起をしたくなりました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "わかります。海外はもちろんですが、中国はなおさら、怪しいんですよね・・",
+            "emotion_transcription": "海外の人との会話は特に怖いな・・"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ですよね。それから商品の発送元はしっかり調べるようになりました。",
+            "emotion_transcription": "ネット販売の発送元を調べた方がいいということを伝えてあげたかったです。"
+        }
+    ],
+    "dialogue_emotion": "怒る",
+    "dialogue_id": 101
+}

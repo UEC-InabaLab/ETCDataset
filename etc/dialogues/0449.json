@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "BW",
+        "listener": "ED"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "なんだか最近、すごくさびしい気持ちになることが多いんです。",
+            "emotion_transcription": "最近の寂しい気持ちを伝えたかったです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんですね。大丈夫ですか？何か理由があるんですか？",
+            "emotion_transcription": "相手を心配し、理由が気になりました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "特に何かあったわけではないんですが、ふと一人でいるときに誰かと繋がっていたいなと感じるんです。",
+            "emotion_transcription": "具体的な理由はないけど、繋がりを求めていことを知ってほしかったです"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "理由がなくても、そう感じることはありますよね。人に会いたくなる時ってありますよね。",
+            "emotion_transcription": "相手の気持ちに共感しました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "はい。漠然とした寂しさというか心がぽっかり空いたような感覚になる時があります。",
+            "emotion_transcription": "寂しさの具体的な感覚を伝えたいです"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "お辛いですね。そういう時は誰かに連絡してみたり好きなことをしたりするのもいいかもしれませんね。",
+            "emotion_transcription": "相手を慰め、解決策を提案しました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね、何か行動してみるのが大事ですよね。でも、一歩踏み出すのが億劫なんです",
+            "emotion_transcription": "提案に同意したが実行する難しさを感じていました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "分かります、そういう時もありますよね。無理せず、できることから少しずつでいいと思いますよ。",
+            "emotion_transcription": "相手の気持ちに寄り添い、無理しないことを勧めました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "あなたとこうして話しているだけでも、少し寂しさが和らぐ気がします。",
+            "emotion_transcription": "話せたことへの感謝と安心を感じていました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それは良かったです。",
+            "emotion_transcription": "励ましの気持ちを伝えたかったです"
+        }
+    ],
+    "dialogue_emotion": "さびしい",
+    "dialogue_id": 449
+}

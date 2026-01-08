@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "DQ",
+        "listener": "FX"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私は今上海にいますが、街が近代的でとても驚きました。",
+            "emotion_transcription": "相手に驚きを共感してもらいたく記載しました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私は訪れたことがないので分からないのですが、東京よりも近代的ですか？",
+            "emotion_transcription": "私が知らない場所であるため、どんなところか興味があリ質問してみました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私も東京はあまり訪れた事はないですが、同じくらいの印象を受けています。",
+            "emotion_transcription": "相手が知っている情報で驚きを伝えました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "高層ビルが建っていたり、多くの人が行き交っていたり、勝手なイメージですが凄そうですね",
+            "emotion_transcription": "相手の話から想像するに、都会的な印象を受け共感しました"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "高層ビルがとても多いです。逆に最近驚いた事はありますか？",
+            "emotion_transcription": "相手の驚きも聞きたいと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "久しぶりに体重計に乗ったら5kg増えていました…",
+            "emotion_transcription": "相手からの質問に、最近あった自分の驚いたことを返事してみました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "確かに、5キロは驚きですね。",
+            "emotion_transcription": "相手に共感の意を示しました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び",
+                    "驚き"
+                ]
+            ],
+            "utterance": "もうびっくりですよ！普通に過ごしていたはずなんですけどねぇ…",
+            "emotion_transcription": "自分への驚きと、相手が共感してくれたことへ喜びを表してみました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "逆に私は怖くて乗れないです。",
+            "emotion_transcription": "相手の話題を広げました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "気を付けてくださいね、体重計が壊れたんじゃないかと思いますから！",
+            "emotion_transcription": "相手への返信に共感するとともに、体重計への乗る強さを言ってみました"
+        }
+    ],
+    "dialogue_emotion": "おどろく",
+    "dialogue_id": 83
+}

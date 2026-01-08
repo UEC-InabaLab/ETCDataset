@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "BL",
+        "listener": "DT"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "ゴールデンウィークも終わりましたね。",
+            "emotion_transcription": "がっかりです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "終わっちゃいましたね。どこか行かれましたか？",
+            "emotion_transcription": "相手と同感と寂しい気持ち"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "今年はあまり休めなかったので遠出はできませんでしたが、実家に帰省していました。お出かけされましたか？",
+            "emotion_transcription": "ゆっくりできてよかったです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "帰省されていたんですね、ゆっくりできましたか？私は家でゆっくりしたり、掃除してました。",
+            "emotion_transcription": "ちょっと相手が羨ましい気持ち"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "親が作ってくれたご飯を食べてのんびり過ごせました。家でゆっくり過ごすのもいいですね。",
+            "emotion_transcription": "そちらもゆっくりされてたんですね。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ご飯を作ってくれるだけでありがたいでよね。はい、欲を言えばもっとゆっくりしたかったり、１日くらい出かけたかったけど混雑を思うと足が遠のきました。",
+            "emotion_transcription": "少し出かければよかったかなとちょっと後悔"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "どこも混んでいますからね。私は仕事の休みがカレンダー通りなので、すでに7月の三連休が待ち遠しいです。",
+            "emotion_transcription": "混んでいると疲れるだろうなと思います。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "次の連休は７月なんですね。次はどこにいくか計画しようかなと思います。",
+            "emotion_transcription": "相手に次の連休を教えてもらったことに感謝。今回の反省を踏まえて、次は楽しいことをしたい。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "その頃はもう夏ですね。日頃の疲れをリフレッシュしてきてくださいね。",
+            "emotion_transcription": "羽を伸ばせるといいなと思います。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "はいリフレッシュできるように計画します。次の連休が待ち遠しいです。",
+            "emotion_transcription": "ちょっと先の出来事が楽しみ。"
+        }
+    ],
+    "dialogue_emotion": "待ち望む",
+    "dialogue_id": 545
+}

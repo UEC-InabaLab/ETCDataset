@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "CB",
+        "listener": "DT"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "実家に帰って母に感謝しました。",
+            "emotion_transcription": "ありがたいと思いました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "一人暮らしなどをしていると両親のありがたみがわかりますよね。",
+            "emotion_transcription": "相手に同意する。自分の両親にも感謝する気持ち。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですね。自分で生活するのは疲れて親の偉大さを感じます。",
+            "emotion_transcription": "共感してもらえて嬉しいです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "わかります。仕事だけでもヘトヘトなのに、家事もこなさないといけないですからね。",
+            "emotion_transcription": "相手に同意。日々の生活の大変さに共感してもらいたい"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "仕事の疲れで家事ができないこともよくあって、時間に追われています。",
+            "emotion_transcription": "家事に追われているのが自分だけではないと分かり、安心しました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "私もそれで最近睡眠時間が少なくなって、疲れが取れないです。",
+            "emotion_transcription": "忙しくて、睡眠時間が取れなくて、困っているのを伝えたい"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "日々が忙しいのでより疲れが溜まりますよね。リラックスするのもなかなか難しいですね。",
+            "emotion_transcription": "睡眠時間が少ないと、眠気で活動しにくいと感じました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "その時間がなかなかないですよね。私もたまにはゆっくりしたいです。",
+            "emotion_transcription": "相手と同じような状況で共感している。疲れを取りたいという気持ち。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですよね。休みをとって好きなことができるといいですね。",
+            "emotion_transcription": "お互いにゆっくりする時間が取れればいいと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "このGWもなんだかんだゆっくり休めなかったのが残念です。",
+            "emotion_transcription": "期待が外れて残念な気持ち"
+        }
+    ],
+    "dialogue_emotion": "感謝する",
+    "dialogue_id": 439
+}

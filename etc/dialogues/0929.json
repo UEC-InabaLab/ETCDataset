@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "AN",
+        "listener": "EK"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "先日夜中に息子の具合が悪くなり救急病院に行ったんです。",
+            "emotion_transcription": "夜中不安な気持ちを思い出しました"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "それは大変でしたね。差し支えなければどのような状況だったのですか。",
+            "emotion_transcription": "ヒヤヒヤして切迫する印象です｡"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "2歳の息子がベットから落ちてしまって…。",
+            "emotion_transcription": "その時の状況を思い出しました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖",
+                    "驚き"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "転落ですか､怖いですね｡子どもは何が起こるかわからないものですね｡",
+            "emotion_transcription": "ガッカリとして焦る気持ちです｡"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "はい、とても怖くて不安でした。ですが夜勤の方が皆さん思いやりがある方ばかりで優しく支えてもらいました。",
+            "emotion_transcription": "不安だった気持ちを分かってもらって嬉しかったです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "自分も医療従事者なので､子どもさんの怪我はよく見ますよ｡",
+            "emotion_transcription": "ドキドキ不安が募る状況です｡"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなのですね、医療従事者の方には本当に感謝しかないです。少しの声かけで心が救われます。",
+            "emotion_transcription": "相手も医療従事者だと知り、感謝を伝えたくなりました"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "やはりいち早く対応してくださるご家族の方には感謝してます｡",
+            "emotion_transcription": "ありがたい感謝の気持ちでいっぱいです｡"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "お互いに早く対応するのは大切なのですね。悩みながらも夜間救急に連れて行ってよかったです。",
+            "emotion_transcription": "自分の選択が間違ってなかったとわかり安心しました"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "その対応で正解だと思います｡迅速な対応が人の命を救うと思います｡",
+            "emotion_transcription": "ホットできた安心感のあるイメージです｡"
+        }
+    ],
+    "dialogue_emotion": "思いやりを持つ",
+    "dialogue_id": 929
+}

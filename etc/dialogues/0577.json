@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "GR",
+        "listener": "FN"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "今日でゴールデンウィークも終わりですね。休み明けの時の心構えでいいものがあれば教えてください。",
+            "emotion_transcription": "休みボケへの対応法を知りたいです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。朝が辛そうなので、今日は早く寝るつもりです。",
+            "emotion_transcription": "自分の考えを提示しています"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。まずは体調を整えないといけませんね。食べ過ぎや飲み過ぎにも気をつけようかと思います。",
+            "emotion_transcription": "他にも気をつけていることがあるのかを知りたいです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "同じく、休日中、少し太ってしまったので体重を戻したいです。",
+            "emotion_transcription": "相手に共感を示しています"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私も少し太ってしまいました。私はサイクリングが趣味ですが、何か運動はされていますか？",
+            "emotion_transcription": "共通の趣味がないかを知りたいです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "普段は散歩くらいです。慢性的な運動不足を自覚しています。",
+            "emotion_transcription": "運動について自分を振り返っています"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "散歩もいいですね。私も歩きながら景色や野鳥を守るのが好きです。どんなところを歩いていますか？",
+            "emotion_transcription": "共通の趣味で話ができそうで嬉しいです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "近所なのですが、緑が多いところなので気持ちがいいですよ。サイクリングにもよさそうです。",
+            "emotion_transcription": "散歩の心地よさを伝えようとしています"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "近所に緑があるのは清々しい気持ちになりますね。老後はゆっくりと自然に囲まれて暮らしたいです。",
+            "emotion_transcription": "相手が良い環境に住んでいそうで、嬉しい気持ちになりました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "とても理想的な環境だと思います。そのように過ごしたいですね。",
+            "emotion_transcription": "将来の希望に共感しました。"
+        }
+    ],
+    "dialogue_emotion": "心構えする",
+    "dialogue_id": 577
+}

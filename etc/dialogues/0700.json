@@ -1,0 +1,183 @@
+{
+    "participants": {
+        "speaker": "FJ",
+        "listener": "FN"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私は日本人として大谷選手を誇りに思っています。",
+            "emotion_transcription": "毎日のように活躍していることについて感じたことです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "同じく、ニュースで活躍を目にすると同じ日本人として嬉しくなります。",
+            "emotion_transcription": "相手の考えに同調しています"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですよね。二刀流というのも凄いことだと思います。",
+            "emotion_transcription": "相手の共感を更に得ようとしています。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "よく言われていますが、まるで漫画の世界の人のようですよね。",
+            "emotion_transcription": "選手としての能力の凄さを実感しています。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び",
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "現実の世界に存在しているというのが驚異的な事です。",
+            "emotion_transcription": "相手に共感しながら更に話しかけています。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "喜び",
+                    "驚き"
+                ]
+            ],
+            "utterance": "しかもそれが日本人なのですから凄いことですよね。今後どんな活躍をしてくれるのか、期待も高まります。",
+            "emotion_transcription": "相手と気持ちを同じくして、驚きを強めています"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "その通りですね。人柄も良く、子供たちに夢も与える存在ですものね。",
+            "emotion_transcription": "将来への期待を語りかけています。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び",
+                    "驚き"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "彼の活躍で、野球を始めたいと思う子供も増えていそうですね。",
+            "emotion_transcription": "本当にすごい選手なんだなと改めて実感しています"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "スタジアムへ足を運ぶ事は出来ませんが、これからもテレビの前で応援しようと思います。",
+            "emotion_transcription": "率直に頑張ってもらいたい気持ちを伝えています。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "私も頑張っている姿をテレビで応援して、元気をもらおうと思います。",
+            "emotion_transcription": "選手の活躍がより楽しみになりました"
+        }
+    ],
+    "dialogue_emotion": "誇りに思う",
+    "dialogue_id": 700
+}

@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "GN",
+        "listener": "DY"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "街で新車を見かけるととてもうらやましいです。",
+            "emotion_transcription": "新車について相手はどのような感情を持っているのか聞いてみたいです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんですね、新車の購入を検討されているんですか？",
+            "emotion_transcription": "相手が車が好きなのか興味があるので聞こうと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。もう車が10年以上で10万km以上なんですよ。",
+            "emotion_transcription": "車が古いことを相手にも伝えたい\n気持ちです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "結構長く乗られたんですね、うちも10年近く乗っていますがあまり車に詳しくなくて。次にほしい車は大体決めているんですか？",
+            "emotion_transcription": "相手の車と同じくらい乗っているので自分の家も同じような状況だと伝えたいと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "カローラクロスという車が欲しいです。",
+            "emotion_transcription": "相手に欲しい車を明確に伝えたい気持ちになりました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "いいですね。欲しい車が決まっているなら買うのに色々と調べているだけでも楽しいですよね。",
+            "emotion_transcription": "相手の車の希望がわかったので楽しみな気分を共感したいとおもいました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうなんですよ。ネットやyoutubeを見ているだけでも楽しいです。",
+            "emotion_transcription": "相手の発言に対して楽しさが増してきました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "わかります。何か欲しいものについて調べていると時間を忘れて調べてしまいますよね。",
+            "emotion_transcription": "相手の楽しみな気持ちが伝わってきたので私も同じ経験を伝えたくなりました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "はやくカローラクロスを購入したくなりました。",
+            "emotion_transcription": "相手の発言を聞いてさらにワクワクしてきました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "是非、素敵な車をはやく購入できることを祈っています。",
+            "emotion_transcription": "相手の楽しみが伝わってきたので応援したい気持ちになりました。"
+        }
+    ],
+    "dialogue_emotion": "羨ましい",
+    "dialogue_id": 586
+}

@@ -1,0 +1,182 @@
+{
+    "participants": {
+        "speaker": "EQ",
+        "listener": "DP"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "明日、明後日、警報級の大雨だそうで、心配しています。",
+            "emotion_transcription": "さっきテレビを見て心配になったことを、伝えてみました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "そうなんですね！教えて頂いてありがとうございます。",
+            "emotion_transcription": "知らない情報を聞けてもっと詳しく知りたい。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "うちは家の近くに大きな川がありまして。今は整備されましたが、昔は何度も床上浸水したんです。",
+            "emotion_transcription": "昔、大変だったことを思い出しました。相手は、どんな地域の方なのかなあと思います。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "大きな川があると雨のたびに浸水しないかと怖くなりますよね。",
+            "emotion_transcription": "同意して反応を見たい。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんです。庭にお水をまかなくていいのは、助かるんですけれど。",
+            "emotion_transcription": "水まきをしなくてすむのは、いいところだなあと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "またまた、庭の水まきどころじゃ無いじゃないですか。",
+            "emotion_transcription": "意外な発言に驚く心境。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "近頃、猛暑なので、庭の水まきも大変なのです。雨が上がったら、夏みたいに暑くなって、それが続くんですって。",
+            "emotion_transcription": "雨上がりの気温上昇も思い出して、憂鬱になりました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "大雨も心配ですが、日照り続きも心配ですものね。",
+            "emotion_transcription": "違う心配事にも同意する思い。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "今から暑くなってしまって、今年の猛暑も心配ですね。お互いに体調に気を付けましょうね。",
+            "emotion_transcription": "夏の暑さを考え始めて、ますます憂鬱になりました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "お気遣い頂きありがとうございます。",
+            "emotion_transcription": "優しい声掛けに安堵する気持ちを伝えたい。"
+        }
+    ],
+    "dialogue_emotion": "懸念する",
+    "dialogue_id": 970
+}

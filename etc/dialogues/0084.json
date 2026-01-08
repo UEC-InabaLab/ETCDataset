@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "AG",
+        "listener": "GS"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "昨日、高校時代の友人に20年ぶりに偶然出会いビックリしました。",
+            "emotion_transcription": "驚きを伝えようとしました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "20年はずいぶん久しぶりですね。",
+            "emotion_transcription": "かなり久しぶりだから、相当驚いたと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "お互いあまり変わっておらず、すぐ気づきました。",
+            "emotion_transcription": "相手に驚きと懐かしさを共感してもらおうとしました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "久しぶりの再会に、テンションがあがりそうですね。",
+            "emotion_transcription": "相手はきっと驚きと喜びの両方の気持ちをもったと想定しました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はい、思わず大声出しちゃいました。",
+            "emotion_transcription": "相手にテンションが上がったことを伝えようとしました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ゆっくりお話をされたのですか？",
+            "emotion_transcription": "相手が再会の後、どうしたのか興味を持ちました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そのまま喫茶店に行ってお茶しながらゆっくり話しました。",
+            "emotion_transcription": "友好を深めたことを伝えて共感してもらおうとしました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "楽しい時間を過ごされたのですね。",
+            "emotion_transcription": "状況を振り返り、相手に共感を示しました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "最高の時間でした！",
+            "emotion_transcription": "相手に当時の喜びを強く伝えようとしました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "素晴らしいです！",
+            "emotion_transcription": "相手の喜びを強く感じました。"
+        }
+    ],
+    "dialogue_emotion": "おどろく",
+    "dialogue_id": 84
+}

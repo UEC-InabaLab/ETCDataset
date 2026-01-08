@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "HC",
+        "listener": "HG"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "昨日、10年ほど前に住んでいた所へ遊びに行ってきましたが、とても懐かしくワクワクしました。",
+            "emotion_transcription": "ドキドキとしました"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "それは素晴らしいですね。どんな場所なのでしょうか？",
+            "emotion_transcription": "相手の話に興味が湧き、質問しました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "海があり、その海を毎日見ながら生活していました。色々な楽しい思い出が蘇ってきました。",
+            "emotion_transcription": "ワクワクしました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "海を見ながらだなんて、なんだかロマンチックですね。印象に残っている思い出にはどんなものがありますか？",
+            "emotion_transcription": "素敵な話だと感じ、さらに質問してみました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "毎朝海から見える朝日がとても綺麗で神秘的で、心に残る思い出の1つです。",
+            "emotion_transcription": "心が奇麗になります。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "素敵な思い出ですね。ゆっくりとした時間を過ごせたのでしょうか？",
+            "emotion_transcription": "相手の話に感動し、興味が湧いたので過ごし方を質問しました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "日帰りでしたが心穏やかに懐かしさと共にゆっくりと過ごしてきました。",
+            "emotion_transcription": "穏やかになりました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "心身共にリラックスできたようでなによりです。ゆっくり過ごすのが一番いいのかもしれませんね。",
+            "emotion_transcription": "相手を慮り、話に同意しました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "リラックスは大事だなと感じる一日でした。",
+            "emotion_transcription": "ゆっくりとした気持ちになりました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "懐かしい思い出に浸りながらリラックスできたなんで、羨ましいです。",
+            "emotion_transcription": "相手が過ごした一日を羨ましく思いました。"
+        }
+    ],
+    "dialogue_emotion": "懐かしい",
+    "dialogue_id": 559
+}

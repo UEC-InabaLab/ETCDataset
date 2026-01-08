@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "EC",
+        "listener": "AG"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私が楽しいことは、カラオケスナックで歌を思いっきり歌う事です。",
+            "emotion_transcription": "自分の好きな事を知って欲しいという気持ちです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "それは楽しいですね、どんな曲を歌うのですか？",
+            "emotion_transcription": "相手の楽しみに共感し、もっと知りたいと思い質問をしました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "福山雅治とか平井堅とかMISIAなどを良く唄います。",
+            "emotion_transcription": "さらに話が展開するようにと思い、複数のアーティスト名をあげました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "喜び",
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "歌うのが難しい曲が多いのではないですか？",
+            "emotion_transcription": "相手の回答に対して驚き、もっと知りたいと思い質問を重ねました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "歌は決して上手くはありませんが雰囲気で勝負です。カラオケとかは行かれますか。",
+            "emotion_transcription": "逆に質問をして、相手の事を知りたいと思っています。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "カラオケはしばらく行ってないです。あんまり歌うのが得意ではないので。",
+            "emotion_transcription": "相手の質問に対して、相手の楽しみと相反することだが素直に伝えようとしました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "私も4，5年前まではそんな感じでしたが、今はカラオケ好きと呼ばれています。",
+            "emotion_transcription": "相手と同じ様な状況だった事を説明し、きっかけがあれば変わるかもという気持ちをあらわしています。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "好きなものを見つけることができて良かったですね。",
+            "emotion_transcription": "相手に対して共感と羨望があることを示しました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "本当に自分でもそう思います。今週は明後日歌いに行く予定です。",
+            "emotion_transcription": "相手のコメントに同意できたのでその気持を返しています。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "好きなことに没頭できるのは本当に素敵です。",
+            "emotion_transcription": "相手に対して、素敵なことであることを伝えました。"
+        }
+    ],
+    "dialogue_emotion": "楽しい",
+    "dialogue_id": 553
+}

@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "AR",
+        "listener": "FS"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "物価が下がることを待ち望んでいます。",
+            "emotion_transcription": "庶民の辛さを共感したいです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "物価高騰で色々なものが上がっていますからね。",
+            "emotion_transcription": "相手の意見に同調しました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "短期間にこれほど上がるとは思いませんでした。",
+            "emotion_transcription": "予想外の気持ちを込めました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "確かにそうですね。特にお米の高騰は信じられませんでした。",
+            "emotion_transcription": "相手の意見に同調する気持ちを伝えました"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "倍近くになりましたよね。中間業者が買い占めているのが許せない気持ちです。",
+            "emotion_transcription": "なぜこうなったかと、やるせないです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "ほんとに許せないですよね。自分もめちゃくちゃ腹が立ちます。",
+            "emotion_transcription": "自分の怒りを共感してもらいたいと思いました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "農家の方々の利益になるならまだしも、転売に近い行為をして価格を釣り上げるのはどうかとおもいます。政府もどうにかしてほしいですね。",
+            "emotion_transcription": "正しいことをした人が報われてほしいです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "転売ヤーはなんとかならないのかなと思います。国レベルでほんとにどうにか対策してほしいです。",
+            "emotion_transcription": "自分の転売に対する気持ちを共感してほしいと思いました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "チケットやファッションでも、本当に欲しい人が適正価格で買えないのは良くないですよね。",
+            "emotion_transcription": "政府にはルールをきっちりしてほしいです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "適正価格で買えないというのが許せないですよね。",
+            "emotion_transcription": "相手の意見に同調する気持ちを伝えました"
+        }
+    ],
+    "dialogue_emotion": "待ち望む",
+    "dialogue_id": 540
+}

@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "EQ",
+        "listener": "BV"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "髪を長くしているのですが、朝、なかなかキマらなくて、イライラしてしまいます。",
+            "emotion_transcription": "自己紹介代わりに、普段の自分のことを書いてみました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "朝忙しい時にきまらないと確かにいイライラしますよね",
+            "emotion_transcription": "相手の気持ちに同調したいと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "あせると、ますますキマらないんですよね。でも、シャンプーを変えたら、かなり楽になりました。",
+            "emotion_transcription": "髪の毛の話はあまり広がらないかなあと思い始めています。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "どんなシャンプーにしたのですか",
+            "emotion_transcription": "相手の話題に誠実に答えたいと思いました"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "仕上がりがサラサラ系のシャンプーで、洗っている時も、指通りがいいものです。",
+            "emotion_transcription": "シャンプーのことを詳しく聞かれるとは、思っていませんでした。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "なるほど、さらさら系なんですね。参考になります。",
+            "emotion_transcription": "相手の話に誠実に答えたいと思いました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "今まではトリートメントが要だと思っていましたが、このシャンプーは、トリートメントしなくても、まとまってくれるのです。",
+            "emotion_transcription": "シャンプーは種類が多いので、話が広がるかもしれないなあと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "それはすごいですね。トリートメントが必要ないなんて！！",
+            "emotion_transcription": "相手の面白い話にワクワクしました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "たどり着くまで、長かったです。巷にはこんなに種類があって、きっと、その種類だけ、違った髪質があるんでしょうね。",
+            "emotion_transcription": "自分に合うシャンプーが見つかった時の、嬉しい気持ちを思い出しました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "それは良かったですね",
+            "emotion_transcription": "相手の喜びに寄り添いたいと思いました"
+        }
+    ],
+    "dialogue_emotion": "いらいらする",
+    "dialogue_id": 716
+}

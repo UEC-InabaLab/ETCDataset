@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "HP",
+        "listener": "BV"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "日本人として、大谷選手の活躍を誇りに思います。",
+            "emotion_transcription": "活躍しているニュースを見るのが楽しみです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "私もそうです。大谷選手のニュースを観るのが楽しみです。",
+            "emotion_transcription": "相手の話に\n心から同意していることを示したかったです"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "時差があるので、なかなか試合を観戦できないのでニュースを見るしかないですね。",
+            "emotion_transcription": "会社に行くのが余計に面倒に感じます。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "私もそうです。ニュースのリンクの大谷選手のホームランを観るとスカッとします",
+            "emotion_transcription": "相手の話に沿って話したいと思いました"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "今年も大活躍しているみたいなので、嬉しく思います。この後も続けてがんばってほしいですね。",
+            "emotion_transcription": "本当にすごい選手だと感心しています。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "あと5年は頑張って欲しいです。大谷選手に続いていろんな選手がMLBで活躍してうれしい限りです。",
+            "emotion_transcription": "相手の気持ちへ同意を示したいと思いました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び",
+                    "驚き"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですね。毎年のようにMLBに挑戦する選手が出てくるので楽しみですね。",
+            "emotion_transcription": "日本人の野球選手のレベルが向上して凄いと思います。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ＷＢＣのおかげで、どんどん日本のプロ野球選手がアメリカにわたっていますよね。",
+            "emotion_transcription": "相手の話に沿って話したいと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "来年には次のＷＢＣの大会があるようなので、今からとても楽しみです。",
+            "emotion_transcription": "とても楽しみで待ちきれない気持ちです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "もちろん私もＷＢＣを楽しみにしています",
+            "emotion_transcription": "相手の同意に誠実に答えたいと思いました"
+        }
+    ],
+    "dialogue_emotion": "誇りに思う",
+    "dialogue_id": 704
+}

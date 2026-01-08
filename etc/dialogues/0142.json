@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "EP",
+        "listener": "BL"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "母の日に日頃の感謝の気持ちを伝えるため何かプレゼントしたいのですが、毎年何がいいか悩みます。",
+            "emotion_transcription": "何かアイデアがないか教えて欲しいと思いました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "毎年ですからね。私も同感です。今年は何を贈るのですか？",
+            "emotion_transcription": "同じ考えの方がいてうれしいです。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "花と果物かなと思っているのですが、結局毎年同じです・・・",
+            "emotion_transcription": "それでもいいと同意して欲しいという気持ちがあります。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "でもちゃんと考えていらっしゃって、素晴らしいです。",
+            "emotion_transcription": "ちゃんと考えていてすてきです。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "なんだかんだで、毎年顔を見せるだけでいいのかもしれないのですね。",
+            "emotion_transcription": "肯定的に言ってもらえて嬉しい気持ちになりました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんですよね、自分も親になってそう思います。そのためではないのですが、私も今、帰省中です。",
+            "emotion_transcription": "ほんとうにそう思います。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "残念ながら私自身は子どもから何もないのですが、元気でいてくれればそれでいいと思っちゃいますもんね。",
+            "emotion_transcription": "別の視点から考えてみようと思いました、"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "いろんな事件や事故が多いですから、本当にそう思ってしまいますね。みなさんお元気にされているのですか？",
+            "emotion_transcription": "元気に過ごすのが一番ですね。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "身近な人はもちろん当たり前に生活できることに感謝しなきゃですね。",
+            "emotion_transcription": "広い視野で「感謝」することの大事さを思いださせてもらいました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですね。当たり前に思わず日々に感謝です。",
+            "emotion_transcription": "感謝は大事ですね。"
+        }
+    ],
+    "dialogue_emotion": "感謝する",
+    "dialogue_id": 142
+}

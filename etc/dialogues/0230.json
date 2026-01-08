@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "CC",
+        "listener": "AF"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "最近、いいニュースがなくて不安に思います。",
+            "emotion_transcription": "不安な気持ちを共有したいです"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "ホントですよね、事故だったり、物価高だったり。気が滅入ってしまいそうですよね。",
+            "emotion_transcription": "相手の話に共感し、自分の感情も伝えてみました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "分かります。ニュースを見てると事故はこんなにも起こっているのかとどんどん不安になります。",
+            "emotion_transcription": "気持ちを理解してもらえて安心しています。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "不安を解消するような、何か楽しい出来事は最近ありましたか？",
+            "emotion_transcription": "暗い話ばかりでは何なので、明るい話につながるよう転換してみました"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "今休みなので買い物等で気分転換しています。",
+            "emotion_transcription": "楽しい出来事は難しいです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "買い物って楽しいですよね、ストレスも発散できるし、不安な気持ちも和らぎますね！",
+            "emotion_transcription": "相手の行動に共感するとともに、不安が解消できる楽しさに共感をしました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "はい！家具や小物を見ていると買わなくても楽しい気持ちになります。",
+            "emotion_transcription": "楽しい感情が合っていて嬉しいです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "気分転換って大事ですよね！私も不安な気持ちを解消するために買い物に行って来ようかな！",
+            "emotion_transcription": "相手の気持ちが分かり同感し、自分も同じような気持ちの変化を得たいと思いました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ぜひ！何も買わなくても気持ちが和らぎますよ。いい買い物になることを願っています。",
+            "emotion_transcription": "気持ちが共有できて嬉しいです"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ありがとうございます！お互い不安な気持ちを解消すべき楽しみましょうね！",
+            "emotion_transcription": "相手から嬉しい言葉をもらえて嬉しい気持ちと、お互いに幸せな気持ちになれるよう気持ちを込めて返信しました"
+        }
+    ],
+    "dialogue_emotion": "不安に思う",
+    "dialogue_id": 230
+}

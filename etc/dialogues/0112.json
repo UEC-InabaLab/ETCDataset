@@ -1,0 +1,182 @@
+{
+    "participants": {
+        "speaker": "EN",
+        "listener": "EO"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "やっぱり大阪万博は活気がありました｡",
+            "emotion_transcription": "人の混雑が半端なかったです｡"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私はTVで見ましたが、実際に大阪万博にいかれたんですか？",
+            "emotion_transcription": "大阪万博について詳しく聞きたいと思いました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "はい､行きました｡パレードがすごく綺麗に感じました｡",
+            "emotion_transcription": "光と音が迫力満点でした｡"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうなんですね。地方に住んでいるとなかなか行く機会がないので羨ましいです。どんなパビリオンに行きましたか？",
+            "emotion_transcription": "羨ましさと大阪万博について詳しく聞きたいと思いました"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "人工知能とパレードが楽しめました｡",
+            "emotion_transcription": "未来を感じる華やか印象でした｡"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "人工知能はどんな展示なのですか？",
+            "emotion_transcription": "展示についてお聞きしたいと思いました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖",
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "AIのブースやロボットがメインで華やかでした｡",
+            "emotion_transcription": "ロボットの動きがやや不気味でした｡"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんですね。他国のパビリオンなどいかれましたか？",
+            "emotion_transcription": "もっと詳しく起きいしたいと思いました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び",
+                    "驚き"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "海外のブースよりも日本の文化を特に楽しみました｡",
+            "emotion_transcription": "やはり日本の着物や扇子が素晴らしかったです｡"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "日本の技術力は世界に誇れると思うので私も行ってみたいです",
+            "emotion_transcription": "大阪万博に行ってみたいことをお伝えしたかったです"
+        }
+    ],
+    "dialogue_emotion": "誇りに思う",
+    "dialogue_id": 112
+}

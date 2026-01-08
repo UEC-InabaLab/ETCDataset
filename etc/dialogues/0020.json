@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "AH",
+        "listener": "CA"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "私はこう見えて、釣りには自信があるのです。釣りって楽しいんですよね。",
+            "emotion_transcription": "自分の好きなジャンルですので、楽しい気持ちで会話出来そうな気分です。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "私も子供の頃は釣りに行きましたので、その気持ちはなんとなくわかります。",
+            "emotion_transcription": "自分もこの話に同感するような感情です。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そして、私は海釣りが専門なんです。",
+            "emotion_transcription": "話題について、自信を持って話することが出来ていました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "海で釣ると言うのは船か何かで行くのでしょうか。",
+            "emotion_transcription": "自分もこの話に興味が湧いています。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "私の場合、大抵は岸壁か海岸から釣りますね。これが、結構楽しいんですよ。",
+            "emotion_transcription": "好きな話題という事もあり、楽しい気分で会話できました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "なんか楽しいそうですね、それでガンガン大物を釣るんですね。",
+            "emotion_transcription": "自分も話を聞いていたら、今すぐ釣りに行きたくなりました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "大物が釣れると、それが私の釣りの自信にも繋がる訳なのです。",
+            "emotion_transcription": "話足りない部分もあるので、もっと聞いて欲しい気分でした。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "それは、本当に自信に繋がりそうですね。聞いている私も楽しくなってきました。",
+            "emotion_transcription": "話を聞いていて、結構楽しい気分になっています。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び",
+                    "嫌悪"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "また、暇があれば、一度子供に戻った気分で釣りをしてみたらどうでしょうか？本当に楽しいですし、慣れてくるとそれが自信になり自分の誇りにもなります。",
+            "emotion_transcription": "もう少し詳しく話をしたかったですが、気分は結構良かったです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "こんな話をしていると、私も釣りに行きたい気分になりました。",
+            "emotion_transcription": "全体的に満足できる会話だったと思いました。"
+        }
+    ],
+    "dialogue_emotion": "自信がある",
+    "dialogue_id": 20
+}

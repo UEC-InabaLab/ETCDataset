@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "GO",
+        "listener": "CJ"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "あなたは人生で一番誰に感謝していますか？",
+            "emotion_transcription": "どのような回答がくるのかワクワクしています。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "自分をここまで育ててくれた両親です。",
+            "emotion_transcription": "相手が感謝している人を聞いてきたのでこたえ、相手の反応を見てみたいと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "私もそう思うのですが、時々忘れてしまって両親にきつい態度をとってしまいます。",
+            "emotion_transcription": "大事な事に気づかされた感じでハッとしました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですか。そんなこともたまにありますね。でも感謝はしているんですよね？",
+            "emotion_transcription": "自分と同様で相手が両親に感謝していることがわかってちょっとほっとしています。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "もちろん感謝しています。",
+            "emotion_transcription": "相手はあまり強くあたらないのかと少し疑問に感じました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ほかに感謝している人とかはいますか？もしくは恩人とかいますか？",
+            "emotion_transcription": "両親以外で感謝をしている人がほかにいるのか気になりました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "最初の会社でお世話になった先輩にはとても感謝しています。",
+            "emotion_transcription": "当時の事を思い出して懐かしい気持ちになりました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "なるほど。先輩のどんなところに感謝しているのですか？",
+            "emotion_transcription": "お世話になった先輩に対しての考え方を聞きたいと考えています。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び",
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "仕事のことだけでなく様々なことを優しく教えてくれました。",
+            "emotion_transcription": "その先輩を思い出し、会いたくなりました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "いろいろなことを教えてくれた先輩はさぞ、あなたにとっていい存在だったのでしょう。すばらしいと思います。",
+            "emotion_transcription": "相手が感謝を忘れない人であることが会話から伝わり、気持ちよく終われました。"
+        }
+    ],
+    "dialogue_emotion": "感謝する",
+    "dialogue_id": 143
+}

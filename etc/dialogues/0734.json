@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "BW",
+        "listener": "DE"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "引っ越してきてからまだ慣れなくて、なんだかさびしい気持ちです。",
+            "emotion_transcription": "新しい環境での孤独感と、それを相手に打ち明けたかったです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "引っ越しされたんですね。さびしいと感じるのも無理ないですよ。",
+            "emotion_transcription": "相手の状況に共感し、その感情を受け止めました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "友達が近くにいないので、気軽に話せる人がいなくて。",
+            "emotion_transcription": "寂しさを感じる具体的な理由を説明しました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "そうですよね、話し相手がいないと寂しいですよね。何か新しい場所にはもう行ってみましたか？",
+            "emotion_transcription": "相手の気持ちに寄り添いつつ、状況を改善するためのきっかけを提案したかったです。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "まだあまり出かけられていないんです。どこに行けば良いかも分からなくて。",
+            "emotion_transcription": "どうすれば良いか分からない戸惑いを伝えました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "最初は分からないことだらけで大変ですよね。もし興味があれば、地域のイベント情報とか調べてみるのも良いかもしれませんよ。",
+            "emotion_transcription": "具体的な情報収集の方法を提案したかったです。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "なるほど、地域のイベントですね。探してみようと思います。",
+            "emotion_transcription": "相手の提案に興味を持ち、前向きに検討する姿勢を示しました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "はい、何か見つかると良いですね。",
+            "emotion_transcription": "相手の行動を後押ししました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ありがとうございます。",
+            "emotion_transcription": "安心した気持ちを伝えました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "少しでも早く新しい場所で安心できると良いですね。",
+            "emotion_transcription": "相手が新しい環境に馴染めるよう願う気持ちを示しました。"
+        }
+    ],
+    "dialogue_emotion": "さびしい",
+    "dialogue_id": 734
+}

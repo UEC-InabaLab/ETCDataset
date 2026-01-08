@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "FQ",
+        "listener": "BS"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "最近、太ってきてしまってへこんでいます。",
+            "emotion_transcription": "慰めて欲しいなと思ってしまいました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "そうなんですね。わたしもだいぶ増量してしまい、鏡を見る度にへこみます……。",
+            "emotion_transcription": "相手に非常に共感しています。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "本当ですか。職場の方とかみんな痩せていて、何でって思っています。",
+            "emotion_transcription": "仲間がいて嬉しい気持ちになりました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "うちの職場もすらっとした方が多いので、正直羨ましいと思ってしまいます！体質などもあるんでしょうが、皆さんよく食べてるのに不思議です。",
+            "emotion_transcription": "相手に更に共感しています。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "全く同じです。彼女たちは毎日、外でランチしているのに痩せています。",
+            "emotion_transcription": "相手も同じ状況で驚きました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "無い物ねだりとはいえ、やっぱり自分と比べてしまうところはありますね。",
+            "emotion_transcription": "自分の気持ちがあまり落ちないようにしています。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですよね。運動は何かなさっていますか？",
+            "emotion_transcription": "相手が運動に興味があるのかを知りたくなりました"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "1日1度は筋トレなど軽く運動をしているのですが、「健康を保つ」が精一杯で「痩せる」まではたどり着けません。",
+            "emotion_transcription": "前向きにできることからと思い直しました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "素晴らしいですね。仰る通り体質もありますので、あまり気にしないようにしましょう。",
+            "emotion_transcription": "似たもの同士で慰め合いたいと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "はい、一番は健康で機嫌良く過ごせるのが一番ですね！",
+            "emotion_transcription": "前向きな気持ちになりました。"
+        }
+    ],
+    "dialogue_emotion": "打ちのめされる",
+    "dialogue_id": 899
+}

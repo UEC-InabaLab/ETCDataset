@@ -1,0 +1,183 @@
+{
+    "participants": {
+        "speaker": "GE",
+        "listener": "BL"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "4月2日に、高齢の母が施設で亡くなりました。とても悲しいです。",
+            "emotion_transcription": "まだ悲しい気持ちでいっぱいです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "お淋しいですね。大丈夫ですか？",
+            "emotion_transcription": "悲しいだろうなと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "ありがとうございます。そうですね。通信制大学のテストがあるので、何とかそれに気持ちを向けています。",
+            "emotion_transcription": "自分を保つためにそこに神経を集中させているんだなと改めて思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "お母様、おいくつだったんですか。",
+            "emotion_transcription": "さみしいだろうなと思います。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "95歳でした。",
+            "emotion_transcription": "なんだか少し恥ずかしい気持ちです。結構長寿なのに、ずっと一緒に暮らしてきたので、悲しいのですが、、、。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "周りから見れば大養生ですね。それでもご本人にしてみればさみしいものですよね。私の祖母も昨年、95歳で亡くなりました。",
+            "emotion_transcription": "素晴らしいです。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "そうだったんですね。あなたはその時どんな気持ちでしたか？",
+            "emotion_transcription": "40年前に祖母を亡くした時のことを思いました。少し後で悲しい気持ちで一杯になりました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "祖母は認知症で最後は私のこともわからなかったのですが、成人するまでは一緒に暮らしていたので、思い出が蘇ってきて寂しかったです。",
+            "emotion_transcription": "つらかったです。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "随分と長い間ご一緒に暮らされていたんですね。それは寂しいですね。",
+            "emotion_transcription": "私も亡き祖母と長く暮らして、孝行したかったなと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "そちらも無理せず、勉強も頑張ってくださいね。",
+            "emotion_transcription": "乗り越えてほしいです。"
+        }
+    ],
+    "dialogue_emotion": "悲しい",
+    "dialogue_id": 713
+}

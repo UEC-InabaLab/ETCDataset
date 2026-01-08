@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "AG",
+        "listener": "HA"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "友達の誕生日を忘れてて、プレゼントを渡しそびれちゃった。",
+            "emotion_transcription": "後ろめたいことについて相手に状況を伝えて、共感を得ようとしました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それは気まずいですね。うしろめたいですか？",
+            "emotion_transcription": "相手は今こういう感情かなと推測しました。どういう気持ちか気になりそう聞いてみました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "自分はプレゼントをもらっていたので、だいぶ気まずいですね。",
+            "emotion_transcription": "状況をより詳細に伝えて、自分の当時の気持ちを理解してもらおうとしました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "今からでもプレゼントを渡してみたらどうでしょうか？",
+            "emotion_transcription": "気まずいというのでその感情を解消できるように提案してみました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "もう三ヶ月過ぎてるのですが、大丈夫ですかね？",
+            "emotion_transcription": "状況を伝えつつ、相手に賛否を判断してもらおうとしました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ぜんぜん大丈夫ですよ。お友達も喜ぶと思います。",
+            "emotion_transcription": "相手を鼓舞したくてそう回答しました。勇気を出してほしいと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "それを聞いて安心しました。",
+            "emotion_transcription": "相手の言葉を聞いて、心のわだかまりが開放されたことを伝えました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "はい。お友達にどういうプレゼントをしますか？",
+            "emotion_transcription": "安心してくれて嬉しいです。\nどういう贈り物をするか聞いてみたくなりました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "実はまだ決めていなくて困っています。",
+            "emotion_transcription": "相手に意見を聞こうと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "そうなんですね。食べ物とかどうでしょう？",
+            "emotion_transcription": "困っているようなのでアイデアを出してみました。相手がどう思うか心配ですが良い考えだと思いました。"
+        }
+    ],
+    "dialogue_emotion": "うしろめたい",
+    "dialogue_id": 473
+}

@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "DI",
+        "listener": "AR"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "最近近隣の警察の悪いニュースがあって怖いです",
+            "emotion_transcription": "最近の怖かったことを思い出して"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "どのようなニュースですか？よかったら聞かせてください。",
+            "emotion_transcription": "相手の言う事に興味を示しています。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖",
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ストーカーのニュースで警察があまり動かなかったとか…",
+            "emotion_transcription": "促されて話を詳しく思い出そうとしました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "もちろん両者の意見を聞かなくてはいけませんが、警察の怠慢はよく言われていますよね。",
+            "emotion_transcription": "あくまで冷静な判断をしたいと思っています。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "警察は取り越し苦労であっても早く動いても問題ないようにも思います",
+            "emotion_transcription": "リスナーの発話から過去の事象を思い出して"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "たしかに何があってからでは遅いですからね。個人的には捜査する人員が足りているのかどうかも心配です。",
+            "emotion_transcription": "警察の立場でも考えてみたいという気持ちです。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そう言えばそうですね、操作人員は多いに越したことはありません。",
+            "emotion_transcription": "リスナーの発話から現在の状況を考えて"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "同感です。そのためには、警察官の成り手を増やさなくては根本的な解決にはならない気もします。",
+            "emotion_transcription": "自分なりに解決策を提示したいと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "近年警察官の増員というのはあまり聞きませんね",
+            "emotion_transcription": "リスナーの話から振り返って想像をしました"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "少子化の問題などもあり志望する人も少ないのかもしれませんね。",
+            "emotion_transcription": "残念な気持ちと仕方なさを感じています。"
+        }
+    ],
+    "dialogue_emotion": "怖い",
+    "dialogue_id": 159
+}

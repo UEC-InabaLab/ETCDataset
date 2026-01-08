@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "AJ",
+        "listener": "DU"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "ゴールデンウイークや年末に仕事だと、さびしく感じます。",
+            "emotion_transcription": "今の心境を相手に聞いてもらいたく、書きました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "周りの人が休んだり遊んだりしているときに仕事だとそうなりますよね。",
+            "emotion_transcription": "共感する気持ち"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "私は仕事人間ですが、世間が長期休暇だと、やはり休みたくなりますね。",
+            "emotion_transcription": "自分の気持ちを、少し掘り下げたく、書きました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "長期休暇中はずっと仕事で休みなしですか？",
+            "emotion_transcription": "相手に興味を持つ感じ。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ずっとでは有りませんが、仕事する事が多いですね。あなたはしっかり休みますか？",
+            "emotion_transcription": "会話が一方通行にならない様、相手の状況も知りたく、質問を振りました。。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私はだいたい休みですね。家で多少やることはありますが。",
+            "emotion_transcription": "自分のことをわかってほしいという気持ち。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私は休みだと、退屈してしまって、自分で退屈な奴だと思ってしまいます。",
+            "emotion_transcription": "自分の長期休暇に対する思いを聞いてもらいたく、書きました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "趣味などはあれば退屈しないでしょうけど。私は最近休みの日は野菜作りをしてます。",
+            "emotion_transcription": "助言する感じと私のことを知ってほしい気持ち。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "野菜作りは良い趣味ですね。土や緑に触れていると、癒されますよね。",
+            "emotion_transcription": "会話を楽しみたく、相手の話に共感を示しました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "自然と触れ合うのは気持ち的にとても良いです。仕事以外に熱中できることがあるといいかも知れませんね。",
+            "emotion_transcription": "コメントに対する同意とアドバイス"
+        }
+    ],
+    "dialogue_emotion": "さびしい",
+    "dialogue_id": 154
+}

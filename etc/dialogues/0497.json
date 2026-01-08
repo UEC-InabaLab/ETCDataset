@@ -1,0 +1,187 @@
+{
+    "participants": {
+        "speaker": "HG",
+        "listener": "FS"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖",
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "この前、部屋の中でゴキブリを見つけてしまい、本当に嫌でした。",
+            "emotion_transcription": "自分に起きた出来事を話し、同意して欲しかったです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖",
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "家の中でゴキブリを見るのはめちゃくちゃ嫌ですね。",
+            "emotion_transcription": "相手の意見に同調する気持ちを伝えました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び",
+                    "嫌悪"
+                ],
+                [
+                    "喜び",
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "そうなんですよ。処理するのが本当に嫌で嫌で仕方がありません。",
+            "emotion_transcription": "同意してもらって嬉しくなり、自分の気持ちを伝えました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ゴキブリはどうされたのですか？",
+            "emotion_transcription": "ゴキブリの処理が気になりました"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "丸めた雑誌で叩き潰しました。潰したときの感触が気持ち悪くてしょうがなかったです。",
+            "emotion_transcription": "質問に対して、自分が感じた気持ちを伝えながら状況説明しました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "うわあ、それは気持ちが悪いですね。聞いてるだけで鳥肌が立ちます。",
+            "emotion_transcription": "想像して気持ちが悪くなりました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び",
+                    "嫌悪"
+                ],
+                [
+                    "喜び",
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "しかも潰れた後もピクピクと少し動いているんですよ。生命力強すぎて引きました。",
+            "emotion_transcription": "同調してもらって嬉しくなり、さらに詳しく状況を話しました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "潰れたあとの処理も大変ですね。",
+            "emotion_transcription": "ゴキブリを殺した後の掃除が大変だと思いました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。ティッシュを何重にも重ねて掴み、ゴミ箱に捨てました。",
+            "emotion_transcription": "質問に対して同意し、詳しく状況を話しました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖",
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "いやあゴキブリは本当に苦手です。出てきてほしくないです。",
+            "emotion_transcription": "ゴキブリが苦手ということを相手に伝えました"
+        }
+    ],
+    "dialogue_emotion": "嫌悪感を抱く",
+    "dialogue_id": 497
+}

@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "HB",
+        "listener": "AR"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私にとって懐かしいアニメと言えばスラムダンクとセーラームーンですが、懐かしいアニメはありますか？",
+            "emotion_transcription": "相手が懐かしいと感じるものを知りたい気持ちです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "スラムダンクは私もよく見てました。幽遊白書、ハンターハンター、ドラゴンボールなどが思いつきます。",
+            "emotion_transcription": "もしかしたら同世代なのではないかと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "もしかしたら同世代かもしれませんね。私は30代です。",
+            "emotion_transcription": "同世代かもしれないので親しみが湧いています。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私も同じです。流行りのアニメだけで、大体世代がわかりますよね。",
+            "emotion_transcription": "やっぱりそうだったんだという気持ちです。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "このようなところで同世代の方に会えて嬉しいです。夏休みにアニメのタッチも見ていましたか？",
+            "emotion_transcription": "まさかの出会いにとても嬉しい気持ちです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "見てましたよ。歌もよく歌ってました。主題歌もその時代を反映していますよね。小室世代やつんく世代、ZARDや大黒摩季が多かった気がします。",
+            "emotion_transcription": "思い出を共有できるのは嬉しいです。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "驚きました。本当にその曲を聴いていたので。スラムダンクの主題歌は今でも好きです。",
+            "emotion_transcription": "懐かしさを共有できて嬉しい気持ちです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "スラムダンクの主題歌で個人的に好きなのは、WANDSの世界が終わるまでは、と、ZARDのマイフレンドです。",
+            "emotion_transcription": "懐かしさがどんどん蘇ってきています。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "喜び",
+                    "驚き"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "懐かしいですね！私はあなただけ見つめてるが好きでした。",
+            "emotion_transcription": "まさか同じ世代とは驚いています。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "あの曲は疾走感があっていいですよね。終盤のハイトーンもかっこいいです。",
+            "emotion_transcription": "主題歌の素晴らしさを話せてよかったです。"
+        }
+    ],
+    "dialogue_emotion": "懐かしい",
+    "dialogue_id": 850
+}

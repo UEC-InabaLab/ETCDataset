@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "GU",
+        "listener": "FJ"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "地震ばかりのことを考えてしまい、すごく恐ろしい気持ちになります。",
+            "emotion_transcription": "恐ろしい気持ちを相手に示したかったです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "最近は全国各地で起きていますもんね。本当に怖いです。",
+            "emotion_transcription": "相手の意見に強く同意しています。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖",
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "いずれ大きい地震がくるんじゃないかという気持ちが大きく怖く感じてしまいます。",
+            "emotion_transcription": "恐ろしさ怖さを相手に分かって欲しかったです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "南海トラフとか色々言われていますが、何か準備をしているかと言われると、行動には起こせていない現状です。",
+            "emotion_transcription": "自分の気持ちと現状を相手に伝えています。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんです。どこに逃げたら良いとか、そんなのも分かっていないです。何か少しでも対策はしていますか？",
+            "emotion_transcription": "恐ろしい地震の対策を聞きたかったです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "缶詰や水などを多少備蓄はしていますが、災害が起こってしまったら足りないなと、今感じました。",
+            "emotion_transcription": "相手の問いかけに対して、不安な気持ちを打ち明けています。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "遠くない未来に起こりそうなので、対策だけはしないといけませんね。",
+            "emotion_transcription": "恐ろしい地震の対策をお互い再認識するように共有したかったです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ダイエットじゃないですが、備えを明日、また明日と先延ばしにしてしまっています。本当ですね。",
+            "emotion_transcription": "自分の行動を恥じ、反省しています。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はい。お互い備えるように気を付けましょうね。",
+            "emotion_transcription": "お互いに気を付けるように共有したかったです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "備えあれば患いなしですね。今日から行動に移します。",
+            "emotion_transcription": "相手の同調し、決意を伝えています。"
+        }
+    ],
+    "dialogue_emotion": "恐ろしい",
+    "dialogue_id": 753
+}

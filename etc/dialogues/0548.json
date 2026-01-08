@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "FX",
+        "listener": "FS"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ゴールデンウィークは何か楽しいことはありましたか？",
+            "emotion_transcription": "私はゴロゴロして終わったので、相手は何をしていたのか気になりました"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ほとんど家で過ごしていました",
+            "emotion_transcription": "自分の想いを伝えました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私も同じ、ゴロゴロしてました！何をして過ごしていましたか？",
+            "emotion_transcription": "自分と同じ行動をしていたので、相手が何をしていたのか気になりました"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "YouTubeを見たりサッカーを見たりしていました",
+            "emotion_transcription": "自分のしていたことを共感してもらいたいと思いました"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私もYoutubeを見たりしていましたが、どんなジャンルを見ていましたか？",
+            "emotion_transcription": "自分も同じ行動だったので、相手がどんな動画を見ていたのか気になりました"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "お笑いなどのバラエティやゲーム実況動画ですね",
+            "emotion_transcription": "自分の趣味を伝えました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "私は海外の旅行系ジャンルの動画を見ていたのですが、現地へ行ったような気分になり楽しかったです",
+            "emotion_transcription": "動画を見て私の楽しい思いを伝えたいと思いました"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "海外の動画は私もたまに見ますよ。旅行系のユーチューバーの方の動画は楽しいですよね",
+            "emotion_transcription": "相手の意見に賛同する気持ちを伝えました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "なかなか海外へは行けないので、動画を見て行かせてもらった気分にさせてもらっています！",
+            "emotion_transcription": "相手も同じような気持ちで動画を見ていたことを知り親近感が湧きました"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "私も海外に行きたいなあと思いながら見ています",
+            "emotion_transcription": "相手の意見に賛同する気持ちを伝えました"
+        }
+    ],
+    "dialogue_emotion": "楽しい",
+    "dialogue_id": 548
+}

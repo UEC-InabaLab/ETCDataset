@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "CZ",
+        "listener": "HD"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "最近帰りに夜道で人がついてきているような気がします。",
+            "emotion_transcription": "怖い気持ちです"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "それは怖いですね。誰か心当たりはありますか。",
+            "emotion_transcription": "相手の怖い気持ちを共有したいです"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "全くないです。人付き合いも悪いので。",
+            "emotion_transcription": "今でも怖い気持ちです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "嫌ですね。最近の日本は治安も悪化しているので恐ろしいです。何か対処は考えていますか",
+            "emotion_transcription": "怖い気持ちを何とかしてあげたいです"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "なるべく、人通りの多い所を通って帰りますが、田舎なもので夜道は暗いです。",
+            "emotion_transcription": "あきらめの気持ちです"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "田舎道はとくに怖いですよね。防犯ブザーや防犯グッズを持つとかいかがですか",
+            "emotion_transcription": "何か良い対処法は無いかと考えています"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。勘違いだったら良いのですが。",
+            "emotion_transcription": "何か思いついた感情です"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "同じ方向に帰る人もいますから、気のせいだったらいいですね。ちなみに霊感はありますか？",
+            "emotion_transcription": "気のせいだったら良いが霊感があったらまた別の話になってしまうので聞いてみました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "多少あります。お化けでも怖いですね。",
+            "emotion_transcription": "多少安心した心情です"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "おばけはただいるだけの場合がありますから、塩を持ち歩くと良いですよ。あとはぜひホームセンターで防犯グッズを見てみて下さいね。お気をつけて下さい。",
+            "emotion_transcription": "対処法は何かしらあるので前向きになって安心して欲しいです"
+        }
+    ],
+    "dialogue_emotion": "恐ろしい",
+    "dialogue_id": 170
+}

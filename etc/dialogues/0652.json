@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "FY",
+        "listener": "EP"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "幼稚園の体験の日、自分の服をうしろまえで着ていってしまいました。",
+            "emotion_transcription": "恥ずかしい経験がおもいだされる。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "えーそれは焦りましたね。",
+            "emotion_transcription": "思わぬ体験に驚きました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "途中で気づいたんですけど、直しに行くのも無理なので諦めました。",
+            "emotion_transcription": "前向きに慣れてきた。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "確かに難しいですね。体験どころではなかったのでは？",
+            "emotion_transcription": "当時の相手の気持ちを聞いて慰められるポイントがあればと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。かなり焦りました。でも子供に必死で誰も私のことなど見てないだろうと開き直りました。",
+            "emotion_transcription": "おばさんになってきた気がする。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び",
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "素晴らしい。せっかくの体験なので、本来の目的の方が大事ですものね。",
+            "emotion_transcription": "相手のポジティブな姿勢に感心しました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はい。保護者同士の交流もないので、私のことを誰も覚えてないですし！",
+            "emotion_transcription": "ままともがなかなかできなかった"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "自分で笑い話にしてしまえばいいですね。クヨクヨするだけ損ですね。",
+            "emotion_transcription": "相手が落ち込んでいなくてよかったと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "気にしているのは自分だけと気づけました！いい経験です。",
+            "emotion_transcription": "もうそんなことどうでもよくなったなあ"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "教訓まで得らられるなんて素晴らしい。私も前向き姿勢な見習います！",
+            "emotion_transcription": "明るい方向になって嬉しい気持ちになりました。"
+        }
+    ],
+    "dialogue_emotion": "恥じる",
+    "dialogue_id": 652
+}

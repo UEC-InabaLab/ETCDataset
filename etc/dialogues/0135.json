@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "FE",
+        "listener": "DR"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "最近イライラした事ですが聞いてくれますか？",
+            "emotion_transcription": "この前の事を思い出す。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "もちろんです！何にイライラしたんですか？",
+            "emotion_transcription": "何があったのかな？と思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "吉野屋に入って注文しようとしたときに・・",
+            "emotion_transcription": "何を食べるか決めた時です。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "注文しようとしたんですね、何かあったんですか？",
+            "emotion_transcription": "何か不手際があったのかな？と思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "これからダクト掃除だからと店から追い出されました。",
+            "emotion_transcription": "ビックリです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "え！びっくりですね、ラストオーダーとかは書かれていなかったんですか？",
+            "emotion_transcription": "ダクト掃除なんて聞いたことなくて驚きました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り",
+                    "嫌悪"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "思いきり営業中だったのにダクト掃除だと料理出来ないとか言われて",
+            "emotion_transcription": "この時とてもイライラしました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "酷すぎる話ですね…お腹空いている時にそう言われるとさらにイライラしますよね、わかります。",
+            "emotion_transcription": "率直な感想を書きました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "仕方なく別の店に行きました。",
+            "emotion_transcription": "なぜか悔しい部部分もあったです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "それしかないですよね、大変でしたね。",
+            "emotion_transcription": "大変な目にあったことを労りたかったです。"
+        }
+    ],
+    "dialogue_emotion": "いらいらする",
+    "dialogue_id": 135
+}

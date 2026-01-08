@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "DL",
+        "listener": "GV"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "久しぶりに体重計に乗ったら体重がかなり増えていて驚きました。",
+            "emotion_transcription": "５キロ近く増えていてビックリしました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "驚きましたね。",
+            "emotion_transcription": "相手の気持ちがプラスかマイナスか分からないので無難な返答をしています。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "筋力トレーニングを始めて、食事量も増えたのでそのおかげかなと思います。",
+            "emotion_transcription": "筋トレの効果が出ていることを実感しています。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "筋力で増えているのは健康的ですね。体づくりをしているんですか？",
+            "emotion_transcription": "相手の体重増加がポジティブな意見のようなので、詳細を聞きたい態度を示しました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "1年ほど前から筋力トレーニングをしています。",
+            "emotion_transcription": "大きな体を目指しています。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "1年も続けてるんですか。なにか継続できるコツがあれば教えてほしいです。",
+            "emotion_transcription": "継続できていることが素晴らしいので、もっと知りたい気持ちを表現しています。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "無理しすぎないことと、目標を持つことで続けられます。",
+            "emotion_transcription": "自分でもここまで続いていることに驚いています。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "目標は、具体的な数字などでしょうか？私も真似してみたいです。",
+            "emotion_transcription": "相手の発言の内容をより具体的に知りたいため質問してみました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "今の目標はベンチプレスで100kgを挙げることです。",
+            "emotion_transcription": "目標達成に向けて努力しています。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "すごいですね。ベンチプレスで100㎏、達成できるよう応援しています。",
+            "emotion_transcription": "相手が教えてくれた目標が素晴らしいので応援したい気持ちを表しました。"
+        }
+    ],
+    "dialogue_emotion": "おどろく",
+    "dialogue_id": 373
+}

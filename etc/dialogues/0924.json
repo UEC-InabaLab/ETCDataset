@@ -1,0 +1,184 @@
+{
+    "participants": {
+        "speaker": "BH",
+        "listener": "EK"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "今日、仕事でいやなことありました？",
+            "emotion_transcription": "思いやりをもって話す"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "恐怖",
+                    "怒り"
+                ]
+            ],
+            "utterance": "そうですか､自分も仕事でうまくいかないことの方がダントツ多いですよ｡",
+            "emotion_transcription": "イライラして不安な気分です｡"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "恐怖",
+                    "怒り"
+                ]
+            ],
+            "utterance": "ですよね、いいことより嫌なことのほうがおおいですよね",
+            "emotion_transcription": "相手に共感する感じで"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "何かストレス発散のいい方法あったりしますか｡",
+            "emotion_transcription": "スッキリとリラックスできた気分です｡"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "思いっきり体を動かすです、嫌なこと考える暇なくなります",
+            "emotion_transcription": "相手との情報共有"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね､体を動かすのが自分も一番いいと感じますよ｡",
+            "emotion_transcription": "同じ意見として聞いてもらえた"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "簡単にできる軽くランニングとか自分やっています",
+            "emotion_transcription": "自分のやっていることの案内"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "自分も走るのが好きで､よくランキングしてます｡",
+            "emotion_transcription": "体が軽くなるイメージです｡"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "同じですね、運動もできていいですよね",
+            "emotion_transcription": "共通のストレス解消法でうれしかった"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び",
+                    "恐怖"
+                ],
+                [
+                    "喜び",
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "ちなみに同僚や上司と楽しめる運動があったら素晴らしいと思います｡",
+            "emotion_transcription": "期待と不安の入り混じった感覚です｡"
+        }
+    ],
+    "dialogue_emotion": "思いやりを持つ",
+    "dialogue_id": 924
+}

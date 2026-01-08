@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "FE",
+        "listener": "GO"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "こんにちは",
+            "emotion_transcription": "まずはあいさつから"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "こんにちは",
+            "emotion_transcription": "相手がどんな方なのか気になります。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り",
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "この前姉と喧嘩をしてイライラしました。",
+            "emotion_transcription": "姉がこちらの悪口を言ってきて怒りモード"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "私も姉がいてよく言い争います。",
+            "emotion_transcription": "同じような境遇のようで相手に親近感を感じます。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "姉におばさんと言ったら姉も怒って",
+            "emotion_transcription": "姉はたしか29歳だったはず"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "事実を言ったから怒ったのですか？",
+            "emotion_transcription": "相手の発言が面白いと感じました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "姉はまだ20代だと言ってきて",
+            "emotion_transcription": "20代はおねーさんらしい"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "20代ならまだまだおばさんではないですよ。",
+            "emotion_transcription": "世代が違い過ぎて共感できないと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そこで私が笑ったら余計怒ってきました。",
+            "emotion_transcription": "なぜか最後は私が笑ってしまう"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "笑ったのは良くなかったかもしれませんね。",
+            "emotion_transcription": "相手のお姉さんが起こるのも無理はないなと思いました。"
+        }
+    ],
+    "dialogue_emotion": "怒る",
+    "dialogue_id": 107
+}

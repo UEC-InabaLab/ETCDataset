@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "AV",
+        "listener": "EK"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "うちの猫がまるまると転がっていることを誇りに思っています。",
+            "emotion_transcription": "このお腹は私が作ったと伝えたいぷにぷに具合です。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "猫いいですね。自分も動物を飼ってみたいと思いますね。",
+            "emotion_transcription": "少しびっくりする不思議な気分です｡"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "この子が機嫌良さそうに転がっていると、幸せな、誇らしい気持ちになります。",
+            "emotion_transcription": "ぜひ！という前のめりな気持ちです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "動物の気持ちがわかるのはすごいことで､羨ましいですね｡",
+            "emotion_transcription": "感心し､素晴らしいことです｡"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "伝わってくれていたら嬉しいんですが、呑気な顔で寝ています。",
+            "emotion_transcription": "かわいさが伝わらないことを残念に思っています。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "伝わっていると思いますよ｡幸せそうで安心しているように感じます｡",
+            "emotion_transcription": "うっとりして安心感がありそうです｡"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そう言って頂けると嬉しいです。この子にも伝えておきます。",
+            "emotion_transcription": "可愛さを上手く伝えたいとおもっています。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "猫とスキンシップができるのはとても素敵で感心しますね｡",
+            "emotion_transcription": "心が温まる幸せな気分です｡"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "この子の最後まで幸せにしたいです。猫カフェとか、おすすめします。",
+            "emotion_transcription": "布教したい気持ちです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "これからも猫を大切に楽しい日々をお過ごしくださいね｡",
+            "emotion_transcription": "穏やかで楽しい気分です｡"
+        }
+    ],
+    "dialogue_emotion": "誇りに思う",
+    "dialogue_id": 702
+}

@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "AR",
+        "listener": "HF"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "日本人の満足度が年々減っていると思いませんか？",
+            "emotion_transcription": "幸せとは何か考えたい気持ちです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "確かにそうですね。やはり経済が悪いことでそうなっているように考えます。",
+            "emotion_transcription": "相手の意見に対しての見解を述べたく思っています。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "同感です。例えば、同じ1000円でも買えるものが昔とは全然違いますよね。",
+            "emotion_transcription": "お金の価値が変わっていると感じています。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ここ数年でそこの水準もかなり変わってきましたよね。確かに納得です。それは満足度もおちるはずです。",
+            "emotion_transcription": "相手の意見を自分なりに解釈して納得出来た状態です。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "お金がないと心に余裕がなくなり、人にも優しくできなくなりますよね。",
+            "emotion_transcription": "悪循環を伝えたいです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "そうですね。そうして人が冷たい社会になるのは悲しことだと思います。",
+            "emotion_transcription": "世の中の動向を儚んでいます。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "そうですね。アメリカ経済に全て左右されてしまっているのが日本の悲しいところでもあると思います。",
+            "emotion_transcription": "日本の悲しい現状をわかってほしいです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "自国のことを自国で全部世話出来ない感じがなんともなさけなく思いますね。",
+            "emotion_transcription": "現在の日本社会のあり方について嘆いている状態です。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "円安も物価高も、アメリカのドルで変わってきますしね。あとは大統領の発言もですが、。",
+            "emotion_transcription": "アメリカ依存を解決したい気持ちです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "今後も大統領の動きには要注目ですね。",
+            "emotion_transcription": "今後に期待しつつ警戒心も強める思いでいます。"
+        }
+    ],
+    "dialogue_emotion": "満足",
+    "dialogue_id": 300
+}

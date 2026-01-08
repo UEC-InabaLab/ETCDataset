@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "ER",
+        "listener": "CH"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "日本人のスポーツ選手が最近多く海外で活躍しているのは、スポーツが好きなので、誇りに思います。",
+            "emotion_transcription": "日本人選手が活躍するのは嬉しいことだ。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですね。スポーツ選手が海外で活躍しているのは日本人にとって大きな誇りですね。",
+            "emotion_transcription": "日本人が活躍しているのは嬉しい"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "一昔前よりも、ずっと多くの日本人が海外で活躍してますよね。",
+            "emotion_transcription": "昔と比較するために、このメッセージを書きました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですね。昔よりも日本人が世界でたくさん活躍しているのは嬉しいです。",
+            "emotion_transcription": "世界で日本人が有名になっていくのは良いことですね。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "誰か、海外で活躍している、気になるスポーツ選手はいますか？",
+            "emotion_transcription": "質問をしたかったので、このメッセージを書きました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "やはり今は大谷さんが一番気になりますね。",
+            "emotion_transcription": "大谷さんの活躍ぶりは目を見張るものがあって本当にすごいと思います。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "大谷さんは最近お子さんが生まれましたよね。",
+            "emotion_transcription": "大谷さんの近況に関する感想が聞きたいので、このメッセージを書きました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですね。お子さんも生まれてますます活躍されるのではないでしょうか。",
+            "emotion_transcription": "大谷さんはお子さんが産まれて本当にめでたいと思います。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "今年はピッチャーも復帰できそうで楽しみですね。",
+            "emotion_transcription": "自分の気持ちを表すために、このメッセージを書きました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "本当にそうですね。今年はさらに飛躍の年になるのではないでしょうか。",
+            "emotion_transcription": "ピッチャーとして復帰もできてさらに活躍できると思うので嬉しいです。"
+        }
+    ],
+    "dialogue_emotion": "誇りに思う",
+    "dialogue_id": 41
+}

@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "HB",
+        "listener": "EO"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "私が待ち望んでいるのは、夏に予定している北海道旅行です。",
+            "emotion_transcription": "ワクワクする気持ちです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "夏の北海道っていいですよね！北海道でどんなイベントを考えているのですか？",
+            "emotion_transcription": "詳細をお聞きしたいと思いました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "オーソドックスに札幌を観光しようと思っています。ラーメンやチーズケーキを食べます。",
+            "emotion_transcription": "楽しみな気持ちです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "北海道はおいしいものがたくさんあるので楽しみですね。北海道は行ったことないですか、物産展でラーメンを食べてとてもおいしかった思い出があります",
+            "emotion_transcription": "自分の経験をお伝えしようと思いました"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "よくデパートで物産展をしてますね。旅行した気分になり、ワクワクします。",
+            "emotion_transcription": "相手の話に共感をしています。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "なかなか旅行にいけないので物産展で楽しんでいます。北海道旅行羨ましいです。",
+            "emotion_transcription": "今の気持ちを伝えようと思いました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "旅行行けないのは残念ですね。もし行ったことがある旅行先があれば教えてください。",
+            "emotion_transcription": "相手の話に興味がある気持ちです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "2年くらい前に金沢に行きました。情緒ある素敵な街並みでしたよ。",
+            "emotion_transcription": "旅行経験をお話ししました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "金沢、とても素敵ですね。私もいつか行ってみたいです。羨ましいです。",
+            "emotion_transcription": "相手の旅行先に憧れがあり、羨ましい気持ちです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私も北海道に行きたくなりました。旅行を考えてみようかなと思います",
+            "emotion_transcription": "今後のことを話してみようと思いました"
+        }
+    ],
+    "dialogue_emotion": "待ち望む",
+    "dialogue_id": 831
+}

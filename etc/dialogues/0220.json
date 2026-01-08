@@ -1,0 +1,182 @@
+{
+    "participants": {
+        "speaker": "BK",
+        "listener": "CX"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "中年ですが身体の柔らかさには自信があります！",
+            "emotion_transcription": "自慢したい気持ちです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それはとても羨ましいことです。",
+            "emotion_transcription": "どのぐらい柔軟性があるのだろう。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "前屈で手のひらまで床につきます！",
+            "emotion_transcription": "反応が薄かったのでアピールしたい気持ちです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "すごい！体が硬い私にとっては憧れの柔軟性です。",
+            "emotion_transcription": "同じ中年でここまで違うのかなと感じました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ありがとうございます。あなたは自信があることありますか？",
+            "emotion_transcription": "褒められたので嬉しいが照れくさいので相手にも質問しました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ",
+                    "驚き"
+                ],
+                [
+                    "悲しみ",
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "至って普通の人なのでこれと言って自信が持てるようなことがありません。",
+            "emotion_transcription": "質問されたことでびっくりしました。何も返せず申し訳ない気持ちです。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "おっと失礼しました。でも些細なことでも自信を持てるといいですね。",
+            "emotion_transcription": "答えづらい質問をしてしまったことを気まずく感じてフォローしています。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "お気遣いありがとうございます。ちなみに、その柔軟性はスポーツとかやられていたんですか？",
+            "emotion_transcription": "私の拙い返答にも優しい方だなと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "水泳をしていましたがもしかしたらそれが関係しているのかもしれないですね。",
+            "emotion_transcription": "自分の話題に戻ったので安心して冷静に回答しました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "絶対にそれだと思います！柔らかさを分けてもらいたい！",
+            "emotion_transcription": "うまく会話ができず申し訳なく思いました。"
+        }
+    ],
+    "dialogue_emotion": "自信がある",
+    "dialogue_id": 220
+}

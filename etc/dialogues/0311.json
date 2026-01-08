@@ -1,0 +1,185 @@
+{
+    "participants": {
+        "speaker": "EJ",
+        "listener": "BL"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "ちょっと前ですが理容店の順番待ちで他の客とモメたことがありまして。",
+            "emotion_transcription": "思い出すと落ち込むことですが説明してみます。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "何があったのですか。",
+            "emotion_transcription": "気になります。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖",
+                    "怒り"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "コロナ禍だったので前のお客さんから１つ飛ばして座っていたら、次のお客さんが「何で詰めて座らないんだ」って責めてきたんです。",
+            "emotion_transcription": "いきなりで面食らった思いでした。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖",
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "何でも言い方ですよね。大事にはならずに済んだのですか。",
+            "emotion_transcription": "怖そうですね。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "コロナ禍なんでと答えたんですが「隣に座ったぐらいで感染するか、バカなのか」って興奮して言ってくるんです。",
+            "emotion_transcription": "この辺からちょっと、ただでは済みそうにない感じです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "威圧的ですね。そういう人は自分が一番正しいと思ってるんでしょうね。",
+            "emotion_transcription": "人それぞれなのにって思います。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖",
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "そうなんです。言い返すとますます興奮するんで、もうこちらは順番が来るまでダンマリですね。",
+            "emotion_transcription": "ちょっと得体がしれなくて、不気味にも思えてきます。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "確かに怖いですよね。",
+            "emotion_transcription": "それでいいと思います。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖",
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "うまいこと言い返すことができなかったんで思い返すと、今でも落ち込むんです。",
+            "emotion_transcription": "本当に、嫌な思いをしました。打ちのめされるとはこのことです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "言い返さなかったことが正解です。どんまいです。",
+            "emotion_transcription": "気にしないでいいのにって思います。"
+        }
+    ],
+    "dialogue_emotion": "打ちのめされる",
+    "dialogue_id": 311
+}

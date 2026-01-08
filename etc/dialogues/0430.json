@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "CF",
+        "listener": "DP"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私はタバコを吸うんですけど、長時間吸えないとイライラしてきます。",
+            "emotion_transcription": "落ち着かない感じ"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "分かります。私も喫煙者です。",
+            "emotion_transcription": "同じ気持ちに嬉しさを感じる。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "良かったです。タバコを吸わない方だとわかってもらえないかと思いました。",
+            "emotion_transcription": "分かってもらえてうれしい"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうなんですよね。このイライラは愛煙家にしか分からないですものね。",
+            "emotion_transcription": "仲間意識を感じられ喜ばしい気持ち。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "最近は喫煙所が少なくて困りますよね。",
+            "emotion_transcription": "探すのにイライラする"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "本当です。喫煙所探しにアプリ活用してるなんて吸わない人が聞いたら驚くでしょうね。",
+            "emotion_transcription": "話が弾む感覚が楽しい心情。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "高い税金を払ってるのに、もう少しちゃんとした喫煙所を増やして貰いたいです。",
+            "emotion_transcription": "環境に悪さに怒り"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "いくら増税しても決してやめられないと読まれているのも腹立たしいです。",
+            "emotion_transcription": "同じ考えにもっと踏み込んで効いてみたい。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "やっと見つけた喫煙所も人でいっぱいとか、吸わない人にも、吸う人にも優しい喫煙所を増やして欲しいです。",
+            "emotion_transcription": "そんな環境が欲しい気持ちです"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですよね。皆にやさしいというのが嬉しいですよね。",
+            "emotion_transcription": "新たな気持ちがわかり理解できる心情。"
+        }
+    ],
+    "dialogue_emotion": "いらいらする",
+    "dialogue_id": 430
+}

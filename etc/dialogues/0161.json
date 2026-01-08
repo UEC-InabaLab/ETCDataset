@@ -1,0 +1,182 @@
+{
+    "participants": {
+        "speaker": "CZ",
+        "listener": "AG"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "犬に追いかけられました。",
+            "emotion_transcription": "恐怖を感じています"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "それは恐いですね。どんな犬に追いかけられたのですか？",
+            "emotion_transcription": "相手への共感を示し、もっと深く知りたいと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "中型犬でした。野良犬です。",
+            "emotion_transcription": "状況を把握したい気持ちです"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "非常に危険ですね。お怪我はありませんでしたか？",
+            "emotion_transcription": "相手を心配している気持ちを伝えようとしました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "怪我はありませんでしたが、今も怖いです。",
+            "emotion_transcription": "恐怖の心情です。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "なかなか忘れられないですよね。野良犬が多い地域なのですか？",
+            "emotion_transcription": "相手への共感を示しつつ、もっと話題を深く聞こうとしました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "最近はほとんど見かけないのですが。たまたまです。",
+            "emotion_transcription": "不思議な気持ちです"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "野良犬はめっきり減りましたよね。こちらはキツネをよく見ます。",
+            "emotion_transcription": "相手への理解を示しつつ、こちらの状況も知ってほしいと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖",
+                    "驚き"
+                ],
+                [
+                    "驚き",
+                    "嫌悪"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "珍しいですね。野生生物には気を付けた方が良いですね。",
+            "emotion_transcription": "なぜ自分がという気持ちです"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "数年前は近くでクマも出たので、気を付けるようにしています。",
+            "emotion_transcription": "相手からのいただいた忠告に深く共感していることを示そうとしました。"
+        }
+    ],
+    "dialogue_emotion": "怖い",
+    "dialogue_id": 161
+}

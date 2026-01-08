@@ -1,0 +1,182 @@
+{
+    "participants": {
+        "speaker": "AR",
+        "listener": "HI"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "今年も猛暑になるかと思うと怖いです。",
+            "emotion_transcription": "異常気象にうんざりしています。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "だんだん気温が上がってきてますね。私も暑いのは苦手です。",
+            "emotion_transcription": "夏の到来を感じてうんざりした気持ちになりました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "何年に一度みたいなのが毎年来ている印象です。",
+            "emotion_transcription": "身体が熱に追いつかなくて苦しいです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "確かに、毎年だれるような暑さで特に暑い年みたいなのはないですね。",
+            "emotion_transcription": "去年の夏の暑さを思い返しています。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "光熱費も毎年上がっている気がします。円安物価高の影響もありますが。",
+            "emotion_transcription": "家計が苦しいです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "光熱費は物価上昇もあるので右肩上がりですね。特に冬が厳しいです。",
+            "emotion_transcription": "どこの家庭も同じなんだなと共感しました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "たしかに冬は厳しいですね。特に積雪がある地域は尋常じゃない額だと思います。",
+            "emotion_transcription": "どうにか補助をしてあげて欲しいです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び",
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "私は降雪の少ない地域に住んでいるので雪の影響はありませんが、豪雪地帯に住んでいる人は信じられない生活をされていて凄いと思います。",
+            "emotion_transcription": "自分よりももっと苦労している人がいると思うと、我が家の家計はまだマシだと感じました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "あのような地域になると普通のエアコンじゃ役に立たないので、燃料ストーブが必須ですね。",
+            "emotion_transcription": "油の費用もかかりそうだと思っています。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "北海道だとエアコン置いてない家もあるそうですね。夏場は冷房いらないし、冬場はストーブが当たり前だそうです。",
+            "emotion_transcription": "数年前に行った北海道の夏の涼しさを思い出しました。"
+        }
+    ],
+    "dialogue_emotion": "怖い",
+    "dialogue_id": 743
+}

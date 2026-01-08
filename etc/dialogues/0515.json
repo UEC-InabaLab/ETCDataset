@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "BV",
+        "listener": "GQ"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "あまり自身のあることはないですが算数や数学の問題を解くことには自信があります",
+            "emotion_transcription": "相手に率直な気持ちを伝えたいと思いました"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それでも立派な自信じゃないですか。どんな数学問題でも自信があるのですか？",
+            "emotion_transcription": "数学問題の自信があることに関心をもちました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そういってもらってうれしいです。大学入試レベルぐらいまででしたら",
+            "emotion_transcription": "相手に素直に喜びを伝えました"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "すごいです。真面目に勉強に取り組んでいたんですね？",
+            "emotion_transcription": "相手のすごいことを共感して、もっと知りたいと感じました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "どんなことに自信がありますか",
+            "emotion_transcription": "相手のことも聞きたいと思いました"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "運動は良くするので運動に自信があります。自信があることは素晴らしいことですね。",
+            "emotion_transcription": "自信の素晴らしさを聞きたいと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "どんな運動が特に得意ですか",
+            "emotion_transcription": "相手のことを掘り下げて聞きたいと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "筋トレですかね。後は走り込むことです。毎日頑張っています。",
+            "emotion_transcription": "運動の素晴らしさを教えて、自信の共感をしました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "凄いですね。健康的で何よりです。これからも筋トレ頑張ってください。",
+            "emotion_transcription": "相手の得意なことを褒めたいと思いました"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ありがとうございます。",
+            "emotion_transcription": "感謝を伝えました。"
+        }
+    ],
+    "dialogue_emotion": "自信がある",
+    "dialogue_id": 515
+}

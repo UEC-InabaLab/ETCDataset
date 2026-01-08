@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "GU",
+        "listener": "GQ"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "家事を完璧にやらないと気がすまないタイプで、だから家事に自信があります。",
+            "emotion_transcription": "家事の自信を伝えたかったです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "家事があまりできないので、すごいなと思います。",
+            "emotion_transcription": "相手の自信を認めたかったです。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "昔からやってきているので、年々の積み重ねでできるようになりました。",
+            "emotion_transcription": "自信を相手に共感してもらいたかったです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "昔からやってるんですね。一番の家事の大変ことはなんですか？",
+            "emotion_transcription": "家事の中で何が大変か関心持ったからです。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "料理が大変です。たくさん作らないといけず苦労します。",
+            "emotion_transcription": "家事の苦労を伝えたかったです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "料理を作れないから作れることに羨ましいです。何人分いつも作るのですか？",
+            "emotion_transcription": "相手が作る料理の数に関心を持ったからです。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "4人分作りますよ。本当に大変です。",
+            "emotion_transcription": "家事の大変さを相手に理解して欲しかったです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "それは大変だと思います。でも作りがいはあるんじゃないですか？",
+            "emotion_transcription": "相手の家事の大変さに共感を抱き、もっと家事について聞きたかったです。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "作りがいは確かにありますね。みんな喜んでくれますから。",
+            "emotion_transcription": "家事のやりがいを相手に伝えたかったです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "大変だと思いますが、これからも頑張って家事をして欲しいと思います。",
+            "emotion_transcription": "家事の大変さを感じ、家事を頑張ってほしいことを伝えたかったです。"
+        }
+    ],
+    "dialogue_emotion": "自信がある",
+    "dialogue_id": 806
+}

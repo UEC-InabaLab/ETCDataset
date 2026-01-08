@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "GW",
+        "listener": "DP"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "今日車に乗っていたら、突然脇から強引に横入りされたんです。",
+            "emotion_transcription": "自分が感じた恐怖を伝えようとしています。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "怖いですね！大丈夫でしたか？",
+            "emotion_transcription": "状況を詳しく聞きたい。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "特にケガなど、トラブル？は無かったのですがあまりの衝撃に、何が起きたか分かりませんでした。",
+            "emotion_transcription": "相手の共感と気遣いが嬉しいと思っています。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ケガやトラブルがなかったのは幸いでしたね。",
+            "emotion_transcription": "悪い状況ではなく安堵した思いを伝えたい。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び",
+                    "恐怖"
+                ]
+            ],
+            "utterance": "ありがとうございます。ただ、このような危ない運手をする車によく遭遇するので、最近は外を歩くのも少し怖く感じています。",
+            "emotion_transcription": "相手の気遣いに感謝しつつ、最近感じている不安を吐露しています。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "本当にそうですよね。運転時も歩く時も、自転車でも怖い思いをする状況が増えたのは問題ですよね。",
+            "emotion_transcription": "同じ心境にもっと詳しく話がしたい気持ち。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "痛ましい事故も多いですし、思いやりを持って運転してほしいと思います。",
+            "emotion_transcription": "相手の考えに同調し、自分の考えを伝えています。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "その通りですよね。ルールを守って思いやりを持つ事は大切ですね。",
+            "emotion_transcription": "気持ちが伝わり同感であることを伝えたい。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "お互いへの思いやりが大事です。安心して、外を歩いたり・運転できる世の中になってほしいものです。",
+            "emotion_transcription": "相手の話に共感し、持論を伝えています。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "同感です。心からそう願います。",
+            "emotion_transcription": "共通する考えに安心した思い。"
+        }
+    ],
+    "dialogue_emotion": "怖い",
+    "dialogue_id": 740
+}

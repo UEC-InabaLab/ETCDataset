@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "GY",
+        "listener": "CJ"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "明日、大学時代の友人たちと久しぶりに会うので、今からわくわくしています。",
+            "emotion_transcription": "明日のことを考えながら、楽しい気持ちになっています。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それはいいですね。みなさんとなにかされるのですか？",
+            "emotion_transcription": "なにに対してわくわくしているのかが気になっています。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "服や雑貨など買い物をして、串カツの食べ放題に行きます！",
+            "emotion_transcription": "明日のことを想像して気分がいいです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "串カツですか。その中でもとくになにが好きですか？",
+            "emotion_transcription": "どんな串カツなのかとすきなものがなにか知りたいと思っています。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "豚串が一番好きです！うずらの卵も美味しいですよ。",
+            "emotion_transcription": "自分の好きなメニューを思い出しながら、楽しく答えています。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "うずらの卵ですか。私はちょっと初めて聞きますが、おいしいのでしょうか？",
+            "emotion_transcription": "うずらの卵に興味をもっています。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "揚げすぎないくらいの半熟で食べると、衣はサクサク、中はふわトロで最高ですよ。",
+            "emotion_transcription": "うずらの卵の串カツの魅力を一生懸命伝えたい気持ちになっています。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "最高じゃないですか！。私までワクワクしてきましたよ。おいしそうですね！",
+            "emotion_transcription": "おいしそうな感じを受けて楽しくなっています。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "おすすめなので、ぜひ食べてみてください。結構いろんな串カツ屋さんでメニューにありますよ！",
+            "emotion_transcription": "自分のおすすめをぜひ食べてみてほしいと思っています。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。私も今度近いうちに行ってみたいと思います！",
+            "emotion_transcription": "おすすめを聞いて、自分も行動したいと思いました。"
+        }
+    ],
+    "dialogue_emotion": "わくわくする",
+    "dialogue_id": 93
+}

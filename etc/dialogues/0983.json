@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "FQ",
+        "listener": "AU"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "仕事でミスした時は素直に謝りますか？",
+            "emotion_transcription": "相手の人となりを知りたいと思いました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "後々の事を考え素直に謝るように心がけています。",
+            "emotion_transcription": "少し悩みましたが誠実に回答しようと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それが普通ですよね。",
+            "emotion_transcription": "相手の出方を伺いたいと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ごまかすと後々大変になるケースが多い気がします。",
+            "emotion_transcription": "質問に対し素直な気持ちでお答えしました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "私の後輩、謝らないのですよね。こちらもモチベーションが下がります。",
+            "emotion_transcription": "話を広げようと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうだったんですか。それはどうして行けばよいか少し悩みますね。",
+            "emotion_transcription": "実例をあげて下さり会話の幅が広がりました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "後輩と言っても、私よりずっと年上なのですよね。",
+            "emotion_transcription": "出来事にさらなる情報を加えることで、やりづらさをわかって欲しいと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "難しいケースですね。きちんとしてほしいですが、年上の方なので強く言いにくいですしね。",
+            "emotion_transcription": "色々と難しいケースがあり、みなさん悩みを抱えてると感じました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですよね。年齢とか関係なく誠実であることって大事ですよね。",
+            "emotion_transcription": "相手も同じ気持ちかどうかが気になりました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はい、いつまでも初心を忘れずに謙虚で居たいと思います。",
+            "emotion_transcription": "いくつになっても相手を思いやる気持ちの大切さを感じました。"
+        }
+    ],
+    "dialogue_emotion": "誠実な気持ち",
+    "dialogue_id": 983
+}

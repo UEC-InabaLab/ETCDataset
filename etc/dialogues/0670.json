@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "GK",
+        "listener": "EB"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "最近は正直者が馬鹿を見る世の中になってきている気がしますね。",
+            "emotion_transcription": "がっかりした気持ちになります。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "そう感じる事が最近はありますよね。",
+            "emotion_transcription": "納得できる話題が出てきて面白い話だと共感しました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り",
+                    "嫌悪"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "政治家や芸能人など、嘘などが多すぎると感じます。",
+            "emotion_transcription": "腹立たしい気持ちになります。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "政治家は当選することばかりで、芸能人も印象上げることばかりですものね。",
+            "emotion_transcription": "奥深い話だと感じ思っている事を発言してみました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "SNSなどでも嘘でも閲覧数が増えればいいと思っている人が多そうです。",
+            "emotion_transcription": "腹立たしい気持ちで記入しました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "そうなのですね。でもそれは、ばれた時に問題がおおいですよね。",
+            "emotion_transcription": "知らなかった事が聞けたような感じがして共感しました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "嘘か本当かしっかりと自分自身での見極めが大事ですね。",
+            "emotion_transcription": "しっかりしようという気持ちになります。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それは必要でファクトチェックはしないといけない時代ですね",
+            "emotion_transcription": "しっかりとした考えが出てきて思った事と言いました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "真面目で誠実な人が報われる世の中になってほしいものです。",
+            "emotion_transcription": "変化してほしい気持ちになります。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それが一番いいことだと思っています。",
+            "emotion_transcription": "上手くまとまった話だと感じ共感しました。"
+        }
+    ],
+    "dialogue_emotion": "誠実な気持ち",
+    "dialogue_id": 670
+}

@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "BL",
+        "listener": "AG"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "もうすぐ母の日ですね。",
+            "emotion_transcription": "いつもありがたいです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね、来週の日曜日です。",
+            "emotion_transcription": "相手の問いかけに対して、情報を追加しようとしました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "何か贈り物をするんですか。",
+            "emotion_transcription": "みんなちゃんと考えているんだなと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "一緒に食事をしようと思っています。",
+            "emotion_transcription": "相手の質問に対して予定を答えようとしました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "そうなんですね。私はちょっと早いですが、プレゼントを贈りました。",
+            "emotion_transcription": "みんなちゃんとやってるんだなと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "どんなプレゼントを贈ったのですか？",
+            "emotion_transcription": "相手の発言に対して、興味を持っていることを示そうとしました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "花より団子な母なので母の好きな食べ物を送りました。",
+            "emotion_transcription": "何を贈ったか知られるのが少し恥ずかしいなと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "お母様の好きな食べ物は何ですか？",
+            "emotion_transcription": "相手の返答に対して、より深く質問することで興味の深さを示そうとしました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "お魚が好きなので、冷凍のお魚をたっぷり贈りました。",
+            "emotion_transcription": "喜んでくれたのでよかったです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "それはお母様も喜びますね！",
+            "emotion_transcription": "相手に対して強い共感を示しました。"
+        }
+    ],
+    "dialogue_emotion": "感謝する",
+    "dialogue_id": 140
+}

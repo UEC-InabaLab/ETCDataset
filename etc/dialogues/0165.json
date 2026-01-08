@@ -1,0 +1,184 @@
+{
+    "participants": {
+        "speaker": "GD",
+        "listener": "DL"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "最近、怖い犯罪者のニュースが多くて怖い気持ちです。",
+            "emotion_transcription": "巨悪犯罪者のニュースを見て被害者に対して同情しました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "そうですね。私も同じく怖いです。",
+            "emotion_transcription": "町を出歩くのが怖くなりました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖",
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "事件に巻き込まれないようにするのは難しいですよね。",
+            "emotion_transcription": "事件の被害者にならないように注意したいと感じています"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "自分が気をつけていてもいきなり何をされるかわからないですからね",
+            "emotion_transcription": "街にいる周りの人が怖いと感じます。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "はい。通り魔殺人とかストーカー殺人が話題になっていますから気を付けたいです。",
+            "emotion_transcription": "最近の話題を出して共感していると考えています"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ",
+                    "恐怖"
+                ],
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "特に通り魔は無差別に襲われるので怖いですね。",
+            "emotion_transcription": "なんの罪もない人が殺されるのは悲しいです。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "はい。秋葉原の事件は衝撃的でした。",
+            "emotion_transcription": "この事件は世間に大きな波紋を呼んだと考えています"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖",
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "あの事件は私もテレビで観て衝撃を受けました。",
+            "emotion_transcription": "まさに無差別テロのように感じました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "私もニュースを見て今でも記憶に残っています。",
+            "emotion_transcription": "同じ気持ちで嬉しいです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "このような悪いニュースが少しでも減ってほしいです。",
+            "emotion_transcription": "平和な世の中になってほしいです。"
+        }
+    ],
+    "dialogue_emotion": "恐ろしい",
+    "dialogue_id": 165
+}

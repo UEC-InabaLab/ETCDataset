@@ -1,0 +1,184 @@
+{
+    "participants": {
+        "speaker": "AB",
+        "listener": "EJ"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "恐怖",
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "前走車が急に蛇行運転をして驚きました。",
+            "emotion_transcription": "いきなり蛇行して何かあったのかと思いました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "それは驚きますね！",
+            "emotion_transcription": "激しく同意し、同情します。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "恐怖",
+                    "驚き"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "他にもその車は信号無視を繰り返し行っていました。",
+            "emotion_transcription": "迷惑行為がしたいのかと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "もう犯罪者じゃないですか。",
+            "emotion_transcription": "怒りを覚えます"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り",
+                    "嫌悪"
+                ],
+                [
+                    "驚き",
+                    "嫌悪"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "更に今度は低速で走り続けました。",
+            "emotion_transcription": "いまだにこんな事をする人がいるのかと呆れました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "あまり近づきたくないですね。脇道にそれたり、待機できなかったのですか？",
+            "emotion_transcription": "なんだか心配です"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "脇道は無く、停車しても結局はまた追いつくとて幸いかなり広い道でしたのでかなり相手との車幅を開けて追い越しました。",
+            "emotion_transcription": "これ以上迷惑行為を見たくないのと時間の無駄にもなると思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "サスペンスフルになってきました。うまく逃げられましたか？",
+            "emotion_transcription": "今後の展開に興味が出てきました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はい！幸いにも相手は低速で道幅も広いので追い越し中に車を寄せてきても届かない距離だったので相手は何もせずそのまま低速で走り続けていました。",
+            "emotion_transcription": "何もなくて安心しました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ああ、それは良かったです。ご無事でなによりです。",
+            "emotion_transcription": "とても安心しました"
+        }
+    ],
+    "dialogue_emotion": "おどろく",
+    "dialogue_id": 36
+}

@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "BQ",
+        "listener": "DX"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "最近あった楽しいことといえばお花見に行ったことです。",
+            "emotion_transcription": "お花見に行ったことを思い出しています。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "お花見良いですね。たのしかったですか？",
+            "emotion_transcription": "興味がありいいなと思っています。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "とても楽しかったです。桜もきれいだったしおいしいグルメも楽しみました。",
+            "emotion_transcription": "楽しかったことを思い出して良い気分になっています。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "お花見は結局できずにおわってしまいました。",
+            "emotion_transcription": "残念に感じています。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんですね。標高の高い場所ならまだチャンスがあるかもしれませんよ。",
+            "emotion_transcription": "相手もお花見を楽しめたらなぁと思っています"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "なるほどそうですね。まだチャンスはありますかね。。",
+            "emotion_transcription": "チャンスがあれば花見を楽しみたいと思っています。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はい！GW中でも楽しめるところあると思います。",
+            "emotion_transcription": "今頃でも楽しめるスポットを思い浮かべています"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "人が多そうですが是非探してみたいと思います。",
+            "emotion_transcription": "参考にしようと思っています。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "混み合うのは難点ですがぜひ行ってみてください。私もまた行きたくなりました。",
+            "emotion_transcription": "相手も自分も楽しめたらいいなぁと思っています"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "はい、標高の高い場所という視点がなかったので、助かります。有難うございます。",
+            "emotion_transcription": "とても前向きな気持ちになっています。嬉しいです。"
+        }
+    ],
+    "dialogue_emotion": "楽しい",
+    "dialogue_id": 22
+}

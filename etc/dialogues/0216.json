@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "BG",
+        "listener": "FS"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "キーボードでの英文タイピングに自信があります。",
+            "emotion_transcription": "英文タイピングが得意な人は多くないのではないかと思っています。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんですね私はあまりできないので羨ましいです",
+            "emotion_transcription": "羨ましいという気持ちを伝えました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "でも、スマホでのフリック入力とかできるんじゃないですか。私はそれができません。",
+            "emotion_transcription": "入力関係だったら何でもできると思われそうですが、そうではないことを知ってもらいたかったです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私はスマホのフリック入力もできないです",
+            "emotion_transcription": "自分ができないことを伝えました"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "本当に難しいですよね。何か得意なことはありますか。",
+            "emotion_transcription": "相手の自信のあることは何か、興味を持ちました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "植物を育てることです",
+            "emotion_transcription": "自分の自信があることを伝えました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "おしゃれ！お庭でですか、それとも室内で育てられているのですか。",
+            "emotion_transcription": "どんな植物を育てているのか知りたいと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ベランダで育てています",
+            "emotion_transcription": "育てている場所を伝えました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "好きな植物は何ですか。育てやすいですか。",
+            "emotion_transcription": "どのような植物に興味を持っているかを知ることで、相手のことを少しわかるかなと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ブルーベリーやいちじくを育てています",
+            "emotion_transcription": "育てている植物を伝えました"
+        }
+    ],
+    "dialogue_emotion": "自信がある",
+    "dialogue_id": 216
+}

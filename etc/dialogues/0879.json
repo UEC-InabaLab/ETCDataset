@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "HG",
+        "listener": "DP"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "宝くじに当たった人を見ると、とても羨ましくなります。",
+            "emotion_transcription": "自分が感じた感情を相手に話し、共感してもらいたかったです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "当選した人を見た事があるんですか？",
+            "emotion_transcription": "詳しく聞きたい心情。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "当選した知り合いがいるわけではなく、ネット上のサイトで知りました。数億円当たっていて、かなり羨ましかったです。",
+            "emotion_transcription": "相手の質問に対し、自分が知りえた情報を伝え、当時の感情を話しました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "そうなんですね！すごい金額ですね！それは羨ましい！",
+            "emotion_transcription": "同意し情報に驚く心境。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "すごいですよね。宝くじはたまに買うんですけど、1000円くらいしか当たらないんですよ。宝くじ買ったりしますか？",
+            "emotion_transcription": "相手の返答に同意し、自分の経験を話しました。相手も同じ経験をしているの気になり、質問をしました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "1度だけ購入した事が有ります。10万円当たりました。",
+            "emotion_transcription": "どんな反応が返ってくるか楽しみな気持ち。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "すごい！おめでとうございます！運が良いんですね。当選金は何に使いましたか？",
+            "emotion_transcription": "相手の話に驚き、興味が湧いたのでお金の使い道を質問しました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "兄妹夫婦と両親に御寿司を振る舞い、当選金の半分以上は使いました。",
+            "emotion_transcription": "思いがけない言葉に嬉しい心情。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "素晴らしいお金の使い方ですね。羨ましい限りです。高額当選を期待して、今後も宝くじを買おうと思います。",
+            "emotion_transcription": "相手の話に感動しながら、羨ましがっています。今後の期待を込めて、予定を話しました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "当たるといいですね！",
+            "emotion_transcription": "応援したい気持ち。"
+        }
+    ],
+    "dialogue_emotion": "羨ましい",
+    "dialogue_id": 879
+}

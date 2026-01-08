@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "FE",
+        "listener": "EO"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "こんにちは",
+            "emotion_transcription": "まだおどろかない"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "最近、驚いたことはありましたか？",
+            "emotion_transcription": "驚いた出来事を聞いてみたいと思いました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はい、あります",
+            "emotion_transcription": "おどろいたことは"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "どんなことがありましたか？",
+            "emotion_transcription": "驚いたことを聞きたいかったです。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "福引で高級酒が当たりました",
+            "emotion_transcription": "おどろきました"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それはすごいですね。私はくじ運が悪く当たることがないので羨ましいです。高級酒はおいしかったですか？",
+            "emotion_transcription": "あったことの凄さと景品のことをお聞きしたいと思いました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "ただその酒は凄い強くすぐに酔いました。",
+            "emotion_transcription": "予想以上にアルコール度数が高い"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんですね。二日酔いにはならなかったですか？",
+            "emotion_transcription": "次の日大丈夫だったか気になりました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "美味しかったですが、翌日調子が悪かったです。",
+            "emotion_transcription": "飲んで後悔しました"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それは大変でしたね。毎日、少しづつ飲むのがいいかもですね。",
+            "emotion_transcription": "飲み方のアドバイスをしたかったです"
+        }
+    ],
+    "dialogue_emotion": "おどろく",
+    "dialogue_id": 89
+}

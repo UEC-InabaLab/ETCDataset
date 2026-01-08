@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "FY",
+        "listener": "CF"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ネットショップで買ったズボンが全然履けなくて、自分の体を恥じました",
+            "emotion_transcription": "あるあるかな？と思います"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ネットショップの物はサイズ感がわからない事もあるので恥じることまでは無いと思いますよ。",
+            "emotion_transcription": "励ましている"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ありがとうございます。ついにMサイズが履けなくなって絶望してしまいました。",
+            "emotion_transcription": "優しいフォローに感謝です"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "Mサイズが理想なのですね。サイズアップしたらやはり気になりますか。",
+            "emotion_transcription": "相手の希望を聞く感じです。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。悲しさがあります。悲し過ぎてダイエットを初めて、6キロ痩せたのにまだ履けなくて、ズボンのつくりが厳しいのか！と思い始めました",
+            "emotion_transcription": "Mサイズにこだわらない選択肢を考えましたがこだわりたかったです"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "6キロもやせたとは大変な努力です。メーカーでサイズも変わる事もあるのでサイズアップで試してみるのもアリかもです。",
+            "emotion_transcription": "相手に提案する気持ち"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。よく買うブランドだったので油断しました！ピッタリ系はサイズアップも仕方ないかもしれないです。",
+            "emotion_transcription": "柔軟性を持とうと思います"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "充分努力されているので、見た目はいい感じになるかもしれません。",
+            "emotion_transcription": "期待をする感じ"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ありがとうございます。せめて恥ずかしくない体型を維持したいと思います！",
+            "emotion_transcription": "前向きな言葉に感謝です"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですよ。努力されて結果も出てるのだからいいと思います。",
+            "emotion_transcription": "相手を応援する気持ち"
+        }
+    ],
+    "dialogue_emotion": "恥じる",
+    "dialogue_id": 965
+}

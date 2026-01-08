@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "GO",
+        "listener": "BG"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "最近高齢の父が変な言動をするようになって心配です。",
+            "emotion_transcription": "誰かに心配事を打ち明けて少し楽になりたいです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それは心配ですね。日常生活で何か支障はありましたか。",
+            "emotion_transcription": "深刻度を知りたいと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "今まで出来ていた家事とかに支障が出ています。",
+            "emotion_transcription": "何かアドバイスとかもらえたら嬉しいと思います。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "会話のキャッチボールはできるのですか。",
+            "emotion_transcription": "具体的な支障を聞きたいと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "出来る時と出来ない時があって困っています。本人は自覚がないので検査にも連れて行けません。",
+            "emotion_transcription": "状況をわかってもらいたい、という気持ちです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それ以上症状が悪くならなければいいのですが。",
+            "emotion_transcription": "相手の不安な気持ちに同情し、なぐさめの言葉をかけました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "遠方に住んでいるので今後どうなるのか不安です。",
+            "emotion_transcription": "このモヤモヤをどうしたら良いのかわからない気持ちです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "離れて暮らされているのですね。近くに世話をしてくれる人はいますか。",
+            "emotion_transcription": "対応策を模索しようと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "親戚も近くに住んでいないので悩んでいます。",
+            "emotion_transcription": "この対話で不安が全く解決出来なくてちょっと残念です。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そのような状況についてのできる対処についてネットで検索してみてください。何かできることがあると思います。",
+            "emotion_transcription": "相手がよりよい対応を見つけて欲しいと思いました。"
+        }
+    ],
+    "dialogue_emotion": "不安に思う",
+    "dialogue_id": 233
+}

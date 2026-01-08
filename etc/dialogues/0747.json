@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "DP",
+        "listener": "FD"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "昨夜の2時ごろ、誰かが玄関を叩く音に目が覚めたんです。",
+            "emotion_transcription": "起きた出来事について聞いて欲しい。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "え、霊ですか？",
+            "emotion_transcription": "話が面白くなるかと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "でしょ！怖くて布団を頭から被ったのですが、何度も聞こえてくるんです。",
+            "emotion_transcription": "体験を伝えて相手の反応を知りたい。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そんなの怖くて眠れないですよね〜？見に行ったんですか？",
+            "emotion_transcription": "ワクワクする気持ちがあります。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ひとりじゃとても無理なので、隣りで寝ている夫を無理やり起こして二人で見に行ったんです。",
+            "emotion_transcription": "出来事を突き止める行動を褒めてもらいたい。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "よかった！勝手にひとりだと思い込んでいました。どうでしたか？",
+            "emotion_transcription": "心細くなくてよかったと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "夫はゴルグクラブを手に、私は何故か枕を抱え玄関へ行くとまだ音がするので、夫が根を切らして開けたんです。",
+            "emotion_transcription": "ドキドキした気持ちを伝えたい。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "面白がっちゃいけないのかもしれないですが面白い光景ですね。扉の先には？",
+            "emotion_transcription": "仲良しな夫婦だな〜とほのぼのした気持ちになりました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "玄関先に日除け用に吊るしていたシェードが強風に吹かれてドアに何度もあたってたんです！",
+            "emotion_transcription": "どんな反応があるか楽しみな気持ち。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "相当な強風だったんですね！旦那様に気づいて欲しかった気持ちもありますが、何事もなくよかったです！",
+            "emotion_transcription": "しっかりオチありですごいな〜思いました！"
+        }
+    ],
+    "dialogue_emotion": "怖い",
+    "dialogue_id": 747
+}

@@ -1,0 +1,184 @@
+{
+    "participants": {
+        "speaker": "GN",
+        "listener": "EU"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "今度家に子猫を迎えることになったので家族みんなわくわくしています。",
+            "emotion_transcription": "子猫を迎えるうれしさと期待でいっぱいです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "子猫いいですね、自分も猫好きです。",
+            "emotion_transcription": "相手が猫好きで嬉しい気持ちです。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "サザエさんのタマに小さい時からあこがれていたので楽しみです。",
+            "emotion_transcription": "小さい時からの憧れが現実になってうれしい気持ちです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "タマのように愛らしい子猫に会えると思うと、胸が高鳴りますね！",
+            "emotion_transcription": "相手の子供の頃の願いが叶ったのを聞いて嬉しい気持ちです。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "目が青く長毛種で本当にかわいらしいです。",
+            "emotion_transcription": "子猫の姿がかわいくて期待であふれています。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "その長い毛と澄んだブルーの瞳を想像すると、本当にワクワクします",
+            "emotion_transcription": "相手の楽しそうな雰囲気にこっちまでちょっとテンションが上がり気味です。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び",
+                    "嫌悪"
+                ],
+                [
+                    "喜び",
+                    "嫌悪"
+                ],
+                [
+                    "喜び",
+                    "恐怖"
+                ]
+            ],
+            "utterance": "長毛種なのでお部屋の掃除が大変そうではあります。",
+            "emotion_transcription": "猫を迎えるうれしさはあるが掃除が大変だなーと思っています。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び",
+                    "恐怖"
+                ]
+            ],
+            "utterance": "毎日のブラッシングは大変そうですが、子猫とのコミュニケーションタイムと思えば楽しそうですね",
+            "emotion_transcription": "ブラッシングは大変そうだけど、猫のかわいさを考えれば逆に楽しい時間になりそう"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "早く家族の一員になってもらって末永く暮らしていけると幸いです。",
+            "emotion_transcription": "子猫を迎え入れて最後まで面倒を見ていこうという決意を持ちました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなったら、毎日が楽しみで仕方ありませんね",
+            "emotion_transcription": "猫と共に幸せな時間を過ごせるように願っている気持ちです。"
+        }
+    ],
+    "dialogue_emotion": "わくわくする",
+    "dialogue_id": 95
+}

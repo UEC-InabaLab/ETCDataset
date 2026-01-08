@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "FM",
+        "listener": "CH"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "家の家族がみんな仲良しなんですよ",
+            "emotion_transcription": "素晴らしいことだと思います。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "家族がみんな仲が良いのは誇りに感じることだと思いますね、なかなかみんな仲が良いというのはないですから。",
+            "emotion_transcription": "優しそうな返事だな"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "はい、たまには我慢をさせられますが、幸せです。",
+            "emotion_transcription": "我慢をすることも大事だと思います。我慢をすることで絆も深まったりします。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "我慢をすることもあると思いますが基本的に仲が良いということは尊いことだと思います。",
+            "emotion_transcription": "話に合わせてくれてうれしい"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですね、この幸せを一日でも長く持続させたいです",
+            "emotion_transcription": "家族と長く過ごせることが幸せに繋がると思えるのは素晴らしいことです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "家族と一緒にいることが幸せだと感じられるのは良いことですね。",
+            "emotion_transcription": "自慢ぎみに話してしまった"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ところであなたのご家族構成は？",
+            "emotion_transcription": "他人に質問するのは気が引ける"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私の家族は夫と娘がいます。",
+            "emotion_transcription": "似たような感じの人かな"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "お互い幸せですね",
+            "emotion_transcription": "幸せだと改めて言われると恥ずかしい。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですね。家族がいると幸せを感じます。",
+            "emotion_transcription": "家族がいるということはみんな幸せを感じるということだと思います。"
+        }
+    ],
+    "dialogue_emotion": "誇りに思う",
+    "dialogue_id": 6
+}

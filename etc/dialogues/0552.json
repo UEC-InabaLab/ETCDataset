@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "BW",
+        "listener": "CQ"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "最近始めたピアノの練習が思っていた以上に楽しくて夢中になっています。",
+            "emotion_transcription": "自分の楽しい気持ちを相手に伝えたいです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "素敵ですね。何がそんなに楽しいんですか？難しそうなイメージがあります。",
+            "emotion_transcription": "相手の趣味に興味を持ちました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "最初は指が全然動かなくて苦労したんですが少しずつ弾けるようになるのが実感できて、新しい曲に挑戦するのもワクワクします。",
+            "emotion_transcription": "何が自分にとって楽しいか相手に分かってほしいです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "成長を実感できるのは楽しいですね！新しい曲に挑戦するのは、まさに楽しい瞬間ですね。",
+            "emotion_transcription": "相手の楽しさに共感していることを伝えたいです。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "練習している間は他のことを忘れて集中できるんです。時間を忘れるくらい没頭できて心が満たされます。",
+            "emotion_transcription": "その時間が自分にとってどれだけ重要か相手に理解してほしいです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そういう時間を持てるのは、本当に心が豊かになりますね。",
+            "emotion_transcription": "相手の趣味の素晴らしさを認めたいです。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "少しずつでも憧れの曲が弾けるようになるのを想像すると、それだけで頑張ろうって思えます。",
+            "emotion_transcription": "自分のモチベーションの源を相手に共有したいです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "素晴らしいモチベーションですね！目標に向かって努力する時間もきっと楽しいでしょうね。",
+            "emotion_transcription": "相手の頑張りを後押ししたいです。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "この楽しさを忘れずに、これからもずっと続けていきたいと思っています。",
+            "emotion_transcription": "続ける意思があることを相手に伝えたいです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "応援しています！",
+            "emotion_transcription": "相手の今後を祈りました"
+        }
+    ],
+    "dialogue_emotion": "楽しい",
+    "dialogue_id": 552
+}

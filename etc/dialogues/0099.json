@@ -1,0 +1,182 @@
+{
+    "participants": {
+        "speaker": "FU",
+        "listener": "CS"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "毎年なんですけど、GWってわくわくします。今年は特にどこか行くわけではないのですが。",
+            "emotion_transcription": "この楽しい気持ちを共感してほしいと思いました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですよね！私もGWのあの開放的な雰囲気が大好きです。",
+            "emotion_transcription": "共感と肯定の気持ち。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "家族連れが楽しそうに観光してるのを見るとほっこりします。",
+            "emotion_transcription": "楽しそうな子供たちのことを思い出しました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "本当にそうですね。そういう光景を見ると、なんだか幸せな気持ちになります。",
+            "emotion_transcription": "相手の温かい気持ちに共感した気持ち。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び",
+                    "嫌悪"
+                ],
+                [
+                    "喜び",
+                    "怒り"
+                ]
+            ],
+            "utterance": "ただ、わくわくと同時に渋滞や混雑があるのでストレスも発生します。",
+            "emotion_transcription": "良い面と悪い面があるのがGWの特徴だなと感じました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "あ～、それはすごくよく分かります！せっかくの楽しい気分も、渋滞に巻き込まれるとげんなりしちゃいますよね。",
+            "emotion_transcription": "共感を示すことで、相手の気持ちに寄り添いたい気持ち。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "こればかりはどうしようもないですが、活気があることは良いことです。",
+            "emotion_transcription": "観光客で賑わう街並みを見るのは楽しいです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "確かにそうですね。多少の我慢は必要だけど、みんなが楽しんでいる証拠ですもんね。",
+            "emotion_transcription": "ポジティブな意見に、少し驚いた気持ち。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "物価高など問題山積みですが、せめてGWだけは楽しんでほしいものです。",
+            "emotion_transcription": "値段の高騰はとりあえず忘れて長期休暇で疲れを癒してほしいという気持ちです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "本当にそう思います。日々の大変さを忘れて、少しでも心が晴れる時間になるといいですよね。",
+            "emotion_transcription": "相手への思いやりと共感を込めたい気持ち。"
+        }
+    ],
+    "dialogue_emotion": "わくわくする",
+    "dialogue_id": 99
+}

@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "AB",
+        "listener": "AM"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "仕事で周りについていけず休憩中も作業して埋め合わせしています。",
+            "emotion_transcription": "申し訳なくて焦ってしまいます。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "マイペースではできない仕事なんですね？",
+            "emotion_transcription": "どんな仕事なのか知りたくいて質問しています"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "二人作業で作業していて、両方が終わらないと次の作業に入れないのです。",
+            "emotion_transcription": "出来る限り早く終わらせようと思っています。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "作業相手のことがあると余計プレッシャーがかかってストレスになりますね",
+            "emotion_transcription": "相手の置かれている状況を理解し寄り添えるようにと考えています"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "はい！どんだけ頑張っても相手のペースについていけず焦る毎日です。",
+            "emotion_transcription": "自分に自信が無くて悲しくなります。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "まだご経験が浅いんですか？",
+            "emotion_transcription": "うしろめたさを払拭できる要素を模索しています"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "入社して3年目なんです。",
+            "emotion_transcription": "そろそろ慣れてるはずなのにこれ以上どうする事も出来ず困っています。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それは焦ってしまうかもしれません。でも休憩しないと悪循環になることもあるので休んでくださいね。",
+            "emotion_transcription": "効率よく働くことに休憩が必要であることをわかってほしいと感じました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "悪循環なのは分かっていても休憩していられず仕事をしてしまいます。",
+            "emotion_transcription": "仕事なので後れを最小減にして出来るだけ相手を困らせたくないと思っています。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "少しでも後ろめたさがなくなるように祈っています",
+            "emotion_transcription": "短い会話ではうしろめたさを払拭できず残念です"
+        }
+    ],
+    "dialogue_emotion": "うしろめたい",
+    "dialogue_id": 182
+}

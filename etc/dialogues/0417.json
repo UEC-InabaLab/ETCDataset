@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "EF",
+        "listener": "FF"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "先日、好きなアーティストが亡くなりました。",
+            "emotion_transcription": "とても悲しい気持ち"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それはすごくつらいことですね。",
+            "emotion_transcription": "推しがいなくなるのはとてもつらいだろうなあと思います。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "訃報を聞いたとき、心臓が止まるかと思いました",
+            "emotion_transcription": "とてもおどろいた"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "好きな人が亡くなるのはとても辛いですよね。",
+            "emotion_transcription": "きっとすごく悲しい気持ちだと思います。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "しかも、まだ30代の方でした。",
+            "emotion_transcription": "悔しい気持ち"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そんなに早く亡くなられるなんて、信じられないですね。",
+            "emotion_transcription": "予想外のことでずいぶんショックを受けているんだろうなと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "いい人ばかりいなくなりますね。",
+            "emotion_transcription": "とても悲しい気持ち"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "そうですね。いい人やすばらしい人が亡くなるのは辛いです。",
+            "emotion_transcription": "相手の方の心情を考えると悲しい気持ちです。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "好きな人には会える内に会うべきですね。",
+            "emotion_transcription": "前向きな気持ち"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "会える時に会うことは大事だと私も思います。",
+            "emotion_transcription": "少し前向きな気分になられて良かったと思いました。"
+        }
+    ],
+    "dialogue_emotion": "悲しい",
+    "dialogue_id": 417
+}

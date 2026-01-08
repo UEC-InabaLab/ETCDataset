@@ -1,0 +1,185 @@
+{
+    "participants": {
+        "speaker": "HO",
+        "listener": "DJ"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び",
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ",
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "今年は、子供が大学受験なので少し期待しています。",
+            "emotion_transcription": "初めての経験で期待半分困惑半分です。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "親御さんも大変ですよね、頑張ってください。",
+            "emotion_transcription": "相手に寄り添った返答をしたいと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び",
+                    "嫌悪"
+                ],
+                [
+                    "喜び",
+                    "悲しみ",
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ありがとうございます。期待しているものの何をしたら良いか悩んでいます。",
+            "emotion_transcription": "期待している反面、困惑もしています。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですよね、私なら自分が親にどうしてほしかったか考えてみるかもしれないです。",
+            "emotion_transcription": "相手に寄り添った返答をしたいと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "自分の親は、受験に無頓着だったので、それが1番かもしれません。",
+            "emotion_transcription": "子供も色々期待していると思います。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "なるほどですね、私もあまりごちゃごちゃ言われたくなかったと思い出しました。",
+            "emotion_transcription": "アドバイスしながら自分はどうだったかを思い出せないでいました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "確かにそう思います。良かれと思って言っている事は分かっているけど、何故か腹立たしかった事を思い出しました。",
+            "emotion_transcription": "期待しているから何かと言いたいけど我慢です。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私がその立場になってみたら、苦戦してしまいそうです。。",
+            "emotion_transcription": "イメージしてみると、それは難しいだろうなと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "親なら、いつかは通る道と思って来年3月まで頑張ります。",
+            "emotion_transcription": "頑張る自分にも期待したいです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私もいつか通る道です。その際はアドバイスお願いします。",
+            "emotion_transcription": "応援しながら、相手を経験者として立てたい気持ちです"
+        }
+    ],
+    "dialogue_emotion": "期待する",
+    "dialogue_id": 212
+}

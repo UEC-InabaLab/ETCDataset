@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "ED",
+        "listener": "BW"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "最近映画を観て感動しました",
+            "emotion_transcription": "相手に興味を持ってもらいたい気持ちです"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "どの映画をご覧になって感動されたのですか？",
+            "emotion_transcription": "相手に興味があることを示したかったです"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "グリーンマイルという映画です。主人公の優しさに心を打たれました",
+            "emotion_transcription": "映画を観た時の気持ちを相手に分かってもらいたいです"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "私も観たことあります。どういうところが好きですか？",
+            "emotion_transcription": "自分が共感していることを相手に伝えたいです"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "主人公が苦しい場面に出くわしても他の登場人物のことを思いやる姿勢に感動しました。",
+            "emotion_transcription": "相手に感動を共有してもらいたいです"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですよね。人を思いやる気持ちの強さを知れますよね。他に好きな映画はありますか？",
+            "emotion_transcription": "相手に共感しつつ他に同じ好きな映画はあるのか興味を持ちました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "感動系でいうとショーシャンクの空にも有名ですよね",
+            "emotion_transcription": "相手も観ていたら嬉しいなという気持ちです"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "有名ですよね。でもまだ観たことないんです。面白いですか？",
+            "emotion_transcription": "相手に少し申し訳ない気持ちです"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "すごく面白いです。グリーンマイルが好きな人はハマると思います",
+            "emotion_transcription": "相手にも観てもらいたいと強く思っています"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "今度観てみたいと思いました。ありがとうございました。",
+            "emotion_transcription": "相手がおすすめしてきてくれたので嬉しい気持ちです"
+        }
+    ],
+    "dialogue_emotion": "感動する",
+    "dialogue_id": 55
+}

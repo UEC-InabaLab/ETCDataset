@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "CZ",
+        "listener": "EP"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "猫に噛まれました。",
+            "emotion_transcription": "悲しい心情です"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "飼い猫ですか？それは悲しいですね。",
+            "emotion_transcription": "詳しい話を聞きたいと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "野良猫に餌をあげたら噛まれました。",
+            "emotion_transcription": "悲しくてやるせない気持ちです"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "餌をあげていたのに・・・私も猫をかっているのですが、時々かまれます。",
+            "emotion_transcription": "同じ経験があるので共感している気持ちを伝えたい。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "でも、野良猫に餌付けしたらダメですよね",
+            "emotion_transcription": "反省の気持ちです"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "可愛いからついあげたくなる気持ちもわかります。",
+            "emotion_transcription": "少しでも気持ちを和らげたい気持ちになりました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "猫好きが災いしました",
+            "emotion_transcription": "反省して悲しい気持ちです"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "最近は地域猫も浸透しているので、迷惑がかからないように猫を可愛がりたいですね。",
+            "emotion_transcription": "自分の考えを伝えたいと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "そうですね。でも猫を飼うのが一番ですね。",
+            "emotion_transcription": "悲しい気持ちから回復に努めています"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私は犬派だったのですが、保護猫を飼ってから猫の虜になりました。",
+            "emotion_transcription": "解決策をおすすめしたいと思いました。"
+        }
+    ],
+    "dialogue_emotion": "悲しい",
+    "dialogue_id": 122
+}

@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "FD",
+        "listener": "FS"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ブライダルフォトグラファー13年、海のガイドを3年やっていたので、写真と海にはある程度自信があります！",
+            "emotion_transcription": "これ以外に逆に何もないかもしれません。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "フォトグラファーですか凄いですね。カメラはどういったものを使っているのですか？",
+            "emotion_transcription": "使っているカメラが気になりました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "４年前まではcanonのフルサイズ一眼を使用していました！",
+            "emotion_transcription": "機材は現在はいいものを使用していないから自信がないです・・・"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私はカメラに詳しくないのですがお高いのでしょうか？",
+            "emotion_transcription": "カメラの価格が気になりました"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですね、一台あたり20万オーバーくらいのものを使用します。",
+            "emotion_transcription": "下積み時代に頑張ってお金貯めて買ったことを思い出しています。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "それはかなりしますね。壊したりしたら大変だ。",
+            "emotion_transcription": "価格の高さに驚きました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "メンテナンスにも数万かかったりするので、相棒は大切に大切にしています。",
+            "emotion_transcription": "擬人化させたら変に思われるかもしれないですが、大切な子です。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "メンテナンスにもそんなに掛かるのですね。",
+            "emotion_transcription": "価格の高さに驚愕しました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "写真は好きなんですが、なかなか新しい機材が買えないところが辛いところですね！",
+            "emotion_transcription": "頑張ってお金貯めたいと思っています。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "カメラは奥が深いのですね。",
+            "emotion_transcription": "カメラにとても興味が湧きました"
+        }
+    ],
+    "dialogue_emotion": "自信がある",
+    "dialogue_id": 803
+}

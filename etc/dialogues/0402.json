@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "GU",
+        "listener": "GQ"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "約束を守らない友人に腹が立ちますし怒っています。",
+            "emotion_transcription": "怒りを相手に共感してもらいたかったです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私はそういう友人とは関わらないようにしています。",
+            "emotion_transcription": "その状況が合ったので、共感をしたかったです。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "一回だけじゃないので、余計に怒りが増してきます。",
+            "emotion_transcription": "怒っていることを、とにかく相手に知って欲しかったです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私もそういう友人が居ましたので、良く分かります。私はそういう友人とは離れていますよ。",
+            "emotion_transcription": "相手の強い怒りの気持ちが分かり、私はこうすることを伝えました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "分かっていただいて嬉しいです。私も関わらないようにしようかなと考えます。",
+            "emotion_transcription": "相手が教えてくれたことを共感しました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "何回も約束を破るなら、関わらないようにすることをおすすめしますし、本当の友達ではないですね。",
+            "emotion_transcription": "相手にアドバイスとなるように教えました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "本当にその友達にはがっかりで、怒るのも疲れました。",
+            "emotion_transcription": "相手に気持ちを分かって欲しかったです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "これからそういう友達とは関わらないで、良い友達と繋がってほしいです。",
+            "emotion_transcription": "相手の気持ちを汲み取り、アドバイスをしたいと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ありがとうございます。これから約束を守る友人と繋がりたいです。",
+            "emotion_transcription": "相手の気持ちに理解を示し感謝したいと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はい。そのようになれるように願います。",
+            "emotion_transcription": "相手に良い縁があることを示しました。"
+        }
+    ],
+    "dialogue_emotion": "怒る",
+    "dialogue_id": 402
+}

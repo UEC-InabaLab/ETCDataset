@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "CF",
+        "listener": "FU"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "仕事で追われている時に、毎日ゆっくりしている人を見ると羨ましく感じます。",
+            "emotion_transcription": "そんな人が目につきます。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "分かります。私も働かずにゆっくりしてみたいと思うときがあります。",
+            "emotion_transcription": "共感できる話だったので同じようなことを書きました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "怒り",
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "同じ職場ないでもいるんですよ。何でこの人何もしてないんだろうて人が",
+            "emotion_transcription": "不信感を感じる"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "職場内の話でしたか。それも分かります。こんなにも大変なのに何でのんきに仕事してるのかという同僚ですね。",
+            "emotion_transcription": "勘違いしていた自分が恥ずかしくなりました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "真面目に仕事している方が馬鹿みたいで、これでほぼ同じ給料だと羨ましすぎます。",
+            "emotion_transcription": "これだと割に合わない"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "不公平ですね。ただ与えられた仕事をやるしかないのが現実です。辛いですね。",
+            "emotion_transcription": "本当にそうだなと思いました。同時に前も向いていかないといけなのかなとも思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "こうゆう事で仕事のやる気が無くなっていくんでしょうね。",
+            "emotion_transcription": "やる気がわかない"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "モチベーションが高くても、そういった人が身近にいるとそうなりますね。",
+            "emotion_transcription": "やる気がある人の気持ちを下げるような雰囲気の職場は良くないと感じました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "すいません。ネガティブな話ばかりで、でも話せて良かったです。何か羨ましい話ではなくなりましたね。",
+            "emotion_transcription": "少し気分が晴れました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "いえ、共感できました。実際羨ましいです。お互いに頑張りましょう。",
+            "emotion_transcription": "頑張っているからこその愚痴なんだと理解できました。"
+        }
+    ],
+    "dialogue_emotion": "羨ましい",
+    "dialogue_id": 288
+}

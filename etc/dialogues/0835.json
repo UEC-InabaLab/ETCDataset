@@ -1,0 +1,182 @@
+{
+    "participants": {
+        "speaker": "CE",
+        "listener": "EI"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "今年の夏、コロナ禍以降振りに海外旅行に行く予定で待ち遠しいです。",
+            "emotion_transcription": "何をしようかわくわくしています。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "私も旅行好きです！どこに行くんですか？",
+            "emotion_transcription": "好きな旅行の話なので、詳しく聞きたいと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "旅行お好きなのですね。ウィーンに行く予定です。",
+            "emotion_transcription": "話がはずみそうで、わくわくします。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "オーストラリアですね！凄いですね！数か月前より円高になっているので、もっと進めばいいですね！",
+            "emotion_transcription": "羨ましい思いで、話を広げようと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですね。進めば良いと期待しています。",
+            "emotion_transcription": "自分ではあまり気づいていないことを言っていただけて気づきがありました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "オーストラリアで何をするんですか？観光ですか？",
+            "emotion_transcription": "気になって掘り下げて聞いてみました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び",
+                    "驚き"
+                ],
+                [
+                    "喜び",
+                    "驚き"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "まだ全然決めていなくて。飛行機がけっこう埋まってきてるらしくそちらの手配のみした状況です。",
+            "emotion_transcription": "楽しみもありましたが、慌てた感じもありました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうなんですね！ガイドブックを見ながら、色々決めていくの楽しそうですね！",
+            "emotion_transcription": "相手の話を聞きながら、私もわくわくしてきました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "はい、そういう時間が一番わくわくしますね。",
+            "emotion_transcription": "楽しみが増しました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうなんですよ！私まで楽しくなってきました！気を付けて行ってきてください！",
+            "emotion_transcription": "共感し、わくわくした感情を伝えました。"
+        }
+    ],
+    "dialogue_emotion": "待ち望む",
+    "dialogue_id": 835
+}

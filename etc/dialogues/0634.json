@@ -1,0 +1,182 @@
+{
+    "participants": {
+        "speaker": "ED",
+        "listener": "DE"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "昔の友達からもらった手紙を偶然見つけて、なんだかとても感傷的になってしまいました。",
+            "emotion_transcription": "手紙を見て昔を思い出しました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "わかります、そういうことありますよね。どんな手紙だったんですか？",
+            "emotion_transcription": "相手の気持ちに共感しました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "中学時代の交換日記みたいなもので将来の夢とかくだらない悩みとか色々なことが書いてありました",
+            "emotion_transcription": "懐かしい思い出が蘇りました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "交換日記ですか、すごく青春ですね。当時のことが鮮明に思い出されそうです。",
+            "emotion_transcription": "相手の過去に興味を持ちました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "喜び",
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "そうなんです。楽しかったなぁと思うと同時に、もうあの頃には戻れないんだなと思うと少し寂しくて。",
+            "emotion_transcription": "楽しかった思い出と今の状況を比較しました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "楽しい記憶ほど戻れないと感じると切なくなりますよね。大切な思い出ですね。",
+            "emotion_transcription": "相手の切ない気持ちに寄り添いました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び",
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はい。でも、あの頃があったから今の私があるんだなとも感じたりしました。",
+            "emotion_transcription": "過去が今につながっていると感じました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。過去の経験が今のあなたを作っているんですね。",
+            "emotion_transcription": "相手の言葉に同意しました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "なんだか、改めて友達や過ごした時間のありがたさを感じました。",
+            "emotion_transcription": "過去への感謝の気持ちを感じていました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そういう時間も大切にしてください。",
+            "emotion_transcription": "相手の感情を肯定しました。"
+        }
+    ],
+    "dialogue_emotion": "感傷的になる",
+    "dialogue_id": 634
+}

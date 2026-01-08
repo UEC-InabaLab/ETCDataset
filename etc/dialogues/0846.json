@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "HA",
+        "listener": "FS"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "最近YouTubeで昔のテレビCMを集めた動画を見て懐かしい気持ちになりました。",
+            "emotion_transcription": "相手に自分の感じた感情について聞いて欲しいと思いました。共感してほしいです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "どういうCMを見て懐かしいと感じたのですか？",
+            "emotion_transcription": "懐かしいCMがどういったものか気になりました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "炭酸飲料水などのジュースのCMを見て小学生のときによく飲んだなと思い出し懐かしさがこみ上げてきました。",
+            "emotion_transcription": "相手になんて説明しようか悩みました。うまく伝わるか心配です。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "炭酸飲料ですか。大人になるとあまり飲まなくなりますもんね。",
+            "emotion_transcription": "炭酸飲料などの甘い飲料は大人になると飲まないということに共感して欲しいと思いました"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうんなです。あなたはどんなときに懐かしい気持ちになりますか？",
+            "emotion_transcription": "相手に伝わったようで安心しました。相手にも質問してみたくなりました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "子どものときにプレイしたゲームをYouTubeなどで見ると懐かしい気持ちになりますね。",
+            "emotion_transcription": "遊んだ気持ちを共感して欲しいと伝えました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "わかります。どんなゲームをしていましたか？",
+            "emotion_transcription": "相手の意見に共感しました。もっと詳しく知りたくなりました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ポケモンやモンハンですね",
+            "emotion_transcription": "自分のプレイしたゲームを伝えました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "モンハンはしていませんがポケモンは懐かしいですね。流行りましたよね？",
+            "emotion_transcription": "やったことがあるゲームのタイトルを聞いて嬉しくなりました。相手と共感したい気持ちが高まりました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "めちゃくちゃ流行りましたね。とても懐かしいです。",
+            "emotion_transcription": "とても懐かしい気持ちになりました"
+        }
+    ],
+    "dialogue_emotion": "懐かしい",
+    "dialogue_id": 846
+}

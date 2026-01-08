@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "FJ",
+        "listener": "EK"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "プロとかではないのですが、料理に自信があります。",
+            "emotion_transcription": "自分が得意な事を相手に伝えています。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "すごいですね｡どのような料理が得意ですか｡",
+            "emotion_transcription": "ワクワク､楽しみな気分です｡"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "中華や韓国料理、いわゆる男の料理というのでしょうか。豪快な料理が得意です。",
+            "emotion_transcription": "相手の質問に対して、具体的に答えています。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "カッコいいですね｡韓国､中国料理が得意なんて食べてみたいですね｡",
+            "emotion_transcription": "テキパキした繊細なイメージです｡"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "チャーハンとかでしたら簡単ですからね。家だと火力がもっと欲しいところではありますが。",
+            "emotion_transcription": "好意的な応答だったので少し謙遜しています。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "チャーハンですか､自分はどうしてもパラパラな仕上がりにならず難しいと感じています｡",
+            "emotion_transcription": "ややガッカリした気分です｡"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖",
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "最初からご飯に卵を混ぜてしまうと良いらしいですよ。私はそれだと上手く出来ないのですけども。",
+            "emotion_transcription": "相手にアドバイスをしてみましたが、ふさわしい回答だったのか少し不安になっています。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ご飯に卵を混ぜておくのは時短にも繋がるし､面白そうですね｡",
+            "emotion_transcription": "画期的で嬉しい気分です｡"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "フライパンに入れてから、しばらくかき混ぜないのもコツらしいです。ぜひ試してみて下さい。",
+            "emotion_transcription": "情報が役に立ちそうで安心しています。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "すごいですね｡料理への関心が素晴らしいので､プロになってほしですね｡",
+            "emotion_transcription": "ハッピーで明るく晴れやかな印象です｡"
+        }
+    ],
+    "dialogue_emotion": "自信がある",
+    "dialogue_id": 800
+}

@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "BI",
+        "listener": "BU"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "リスナーさんを信じて教えてもらいました。",
+            "emotion_transcription": "助かりました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "何を教えてもらったのでしょうか。",
+            "emotion_transcription": "内容が不明だったので尋ねました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "この作業のやり方です。",
+            "emotion_transcription": "困っていました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "お役に立ててよかったです。",
+            "emotion_transcription": "お礼を述べました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "以前にも仕事相手を信じてアドバイスをもらいました。",
+            "emotion_transcription": "ありがとうという気持ちでした。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "どんなアドバイスですか",
+            "emotion_transcription": "相手の発話内容の詳細を聴きたくて書きました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ちゃんとホウレンソウすることです。",
+            "emotion_transcription": "教えてくれた時はよかったと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "具体的にそのアドバイスのおかけで助かったことは何ですか。",
+            "emotion_transcription": "具体的なエピソードを聴きたくて書きました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "何かミスしたときに、相談したことで周囲が助けてくれました。",
+            "emotion_transcription": "嬉しかったです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それはよかったですね。",
+            "emotion_transcription": "同意しました。"
+        }
+    ],
+    "dialogue_emotion": "信頼する",
+    "dialogue_id": 642
+}

@@ -1,0 +1,183 @@
+{
+    "participants": {
+        "speaker": "BW",
+        "listener": "DE"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "先日、困っていた時に全く知らない人に助けていただいて本当に感謝しています。",
+            "emotion_transcription": "見知らぬ人への感謝を感じていました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それは素敵なお話ですね。どんな状況だったんですか？",
+            "emotion_transcription": "相手の経験に興味を持ちました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "重い荷物を持って階段を上るのに苦労していたら何も言わずにサッと手伝ってくれたんです。",
+            "emotion_transcription": "受けた具体的な助けについて説明しました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "親切な方がいらっしゃるんですね！困っている時に、さりげなく手助けしてもらえるのは本当にありがたいですよね。",
+            "emotion_transcription": "その方の親切な行動を称賛しました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び",
+                    "驚き"
+                ],
+                [
+                    "喜び",
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "声もかけられずに立ち止まっていたので、まさか助けてもらえるなんて思っていなくてすごく感動しました。",
+            "emotion_transcription": "予想外の助けに感動していました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び",
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そういう予想外な優しさって、心に深く響きますよね。",
+            "emotion_transcription": "予期せぬ優しさの価値を認めました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はい。困っている人がいたら自分もああいう風に自然に手を差し伸べられる人間でありたいなと思いました。",
+            "emotion_transcription": "自分も誰かの力になりたいと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "まさに、感謝の気持ちが次の善意に繋がるんですね。素晴らしいですね。",
+            "emotion_transcription": "善意の連鎖について考えました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "改めて見ず知らずの人からの優しさが素敵かを実感しました",
+            "emotion_transcription": "優しさの温かさを感じていました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "本当にそうですね。そういう経験は素晴らしいですね",
+            "emotion_transcription": "優しさがもたらす良い影響について考えました。"
+        }
+    ],
+    "dialogue_emotion": "感謝する",
+    "dialogue_id": 438
+}

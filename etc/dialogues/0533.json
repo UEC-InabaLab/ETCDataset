@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "HG",
+        "listener": "BV"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "外出時にガスの元栓を閉めたのか不安になってしまいます。",
+            "emotion_transcription": "自分に起きた状況を説明し、共感してもらいたかったです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "私も不安になることがあります。",
+            "emotion_transcription": "相手の気持ちに寄り添った答えがしたいと思いました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "分かってくれるんですね！必ず一度家に戻り、元栓を閉めたのか確認してしまいます。",
+            "emotion_transcription": "共感してくれたことに嬉しくなり、自分の行動を相手に話しました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "それは大事なことです。その心がけは必要なことだと思います。",
+            "emotion_transcription": "自分も全く同じ気持ちであることを伝えたかったです"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ありがとうございます。もし、ガス漏れでもしたら大変ですもんね。",
+            "emotion_transcription": "同意してもらい、自分の行動が正しいことだと言われて感謝しています。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私は水をだしたままにしたり、トイレの電気を消し忘れたりすることがあります。",
+            "emotion_transcription": "違う事例を出して確認の大事さを伝えたいと思いました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "それは危ないかもしれないですね。何か危険なことになったりしませんでしたか？",
+            "emotion_transcription": "相手の話に少し驚き、興味が湧いたので質問しました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "幸いすぐに気づいて大事には至りませんでした。",
+            "emotion_transcription": "相手の問いかけに丁寧に答えたいと思いました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それは良かったですね。何事もなくてホッとしました。",
+            "emotion_transcription": "相手が無事だったことに安心しました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "何事も油断せず確認が大事ですよね",
+            "emotion_transcription": "確認の大事さを相手に伝えたかったです。"
+        }
+    ],
+    "dialogue_emotion": "不安に思う",
+    "dialogue_id": 533
+}

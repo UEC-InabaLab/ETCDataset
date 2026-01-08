@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "FQ",
+        "listener": "AK"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "芸能人の不倫が話題ですね。",
+            "emotion_transcription": "話題提供し、相手との会話を楽しみたいと思いました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "本当ですね。何か暗い話題ですよね。",
+            "emotion_transcription": "悲しいことです"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "必要な嘘も生きていればありますが、良くないですよね。",
+            "emotion_transcription": "相手の人となりを知りたいと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "確かにそうですね。嘘は良くないですね。",
+            "emotion_transcription": "同情の心情です"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "燃え上がってしまうと、そんなことはどうでも良いのでしょうかね。",
+            "emotion_transcription": "自分の考えを提示したくなりました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "他人事のようにどうでも良くなるのかもしれませんね。",
+            "emotion_transcription": "誠実な真摯の感情です"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "因果応報は信じていますか？",
+            "emotion_transcription": "相手の考え方を理解したく、質問しました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私は信じています。",
+            "emotion_transcription": "同情する感情です"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "やはり誠実でいた方が良いですよね。",
+            "emotion_transcription": "同じような性格を相手がしていて、嬉しくなりました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "謙虚さも兼ねて無難ですし良いと思います。",
+            "emotion_transcription": "同情し自分の気持ちも引き締める感情です"
+        }
+    ],
+    "dialogue_emotion": "誠実な気持ち",
+    "dialogue_id": 985
+}

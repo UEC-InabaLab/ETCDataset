@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "BV",
+        "listener": "BX"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "先日アマゾンで買い物をしてとても満足したものがあるんです。",
+            "emotion_transcription": "相手に面白い話をしたいと思いました"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それは気になりますね！何を購入したんですか？",
+            "emotion_transcription": "相手の話が気になりました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "スマホ自撮り用の三脚及び自撮り棒なんです。",
+            "emotion_transcription": "相手の興味にこたえたいと思いました"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "三脚にもなる自撮り棒なんて便利ですね。実際使ってみてどうでしたか？",
+            "emotion_transcription": "使用感がどうだったか気になりました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "組み立ても簡単で、しっかり安定もしていて、たったの999円なんです",
+            "emotion_transcription": "相手の質問に誠実に答えたいと思いました"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "とても安いのに機能性が良いんですね！スマホで写真を撮るのが楽しくなりますね。",
+            "emotion_transcription": "相手の話を聞いて自分も同じ物が欲しいと感じました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はいそうですね。リモコンがついていて、動画も写真もスイッチひとつでシャッターが切れるんです",
+            "emotion_transcription": "相手の話の流れに沿って話したいと思いました"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "とても便利ですね。実際に使ってみて、良い写真が撮れましたか？",
+            "emotion_transcription": "実際に使用してみた感想を知りたくなりました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はい自撮り用の動画を撮りたかったのですが、簡単に撮影できて、大満足でした。",
+            "emotion_transcription": "相手の話の流れに沿って話したいと思いました"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "良いですね！自分も今度似たような商品を探してみたくなりました。",
+            "emotion_transcription": "相手の話を聞いて同じ商品が欲しくなりました"
+        }
+    ],
+    "dialogue_emotion": "満足",
+    "dialogue_id": 893
+}

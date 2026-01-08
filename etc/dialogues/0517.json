@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "CC",
+        "listener": "CB"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "川などで生き物を見つけることに自信があります。",
+            "emotion_transcription": "こんなことで自信があると言っていいものか悩んでいます。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "主にどのようなものを見つけるのですか？",
+            "emotion_transcription": "川の生き物はどういったものがあるのか気になります。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "小魚やエビなどを見つけると気分が上がりますね。",
+            "emotion_transcription": "話を聞いてもらえて安心しています。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなのですね。好きな魚の名前はありますか？",
+            "emotion_transcription": "エビは分かりましたが、どのような小魚がいるか分からなかったです。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "そう言われると難しいですが、メダカなどは好きですね。",
+            "emotion_transcription": "予想外な質問にびっくりしています。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "メダカは最近減っていると聞いた気がしますね。見つけるのは大変そうですね。",
+            "emotion_transcription": "メダカは聞いたことのある生き物で、どのようなものか想像しやすかったです。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "そうですね。日本の古来の生き物は減ってきているのが少し寂しいですね。",
+            "emotion_transcription": "自然維持の大切さを感じています。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "自然の生態系は崩れやすくて、維持は難しいですよね。",
+            "emotion_transcription": "生き物が減ってきていて悲しく感じます。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですよね。これからの未来のためにもできることは少しずつしていきたいですね。",
+            "emotion_transcription": "リサイクルやリユースの大切さを感じています。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。できるだけ自然を崩さないように気をつけたいです。",
+            "emotion_transcription": "生き物のためにも、環境破壊をしない生活を心がけたいと思いました。"
+        }
+    ],
+    "dialogue_emotion": "自信がある",
+    "dialogue_id": 517
+}

@@ -1,0 +1,183 @@
+{
+    "participants": {
+        "speaker": "GO",
+        "listener": "BL"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ",
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "一昨日の夜手に熱湯をかけてしまい、昨日大きな水ぶくれが出来ていて驚きました。",
+            "emotion_transcription": "今までで一番酷い火傷だったので誰かに伝えて少しいたわってもらいたいと思いました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "それは大変でしたね。お怪我は大丈夫ですか？",
+            "emotion_transcription": "心配です。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び",
+                    "嫌悪"
+                ],
+                [
+                    "喜び",
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "病院に行って軟膏をもらってきました。見た目はまた酷いです。",
+            "emotion_transcription": "心配してもらって嬉しいけれど、酷い状況をもっと知って欲しいとおもいました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ゴールデンウィークに大変でしたね。こちらは年末に子供がインフルエンザになって大変でした。",
+            "emotion_transcription": "早く良くなってほしいです。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私も年始にインフルエンザにかかりました。",
+            "emotion_transcription": "自分だけでなく皆さんいろいろ大変なんだなと感じました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "病院がお休みのときに限ってインフルエンザになるなんてびっくりですね。",
+            "emotion_transcription": "大変そうだなと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "家にある解熱剤で対処しました。",
+            "emotion_transcription": "大変さがわかってもらえて嬉しく感じました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんですね。どのご家庭も大変ですね。",
+            "emotion_transcription": "大変なのはみんな同じなんだなと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "怪我や病気には気をつけましょうね。",
+            "emotion_transcription": "何となくわかり合えた気がして気分が良くなりました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。気をつけて楽しく過ごしましょう。",
+            "emotion_transcription": "毎日安全に過ごしたいなと思いました。"
+        }
+    ],
+    "dialogue_emotion": "おどろく",
+    "dialogue_id": 87
+}

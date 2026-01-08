@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "ES",
+        "listener": "GO"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "大富豪の方々は、お金が自由に使えて羨ましいです。",
+            "emotion_transcription": "お金に不自由しない人々には、やっぱり羨む感情がわきあがる"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "本当に羨ましいです。",
+            "emotion_transcription": "共感出来ると思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "好きな物がいつでも買える生活は、やっぱり憧れます",
+            "emotion_transcription": "自分にはない自由さを持つ人々には、どこかジェラシーを感じる。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "宝くじを毎年買っていますが、全く当たりませんね。",
+            "emotion_transcription": "叶わぬ願いだと諦めています。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "宝くじは夢を感じますが、確率を見ると、何だかがっかりします。",
+            "emotion_transcription": "宝くじの話題は夢が膨らむ。だが現実には当たらない。残念な気持ちが強くなる。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "毎度夢で終わってしまいます。",
+            "emotion_transcription": "本当にがっかりです。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "大活躍するアスリートの方々も羨ましいですね。運動神経がいいので。",
+            "emotion_transcription": "メディアで毎日報道されるアスリートの姿を想像した。自分との格差を恥じた。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "アスリートの方は才能はもちろん努力もしてますよね。",
+            "emotion_transcription": "相手の話の展開が面白いと感じます。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんですね。本当に最近活躍する人々は真面目で努力家です。",
+            "emotion_transcription": "アスリートの偉大さを再び痛感、自分との境遇の差を強く感じた。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "努力しても富豪になれないのは残念です。",
+            "emotion_transcription": "少し諦めた気分です。"
+        }
+    ],
+    "dialogue_emotion": "羨ましい",
+    "dialogue_id": 291
+}

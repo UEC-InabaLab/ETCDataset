@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "EF",
+        "listener": "FS"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "息子が嫌いだった野菜を食べてくれました",
+            "emotion_transcription": "うれしかったです"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それはとても良いことだと思います。",
+            "emotion_transcription": "相手に同調する気持ちを伝えました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "野菜嫌いが治ってきていて感心します",
+            "emotion_transcription": "微笑ましい気持ち"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "子供は野菜嫌いの子が多いですからね。",
+            "emotion_transcription": "相手の気持に同調しました"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。とくににんじんがとても嫌いでした。",
+            "emotion_transcription": "懐かしい気持ち"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私も子供の頃はにんじんが全然食べられませんでした",
+            "emotion_transcription": "自分の気持ちを伝えました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はじめの頃はとても小さくしてハンバーグに入れていました",
+            "emotion_transcription": "もどかしい気持ち"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "子供が野菜を食べられるようにするとてもいいアイデアだと思います",
+            "emotion_transcription": "意見に賛同する気持ちを伝えました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "自分の親もそうだったみたいです",
+            "emotion_transcription": "とてもありがたい気持ち"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私も自分の子供に野菜嫌いを克服してもらいたいです",
+            "emotion_transcription": "相手に自分の意見を同調してほしいと思いました"
+        }
+    ],
+    "dialogue_emotion": "誇りに思う",
+    "dialogue_id": 407
+}

@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "HG",
+        "listener": "BV"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "最近、髪の毛が薄くなってきて、将来ハゲるんじゃないかと不安です。",
+            "emotion_transcription": "自分の頭髪の状況を説明し、どんな反応が返ってくるのか興味が湧いています。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなですか。差し支えなければ、どの辺がうすくなっているか、おしえてくださいませんか",
+            "emotion_transcription": "相手の話に積極的に乗って話したいと思いました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "特におでこのあたりが薄くなっています。年々おでこが広がっていくんです。不安で仕方がありません。",
+            "emotion_transcription": "質問されたことが嬉しくなり、自分の状況を説明しました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私も若い時に七三分けのあたりが薄くなって心配しました",
+            "emotion_transcription": "相手の話に沿って話したいと思いました"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "同じような頭髪の悩みがあったんですね！何か対策はされましたか？",
+            "emotion_transcription": "相手が自分と同じような悩みを抱いており、興味が湧いて質問しました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "まずは頭皮をきれいに保って、猪毛のブラシでブラッシングしました",
+            "emotion_transcription": "相手の質問に誠実に答えたいと思いました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "頭皮の状態は大切ですもんね。効果はありましたか？",
+            "emotion_transcription": "相手の話に共感し、対策の効果が気になったので質問しました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ハイ効果がありました",
+            "emotion_transcription": "相手の話の流れに沿って答えようと思いました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "それはすごい！頭髪の不安がなくなって羨ましい限りです。",
+            "emotion_transcription": "回答に対して驚き、対策の結果が羨ましくなりました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "今はあまり髪の心配はしていません",
+            "emotion_transcription": "相手の発話に誠実に答えたいと思いました"
+        }
+    ],
+    "dialogue_emotion": "不安に思う",
+    "dialogue_id": 820
+}

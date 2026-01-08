@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "GJ",
+        "listener": "EO"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "普段から感謝することはとても大事だと思っています。",
+            "emotion_transcription": "感謝するという言葉に心が響きます"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。来週は母の日で感謝の気持ちを伝える日ですが、何かイベントをされるのですか？",
+            "emotion_transcription": "共感する気持ちを伝えたいと思いました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はい、私の母は亡くなっているので白いカーネーションを供えられたらと思っています。",
+            "emotion_transcription": "亡くなって何年も経つのに感謝の気持ちは忘れません。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんですね。私も母はなくなっているので、義母に花かごをおくって感謝の気持ちを伝えようと思っています。",
+            "emotion_transcription": "相手と同じ状況であることを伝えようと思いました"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "義母も亡くなっているので白いカーネーションを仏壇に供えられたらと思っています",
+            "emotion_transcription": "義母にも感謝の気持ちは忘れません"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "お二人ともなくなっているのは寂しいですね。でも感謝の気持ちを忘れていないことは素晴らしいと思います",
+            "emotion_transcription": "相手の行動が素晴らしいことをつたえようと思いました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ありがとうございます。普段から感謝の気持ちを大事に過ごしています。",
+            "emotion_transcription": "感謝の気持ちって本当に大切なんだと改めて実缶します"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "とてもいい心がけですね。私も見習いたいと思いました。",
+            "emotion_transcription": "共感した気持ちを伝えようと思いました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "周りの人に対する感謝の気持ちはきっと伝わっていると思います。",
+            "emotion_transcription": "母の日はそんなことを思い出させてくれる日かもしれません。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。感謝することで人間関係もうまくいくと思います。",
+            "emotion_transcription": "共感した気持ちを伝えたかったです"
+        }
+    ],
+    "dialogue_emotion": "感謝する",
+    "dialogue_id": 437
+}

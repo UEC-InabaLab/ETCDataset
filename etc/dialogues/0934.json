@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "HB",
+        "listener": "BV"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "綺麗な夕日を見るととても感傷的な気持ちになります。",
+            "emotion_transcription": "心が動かされる気持ち"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですよね。私も感傷的になります",
+            "emotion_transcription": "相手の話に同意したいと思いました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "なんだか懐かしいような、さみしいような不思議な気持ちになりませんか？",
+            "emotion_transcription": "不思議な気持ち"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "確かに懐かしようなさみしいような気分になります。今私の部屋は夕日がさしています。",
+            "emotion_transcription": "相手の話の流れに沿って話したいと思いました"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "すごく素敵ですね。部屋から夕日が見られて羨ましいです。",
+            "emotion_transcription": "羨ましい気持ち"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "でもなんだか後ろ髪を引かれるようなさみしい気分がしてきます",
+            "emotion_transcription": "相手の話に沿って話を続けようと思いました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "夕日は人の心を動かす何かがあるのかもしれませんね。",
+            "emotion_transcription": "疑問の気持ち"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "橙色の不思議な光に心が揺れ動きますよね",
+            "emotion_transcription": "相手の発話に沿って話したいと思いました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "詩的？文学的な表現ですね。素敵な言葉遣いに感動しました。",
+            "emotion_transcription": "関心と羨望の気持ち"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "こちらこそ楽しい話有難うございました",
+            "emotion_transcription": "相手の誉め言葉に感謝の気持ちを伝えたいと思いました"
+        }
+    ],
+    "dialogue_emotion": "感傷的になる",
+    "dialogue_id": 934
+}

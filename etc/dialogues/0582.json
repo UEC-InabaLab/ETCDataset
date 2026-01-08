@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "CU",
+        "listener": "GU"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "地震や雷などの災害に何か対策はしていますか？",
+            "emotion_transcription": "危機への疑問を質問しています"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "最近は地震が多いので、多少のことはしています。どういう対策をしていますか？",
+            "emotion_transcription": "地震の対策に関心を持ちました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "地震は本当に怖いですよね？避難場所の確認や非常持ち出し袋などを用意しています。",
+            "emotion_transcription": "相手に共感する気持ちを表現しています"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "怖いです。保存食の食料はちょっと備えています。雷の対策はしていません。",
+            "emotion_transcription": "災害の共感を持ち、備えの関心を持ちました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "雷も心構えというか、身構えてしまします。近くの雷は本当に怖いものです。",
+            "emotion_transcription": "雷の怖さを表現しています"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "地震の備えは何となく分かるのですが、雷の備えは何をしたらいいのですか？いずれにしても対策しないと怖いものですね。",
+            "emotion_transcription": "災害の恐れを共感し、雷の備えの関心を聞き出したいと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "蓄電池を備えておく、とかですかね？家を雷が直撃したら防ぎようがありませんね。",
+            "emotion_transcription": "あきらめている表現をしています"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "確かにそうですね。蓄電池は役立ちそうですね。これからしっかり備えて心構えしておかないといけないですね。",
+            "emotion_transcription": "相手の備えに共感し、災害の心構えを共感しました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "最近は雹が降ったりして被害も出ているのでどんな災害が起こるか分からないので注意が必要です。",
+            "emotion_transcription": "危機感を表現しています"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "分かりました。これからもっと備えを大事にします。",
+            "emotion_transcription": "備えをする大事さを共感しました。"
+        }
+    ],
+    "dialogue_emotion": "心構えする",
+    "dialogue_id": 582
+}

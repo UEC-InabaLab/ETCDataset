@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "FQ",
+        "listener": "HD"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "自信がある方って良いですよね。何か得意なことはありますか？",
+            "emotion_transcription": "質問から相手の人となりを探ろうと思いました"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "すごく嗅覚が良いところですかね。犬並みに鼻が利きます。",
+            "emotion_transcription": "匂いに敏感であることを思いつきました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "それはすごいですね。でも、困ったこともありそうですね。",
+            "emotion_transcription": "相手に困難な面もあるのではないかと心配な気持ちになりました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "仰る通りで、遠くの煙草の臭いまで分かってしまいます。何か得意な事はありますか？",
+            "emotion_transcription": "困ったことがあると見抜かれドキッとしました"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "タバコは嫌ですよね。私は語学の勉強はずっと続けています。",
+            "emotion_transcription": "質問し返してくれて嬉しいと感じました"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "すごいですね。何語を学んでいますか？",
+            "emotion_transcription": "尊敬しています"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "英語とスペイン語です。あなたはいかがですか。",
+            "emotion_transcription": "会話が弾んでいると感じました"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "私は日本語でいっぱいいっぱいです。お恥ずかしいです。",
+            "emotion_transcription": "二か国語を学んでいて尊敬の念を持ちました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "とんでもないです。何か一つでも誇れるものがあるって良いですよね。",
+            "emotion_transcription": "相手は謙虚な方だなと思いました"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですね。何か自信が持てる事を始めるのも大事ですね。",
+            "emotion_transcription": "何か学ぶ機会を持てました。相手に感謝しています"
+        }
+    ],
+    "dialogue_emotion": "自信がある",
+    "dialogue_id": 798
+}

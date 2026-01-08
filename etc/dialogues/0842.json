@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "FJ",
+        "listener": "EB"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "音楽が好きで、ウクレレを弾いていると楽しくなってしまいます。",
+            "emotion_transcription": "相手に楽しい気持ちを伝えようとしています。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "凄いですね。なかなかウクレレを弾いている人はいないです。",
+            "emotion_transcription": "いきなりの話題で今後が楽しみに思えてきた。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "手軽に始められる楽器なので、もっと沢山の人が楽しんでくれたら良いのですけれど。",
+            "emotion_transcription": "相手のコメントに少しビックリしています。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうなのですね。音楽は好きですが楽器は弾けないので尊敬します。何か出来る事があるのは良い事ですね。",
+            "emotion_transcription": "前向き感が伝わってきました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "小さいのでどこにでも持っていけますし、気分転換にもなります。",
+            "emotion_transcription": "なんとか興味を持って貰えないかなと思い、利点を伝えています。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "確かにです。やはり、ウクレレの楽譜とかを見ながら練習するのですか?",
+            "emotion_transcription": "そういう感じなのかと思い質問したい気分になりました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "楽譜はほとんど見ずに、耳コピだったりアレンジしたりという感じです。",
+            "emotion_transcription": "誇らしいところ、自由なところを伝えたいと思っています。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "凄いです。音楽が出来る事は色々とに繋がって行きそうで楽しそうです。",
+            "emotion_transcription": "感心して尊敬した感覚になりました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "きっと楽しめると思いますので、機会がありましたら是非トライしてみて下さい。",
+            "emotion_transcription": "相手のコメントを受けて嬉しい気持ちになっています。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですね。あまり機会はないかと思いますが仮にあったらこの機会を大事にして挑戦したいと思います。",
+            "emotion_transcription": "相手の提案に共感して自分の思いを伝えてみました。"
+        }
+    ],
+    "dialogue_emotion": "楽しい",
+    "dialogue_id": 842
+}

@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "FU",
+        "listener": "CJ"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "人の第一印象を見るとどんな人なのか見極めることに自信をもっています。",
+            "emotion_transcription": "自分の得意としていることを教えたかったです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "まるでメンタリストみたいですね。すごいと思います。",
+            "emotion_transcription": "どんなことで見極めるのかが気になっています。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "とくに裏と表がある人はすぐに分かってしまいます。",
+            "emotion_transcription": "相手に乗せられて得意げになりました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ちなみに裏がある人の特徴はどんなことでしょうか？",
+            "emotion_transcription": "もっと詳しく聞きたいと思っています。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "あくまでも個人的ですが、社交的でおしゃべりが得意な人は用心しています。",
+            "emotion_transcription": "過去の経験を元に説明しました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。なんとなく、私にもそんな心当たりがあります。初対面でいい感じの人は後にクセがあるような気がします。",
+            "emotion_transcription": "相手の言っていることがわかるような気がしています。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "あとは目です。怖い人は一瞬、目に鋭さを持っています。",
+            "emotion_transcription": "苦手だった人を思い出して嫌な気分になりました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "目だけはその人そのものを表すという感じでしょうか？",
+            "emotion_transcription": "相手の鋭い観察に興味を持ち始めています。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私はそう思っています。普段からどんな目つきをしているかで、その人の陰湿なのか見えてきます。",
+            "emotion_transcription": "自分の経験上の話をさせてもらいました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そこまで見通すのはスゴイ自身ですね。私も参考にしてみたいと思います。",
+            "emotion_transcription": "相手の考えに同意をしています。"
+        }
+    ],
+    "dialogue_emotion": "自信がある",
+    "dialogue_id": 804
+}

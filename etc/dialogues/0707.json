@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "AR",
+        "listener": "DT"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "外国人が増えるにつれて日本の良さが減っていくような気がして悲しいです。",
+            "emotion_transcription": "今の状況がどうにかならないか考えたいです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "そうですね。最近でもトラブルが多いですもんね。",
+            "emotion_transcription": "今問題になっているので、相手に少し共感。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "円安になって特に増えましたね。楽しんで頂けるのは、嬉しい気持ちはありますが。",
+            "emotion_transcription": "日本の良さを守りたいです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "怒り",
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "そうですね。日本食とかも美味しいですし、楽しんでもらえるのは嬉しいですけどね。",
+            "emotion_transcription": "相手と同じで楽しんでももらえるのはいいが、マナーを守らない複雑な気持ちもある"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "日本の食べ物は世界一だとおもいます。日本に生まれてよかったです。米は高いですが、。",
+            "emotion_transcription": "物価高を嘆いています。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "私もそう思います。本当に食べ物が美味しいですよね。しかも安いし。お米がずっと高値なのは複雑ですが。",
+            "emotion_transcription": "日本食を守りたい気持ち"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "日本人は他国の食べ物をうまくアレンジするのが上手ですよね。",
+            "emotion_transcription": "食の豊かさを誇る気持ちです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "しかも本国より美味しくしてしまうところがありますよよね。",
+            "emotion_transcription": "日本の食のレベルに感動"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "たしかに、外国人観光客さんが自国より安くて美味しいのはおかしいって言ってますね。食の豊かさは素晴らしいです。",
+            "emotion_transcription": "圧巻のアレンジ力に感動しています。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "これからも日本食が守れるといいなと思います。",
+            "emotion_transcription": "日本食の良さを失わないでほしいという気持ち"
+        }
+    ],
+    "dialogue_emotion": "悲しい",
+    "dialogue_id": 707
+}

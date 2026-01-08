@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "GN",
+        "listener": "FF"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "今後の日本経済のリスクが本当に懸念されますがどう思いますか？",
+            "emotion_transcription": "日本経済が心配だが相手にも意見を聞いてみたい。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "今はアメリカに振り回されている感じですが、徐々に落ち着くのではないかと思っています。あなたはどう思われますか？",
+            "emotion_transcription": "相手はどう考えているのか知りたい気持ちです。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "トランプ大統領次第だとは思っています。",
+            "emotion_transcription": "相手の考えを聞けてうれしいです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "そうですね。今は日本の株価も上下が激しく怖いです。",
+            "emotion_transcription": "相手はどのように感じているのか知りたいです。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "一人の大統領の発言で株価が乱高下するのは確かに怖いですよね。",
+            "emotion_transcription": "相手の思っていることが伝わってきて共感できます。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "本当に。日本はアメリカの一人の発言に振り回されていますよね。早く落ち着いて欲しいものです。",
+            "emotion_transcription": "共感する気持ちを伝えたいです。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "世界中の人が振り回されていますからね。",
+            "emotion_transcription": "自分の考えに共感をしてもらい自分も相手に共感しました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "どうすればいいのか、難しいことはわからないのですが、物価がもう少し下がってくれないと暮らしにくいです。",
+            "emotion_transcription": "相手の方の暮らしはどうだろうかという疑問の気持ちです。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "物価に関しては私も全く同じ意見です。",
+            "emotion_transcription": "相手の意見も聞けてさらに物価の件でも同じ考えで一体感を感じました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "早く落ち着いて暮らしやすい世の中になってほしいですね。",
+            "emotion_transcription": "相手の方に共感をしてほしい気持ちです。"
+        }
+    ],
+    "dialogue_emotion": "懸念する",
+    "dialogue_id": 656
+}

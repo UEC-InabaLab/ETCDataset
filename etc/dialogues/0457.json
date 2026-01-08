@@ -1,0 +1,184 @@
+{
+    "participants": {
+        "speaker": "FF",
+        "listener": "EF"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "昨日の夜2時ごろに大声で歌を歌って歩いている人がいて怖かったです。",
+            "emotion_transcription": "真夜中に恐怖の体験でした。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "怖すぎます。酔っ払いでしょうか。",
+            "emotion_transcription": "恐怖する気持ち"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖",
+                    "驚き",
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "怖くて外を見れなかったのですが女性でした。",
+            "emotion_transcription": "飛び起きて震える想いでした。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "珍しいですね、女性でそのような行動をするのは",
+            "emotion_transcription": "驚いた気持ち"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "そうですよね。夜中に歩くのが怖かったのでしょうか。",
+            "emotion_transcription": "女性がというので、ちょっと不思議な感じもしました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうかもしれません。そうであってほしいです。",
+            "emotion_transcription": "感心した気持ち"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "自分が家の中にいたので冷静になって、何の歌だろうと思ってしまいました。",
+            "emotion_transcription": "振り返るとちょっと笑える感じがしました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び",
+                    "驚き"
+                ]
+            ],
+            "utterance": "自分を奮い立たせる系ですね、きっと。",
+            "emotion_transcription": "おもしろいし、興味深い"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り",
+                    "嫌悪"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "そうですね。でも夜中には近所迷惑なので二度とやめてほしいです。",
+            "emotion_transcription": "ちょっと腹立たしい気持ちです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "たしかにそうですね、私も気を付けます。",
+            "emotion_transcription": "少し我が身を反省しました"
+        }
+    ],
+    "dialogue_emotion": "怖い",
+    "dialogue_id": 457
+}

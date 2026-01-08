@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "AR",
+        "listener": "DT"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "昨今の物価高恐ろしいですね。",
+            "emotion_transcription": "どうにかならないかと不安な気持ちです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "もうこれ以上物価が上がるのはやめてほしいですよね。",
+            "emotion_transcription": "物価が上がりすぎて生活の不安、相手の意見に同意"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "急激に上がりすぎて、給料が追いつかないです。",
+            "emotion_transcription": "せめてもう少し緩やかならと思っています。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "本当そうですよね！物価だけじゃなくて税金も上がってるし、勘弁してほしいです。",
+            "emotion_transcription": "相手の気持ちに共感。日本政府に怒り"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "政府が混乱しているので、何が何だかわからない状態ですね。もう少し分かりやすく対策をしてほしいです。",
+            "emotion_transcription": "信頼できるものがないという気持ちです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "確か制度が分かりにくすぎますよね。あまり国民のことを考えている感じがしないです。",
+            "emotion_transcription": "もっと国民のことを考えてほしい気持ち"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "コロコロいう事が変わっていますしね。そもそも人も固定されないので、根気強く政策を押し出せないですね。",
+            "emotion_transcription": "政府にはもう少し地に足をつけてほしいです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "いい政策を打ち出す人は、何かの力が働いて消されてしまったりしいますし、闇を感じます。",
+            "emotion_transcription": "こういうことをする人がいることが信じられない。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "たしかに色々な力が働いている気はします。派閥の力学や、後援団体などの意向が強い気がしますね。",
+            "emotion_transcription": "自分なりの見解を述べてみました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "あとは今は諸悪の根源は財務省だとも言われていますよね。",
+            "emotion_transcription": "真実を解き明かして、日本をより良い国にしてほしいという願い"
+        }
+    ],
+    "dialogue_emotion": "恐ろしい",
+    "dialogue_id": 470
+}

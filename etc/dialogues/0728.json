@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "HP",
+        "listener": "HM"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "もうすぐ母の日なので、母親への感謝を伝える日ですね。",
+            "emotion_transcription": "しみじみとします。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私は母の日に感謝の気持ちを伝えるために、花が好きなアジサイの花の苗をプレゼントしようと思っています。",
+            "emotion_transcription": "母の日の話題が出たので、自分の予定を相手に伝えたいと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "アジサイですか。それは素敵ですね。",
+            "emotion_transcription": "とても母親想いで感服します。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "最近のアジサイは種類がかなり増えているのでどれをプレゼントするか迷います。",
+            "emotion_transcription": "贈り物のアジサイをすぐに選べないので困っています。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "そんなに種類があるとは知りませんでした。インターネットなどで調べてみるのも良いかもしれませんね。",
+            "emotion_transcription": "初めて知ったので驚きました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "楽天市場やヤフーショッピングで調べて購入しようと思います。あなたは母の日にプレゼントを贈る予定はありますか？",
+            "emotion_transcription": "相手は母の日をどう過ごすのか気になったので尋ねてみたいと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "あまり贈ったことはないですね。今年いきなりプレゼントを贈るとびっくりされるかもしれません。",
+            "emotion_transcription": "たしかにプレゼントを贈るのも良いかなと感じました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "サプライズプレゼントしてみてはどうでしょうか？きっと喜んでもらえると思います。",
+            "emotion_transcription": "贈り物を贈って親子の仲が深まる事を願ってコメントしました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "それも面白そうですね。アドバイスありがとうございます。",
+            "emotion_transcription": "良いアドバイスがもらえて嬉しいです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "プレゼントで親子仲がさらに深まると良いですね。",
+            "emotion_transcription": "提案を聞き入れてくれて嬉しかったです。"
+        }
+    ],
+    "dialogue_emotion": "感謝する",
+    "dialogue_id": 728
+}

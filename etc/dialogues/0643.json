@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "EN",
+        "listener": "CR"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "この前、職場の上司が変わり自分のミスを報告したところ責任は上席にあるから心配ないと言われました。",
+            "emotion_transcription": "とても安心しうれしかったです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "良い職場ですね。上司に恵まれていると思います。",
+            "emotion_transcription": "自分も会社員なので多少羨ましく感じました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖",
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "職場の人間関係がとても難しいと感じました。",
+            "emotion_transcription": "はらはら、ドキドして怖かったです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "同じ部署の方ともコミュニケーションが取れていると感じます。",
+            "emotion_transcription": "話を広げて見ました。同じ会社の同僚がどのように感じているか聞いて見ました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "やはり長く勤務するには我慢することが大事だと感じました。",
+            "emotion_transcription": "じっと耐える根性が必要です。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "同じ会社に長く勤務するこが減ってきたと言う話を聞きます。",
+            "emotion_transcription": "我慢してまで会社にいる事の価値観を知りたいと思います。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "20年勤務すると余計な知恵が邪魔をしました。",
+            "emotion_transcription": "プライドがありかっかするのを抑えたことです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "勤続20年お勤めですか。私の先輩ですね。",
+            "emotion_transcription": "余計な知恵とは何なのか知りたいと思います。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "勤続年数はだてにはならないと実感しました。",
+            "emotion_transcription": "どこか晴れやかですっきりした感覚です。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。まだ７年しか仕事をしていないので勉強になりました。",
+            "emotion_transcription": "勤続年数が長いことは良いことも悪いことも経験しているのだと感じました。"
+        }
+    ],
+    "dialogue_emotion": "信頼する",
+    "dialogue_id": 643
+}

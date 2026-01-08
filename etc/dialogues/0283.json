@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "AM",
+        "listener": "HF"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "義母が低体温症で入院したので、何かあったときのことを考え心構えしています",
+            "emotion_transcription": "テーマの感情にふさわしい会話をはじめています"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "低体温症だと主にどういった症状が出て困るのですか。",
+            "emotion_transcription": "症状について知りたく思っています。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "自分で動くことができず介護が必要です",
+            "emotion_transcription": "あまり知られていない病気の説明をして相手にわかってもらおうと考えています"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そこまでのことなのですか。始めてしりました。やはりそうなると生活が困ってきますか。",
+            "emotion_transcription": "介護者の現状について知りたく思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "流動食になって、排尿や排便もうまくできず困りきっています。",
+            "emotion_transcription": "介護の現実を知ってもらいたく義母の症状を詳しく説明しています"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "その場合の世話は病院側でしてくれるのでしょうか。それともあなたが行いますか？",
+            "emotion_transcription": "問題について主にどうやって取り組むのか知りたくおもいました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "子どもですね。つまり私の伴侶、不在時は看護師さんです。",
+            "emotion_transcription": "相手の質問に簡潔かつ詳しく答えています"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そこの役割分担の相談などは今の段階で出来ているのでしょうか。",
+            "emotion_transcription": "相手の負担について詳しくしりたく思っています。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "喜んでやるタイプの子どもばかりで義母の人柄のおかげです。すごくいい人なんです。",
+            "emotion_transcription": "誰しも経験する老後は自分の行いにかかっていることが伝わればと思っています。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それは心温まる意見がきけました。良かったです。",
+            "emotion_transcription": "清々しく思いました。"
+        }
+    ],
+    "dialogue_emotion": "心構えする",
+    "dialogue_id": 283
+}

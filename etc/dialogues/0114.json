@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "FD",
+        "listener": "EU"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "小笠原諸島父島・母島の海は日本の誇りだと感じます！",
+            "emotion_transcription": "なかなかあんなに素晴らしい海はないと誇らしい気持ちです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "本当に、あの透き通った青さはまさに日本の誇りですね！",
+            "emotion_transcription": "相手に共感したい気持ちです。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "行ったことがありますか！？",
+            "emotion_transcription": "わかる人がいてくれて嬉しい気持ちです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "はい、2年ほど前に行ったことがあります。海がとてもきれいでした。",
+            "emotion_transcription": "共感できる人がいてうれしいと感じます。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "素敵です！観光ですか？なにをされましたか？",
+            "emotion_transcription": "嬉しい気持ちです。リスナーの方に興味があります。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "観光です。シュノーケリングを体験しました。",
+            "emotion_transcription": "観光したときの気持ちを思い出しています。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "いいですね！イルカには会えましたか？",
+            "emotion_transcription": "ワクワクした気持ちです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "はい、イルカにも遭遇できてとても楽しかったです。イルカ、かわいいですね",
+            "emotion_transcription": "具体的なことを聞かれて、当時の記憶が鮮明によみがえりつつあります。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "よかったですね！イルカで顎がしゃくれているから「アイーン」という名前がついてしまった個体がいます。",
+            "emotion_transcription": "楽しい気持ちです。自分が好きなイルカ情報をお伝えしたい気持ちです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "アイーンって、愛称かわいいですね。",
+            "emotion_transcription": "かわいいイルカの情報が聞けて楽しい気持ちです。"
+        }
+    ],
+    "dialogue_emotion": "誇りに思う",
+    "dialogue_id": 114
+}

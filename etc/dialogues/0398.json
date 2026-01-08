@@ -1,0 +1,182 @@
+{
+    "participants": {
+        "speaker": "BV",
+        "listener": "DP"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "先日レンタルルームでの作業手伝いで、作業したのにおかねを支払いされず頭に来ました",
+            "emotion_transcription": "相手に自分の気持ちを分かってもらいかったです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "支払われなかったのですか？なんてひどい！",
+            "emotion_transcription": "腹立たしさが伝わる心情です。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんです。巧妙に騙されました。",
+            "emotion_transcription": "相手がどうじょうしてきたので、さらに詳しく話そうと思いました"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "怒って当然ですよ！詐欺のようなものです。",
+            "emotion_transcription": "相手の気持ちに同意して気持ちをききだしたい。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "クラウドワークスと同じようなサービスで仮払いの確認が必要なのですが、見積もりを出したら間に合わないのでとにかく来てくれと言われました",
+            "emotion_transcription": "相手が話に乗ってきたのでさらに詳しく話そうと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "よく出向かれましたね！怖くなかったですか？",
+            "emotion_transcription": "意外な展開に驚く心情です。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "怖くはなくて普通の経理の事務作業の手伝いでした。",
+            "emotion_transcription": "相手の話にそってさらに詳しく話そうと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び",
+                    "驚き"
+                ],
+                [
+                    "喜び",
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "度胸がおありですね。",
+            "emotion_transcription": "行動にたいして褒めてい心境です。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "クラウドワークの事務局の方にもクレームをいれてもらったのですが、そのまま逃げられました。",
+            "emotion_transcription": "相手に私の怒りを理解してもらおうとさらに詳しく話しました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "酷い話ですよね。そのまま逃げてしまうなんて。起こる気持ちが良く分かりました。",
+            "emotion_transcription": "気持ちが十分に伝わり納得した気分。"
+        }
+    ],
+    "dialogue_emotion": "怒る",
+    "dialogue_id": 398
+}

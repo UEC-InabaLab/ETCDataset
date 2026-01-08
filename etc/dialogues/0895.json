@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "BB",
+        "listener": "FY"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "家事や仕事を終えた後に暖かいコーヒーを飲むと満足できます。",
+            "emotion_transcription": "満足を感じる時の自分の様子を相手に理解してもらいたいと感じました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "わかります。ほっと一息つけるといいですよね。",
+            "emotion_transcription": "私も紅茶を飲むので共感します"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですよね。一仕事終えた後は特に安心できます。ついでに美味しい食べ物もあればさらに満足です。",
+            "emotion_transcription": "相手に気持ちが伝わったようでうれしく安心できました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そういう楽しみがあると頑張れますよね。",
+            "emotion_transcription": "私も紅茶を飲もうと思います"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "何か楽しみがあるとやる気になれます。気のせいかもしれませんが、仕事の効率も上がるように感じます。",
+            "emotion_transcription": "楽しみがあることの大切さを相手と共有できたようで嬉しいです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "わかります。私も楽しみがないと頑張れないです。",
+            "emotion_transcription": "気のせいではないと思います"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "楽しみは大切ですよね。私の場合、最近の楽しみはチョコレートを食べることです。",
+            "emotion_transcription": "自分の最近の様子を相手に伝えてみたくなりました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "いいですね。私はダイエット中で…推しが癒しですね。",
+            "emotion_transcription": "チョコレート、食べたいと思いました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうなんですね。推しの存在は元気とやる気を与えてくれそうでいいですね。",
+            "emotion_transcription": "相手の気持ちに共感でき、応援したくなりました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうなんです。存在してくれてありがたいです。",
+            "emotion_transcription": "推しは太らないので最高です。"
+        }
+    ],
+    "dialogue_emotion": "満足",
+    "dialogue_id": 895
+}

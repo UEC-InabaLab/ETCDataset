@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "EQ",
+        "listener": "EF"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "まだ5月なのに、かなり暑くて、夏を通り越して、秋が来てくれないかなあと思ってしまいます。",
+            "emotion_transcription": "今思っていることを、素直に伝えてみました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "確かにそう思います。秋と春だけでいいとさえ思います。",
+            "emotion_transcription": "率直かつ切実な気持ちです。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "本当に！どうせ「二季」なら、夏と冬じゃなく、春と秋がいいです。",
+            "emotion_transcription": "相手が自分と同じ考えで、嬉しかったです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "夏が来る前の梅雨も憂鬱ですね。",
+            "emotion_transcription": "とてもいやな気持ち"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "梅雨も台風も嫌ですよね。外出の度に、洋服も靴も濡れてしまいますし。",
+            "emotion_transcription": "相手の方と、嫌な天候も同じで、話が広がりそうです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "洗濯物が乾かないのがとてもしんどいです。",
+            "emotion_transcription": "憂鬱な気持ち"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "本当に、それです。でも、この間、テレビで見たのですが、暑さのお蔭か、年に2回、収穫できるお米が普及するかもしれないそうです。",
+            "emotion_transcription": "天候の話から、広げてみました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "お米の二毛作ですか！すごいです。うれしいですね。価格も下がるといいですね。",
+            "emotion_transcription": "とても驚きました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですよね。種を、ビール酵母の液に浸けるだけなんですって。見つけた人、すごいですよね。",
+            "emotion_transcription": "みんな、令和の米騒動で、困っているんだなあと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "すごすぎます。",
+            "emotion_transcription": "前向きな気持ち"
+        }
+    ],
+    "dialogue_emotion": "待ち望む",
+    "dialogue_id": 542
+}

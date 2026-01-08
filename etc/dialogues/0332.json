@@ -1,0 +1,183 @@
+{
+    "participants": {
+        "speaker": "CZ",
+        "listener": "EE"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "会社の部下になかなか思いやりを持って接することが出来ません。",
+            "emotion_transcription": "自分に残念な気持ちです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "どうしてなのか、理由があるのでしょうか。",
+            "emotion_transcription": "思いやりがもてない理由について聞いてみたくなりました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "自分の仕事で精一杯で他の人の事を見てられないのです。",
+            "emotion_transcription": "諦めの気持ちです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "余裕が無く、手一杯なんですね。",
+            "emotion_transcription": "余裕がないことで思いやりが持てないのかと、そういった気持ちになりました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "余裕がないので、相手に厳しい口調になってしまします。",
+            "emotion_transcription": "悲しい気持ちです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "少し、肩にチカラが入っているのかもしれませんね。",
+            "emotion_transcription": "余裕がないらしいので、自分なりの意見を伝えてみました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ",
+                    "恐怖"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "仕事中にリラックスできる秘訣はありますか。",
+            "emotion_transcription": "不安を解消したい気持ちです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "少し、ストレッチをするのもおすすめです。思いやりのある行動を上司や同僚からされたことはないのでしょうか。",
+            "emotion_transcription": "リラックスできる秘訣を教えたくなりました。また思いやりについて、された経験を聞いてみたくなりました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "参考にさせていただきます。そうですね。これからは自分がしてもらった思いやりのある行動を部下にもしていきたいです。",
+            "emotion_transcription": "前向きな気持ちです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "少しでも思いやりが持てるようになるといいですね。お仕事頑張ってください。",
+            "emotion_transcription": "思いやりについて励ましたくなりました。"
+        }
+    ],
+    "dialogue_emotion": "思いやりを持つ",
+    "dialogue_id": 332
+}

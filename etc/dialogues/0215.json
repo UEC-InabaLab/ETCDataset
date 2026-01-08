@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "HF",
+        "listener": "EE"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "会社のスピーチでしっかりと話す自信があります。会話は得意です。",
+            "emotion_transcription": "自信に満ちた状態です。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "朝のスピーチですか?話すのが得意なお仕事をされているんですか?",
+            "emotion_transcription": "話すのが得意だというので、相手の仕事について質問してみました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はい。営業などで話すことがメインとなっています。",
+            "emotion_transcription": "過去の経験を振り返っていました・"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "営業マンなんですね。トーク力を日々磨いているんですか?",
+            "emotion_transcription": "職業柄という話しだったので、日々の努力なのかを質問してみました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。日々人と話すことで腕を磨いています。",
+            "emotion_transcription": "自分の日々の行いに自信が持てています。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "社会人になる前から人と話すことが好きだったのでしょうか。",
+            "emotion_transcription": "日々磨いている内容から、以前からもそうだったのかが気になり、質問してみました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。以前から好きなことでした。",
+            "emotion_transcription": "以前からの経験が実って満足している状態です。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私は話すのが苦手なので、コツを教えてほしいです。",
+            "emotion_transcription": "自信にみなぎる相手が羨ましくなり、苦手分野だった話すコツを聞きたくなりました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ゆっくりと落ち着いて話すことです。",
+            "emotion_transcription": "成功体験を語っています。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "確かに、緊張して早口になりがちでした。自信を持てるように頑張ってみますね。",
+            "emotion_transcription": "アドバイスを頂いたことで、自分も自信がつきそうだと伝えました。"
+        }
+    ],
+    "dialogue_emotion": "自信がある",
+    "dialogue_id": 215
+}

@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "GM",
+        "listener": "CF"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "電車の中で人がたくさん乗車してきたにもかかわらず、荷物を置いて席を空けてくれない人を見るとなんだかなと思ってしまいます。思いやりを持ってほしいです。",
+            "emotion_transcription": "\n席を空けてくれない人が許せない気持ちを共感してほしいと思いました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "たまに見かけますよね。寝たふりしてる人とかいますね。",
+            "emotion_transcription": "信じられない気持ち"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "席を一つ開けるだけで一人座ることができるので、詰めてほしいと考えてしまいます。",
+            "emotion_transcription": "\n相手にもう少し共感してほしいと思い、より自分の考えを伝えようと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "そうですよね。公共の場所なので考えてもらいたいですよね。",
+            "emotion_transcription": "マナーを知らない人に怒り"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうなんです。公共の場所なので多少のパーソナルスペースが崩されるのは仕方のないことなんですよね。",
+            "emotion_transcription": "\n相手に少し共感してもらい嬉しいと感じてました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "お互い様なので、最低限の常識は持って欲しいです。ですが注意するのも怖いですよね。",
+            "emotion_transcription": "相手に尋ねる感じ"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "お互いに譲り合えばいいんですよね。私も注意は怖いです。何されるか分からないですから。",
+            "emotion_transcription": "\n相手の注意するのが怖いにすごく共感してました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "そうですよね。特に外国人が騒いでいるとかもあります。もはやカオスです。",
+            "emotion_transcription": "有り得ない状況に怒り"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "海外の方が電車内で爆音で音楽ならしている動画がSNSで回ってきたりします。頭抱えちゃいます。",
+            "emotion_transcription": "\n海外の方の迷惑行為について共感することがあり、より情報を共有したくなりました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "どうにか穏やかに電車移動させてもらいたいです。",
+            "emotion_transcription": "祈る気持ちです"
+        }
+    ],
+    "dialogue_emotion": "思いやりを持つ",
+    "dialogue_id": 930
+}

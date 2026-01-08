@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "CO",
+        "listener": "BT"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "嘘をつかず誠実でいたほうがいいですよね。",
+            "emotion_transcription": "なるべく嘘をつかないように生きて行きます。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それはそうですよね。そう思うようなことが何かありましたか？",
+            "emotion_transcription": "相手への同意と、何故そう思ったのか興味があったので確認してみました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "過去に怒られるのが怖くて嘘を重ねてしまいました。",
+            "emotion_transcription": "罪悪感を感じました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "気持ちわかります。嘘は良くないですけど、そうやって相手を追い詰めるのも良くないですよね。",
+            "emotion_transcription": "相手の心情がよく理解できたので、承認するつもりで発言しました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "嘘に嘘を重ねてしまったこともあって、相手に申し訳なく感じました。",
+            "emotion_transcription": "嘘は相手を傷つけてしまいます。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "その相手はこっちが嘘をつかざるを得ないような、圧の強い人だったんですか？",
+            "emotion_transcription": "嘘を重ねるという状況に至った理由が知りたくて聞いてみました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "いいえ、優しい人でした。",
+            "emotion_transcription": "相手はよくアドバイスをしてくれた。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "じゃあ、優しい相手を失望させてはいけないとかで嘘を重ねたとか？",
+            "emotion_transcription": "ちょっと意外だったので、自分なりに状況を想像してみました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "そうですね、あとプライドが邪魔したり嘘をついたのを知られないように、嘘を重ねてしまいました。",
+            "emotion_transcription": "嘘はいずれ相手に知られ、信頼を失いますよね。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "なるほど、悪気のある嘘もそうでない嘘もいろいろあるんですね。",
+            "emotion_transcription": "嘘の悪さ加減にもいろいろあるなと感じて、その思いを述べました。"
+        }
+    ],
+    "dialogue_emotion": "誠実な気持ち",
+    "dialogue_id": 989
+}

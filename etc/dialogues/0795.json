@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "AN",
+        "listener": "GV"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "来月初めて産まれたばかりの姪っ子に会いに行くんです。",
+            "emotion_transcription": "ウキウキした気持ちを共有したいと思いました"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それは楽しみですね！最近生まれたばかりなんですか？",
+            "emotion_transcription": "もっと詳しく知りたい気持ちです。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "今まだ2ヶ月だったと思います。",
+            "emotion_transcription": "はなしを聞いてもらえて嬉しい気持ちです"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "2か月の赤ちゃん…！生まれたてほやほやですね。会えるのが楽しみすぎますね。",
+            "emotion_transcription": "相手の話にテンションが上がって、私も楽しい気持ちになっています。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "新生児の赤ちゃん抱っこすることを考えるだけでウキウキしちゃいます。",
+            "emotion_transcription": "まさにホヤホヤの子をイメージしました"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "本当にかわいいでしょうね。勝手に姪っ子さんを想像してしまいました。来月、会えるのが待ち遠しいですね。",
+            "emotion_transcription": "赤ちゃんがとってもかわいいだろうなぁとほほえましい気持ちです。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はい、しかも女の子なのでもう何着か洋服も買ってしまいました。",
+            "emotion_transcription": "赤ちゃんのお洋服が可愛いことを伝えたいと思いました"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "女の子の服はかわいいですもんね、つい買っちゃう気持ちわかります。",
+            "emotion_transcription": "相手の行動に共感できました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうなんです。お金がどれほどあっても足りません。",
+            "emotion_transcription": "気持ちを分かってもらえて嬉しいです"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "分かります、私も1歳の娘についつい買ってしまうので仕方ないですよね。",
+            "emotion_transcription": "自分も同じ行動をすることを書いてみました。"
+        }
+    ],
+    "dialogue_emotion": "期待する",
+    "dialogue_id": 795
+}

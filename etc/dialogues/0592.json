@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "BL",
+        "listener": "GU"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "友人の旦那さんが公務員なんですが、羨ましいです。",
+            "emotion_transcription": "余裕があるんだなと思います。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなのですね。どうして羨ましいのですか？",
+            "emotion_transcription": "羨ましいことを詳しく知りたいと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "一番は金銭面ですね。うちはボーナスもほぼ無いような会社なので、やはり余裕がありそうで羨ましく思います。",
+            "emotion_transcription": "無い物ねだりをしているようです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "なるほどですね。簡単にはいかないと思いますが、ボーナスがある会社に転職は考えていないのですか？",
+            "emotion_transcription": "相手の気持ちを理解し、相手にアドバイスする気持ちで伝えました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "そうですね。私がというより主人の会社がという感じなので、ボーナスが欲しいから転職してくれとも言えない状況です。",
+            "emotion_transcription": "難しいです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "難しい問題ですよね。これから羨ましさの解消をするために、何か行動は考えていますか？",
+            "emotion_transcription": "羨ましさの解消をするための行動に何を考えてるのか詳しく聞きたかったです。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "羨んでるだけではだめですよね。少しでも資産を増やせるように、ちょっと前から投資を始めました。",
+            "emotion_transcription": "行動あるのみです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "良いですね。損だけはしないように、余裕が出るぐらい稼げたらいいですね。",
+            "emotion_transcription": "相手の投資を共感し、理解を示しました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですね。無茶はせず、できる範囲でやってみようと思います。",
+            "emotion_transcription": "お話を聞いてもらえてよかったです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "頑張ってください。応援しています。",
+            "emotion_transcription": "相手を励ますようにしました。"
+        }
+    ],
+    "dialogue_emotion": "羨ましい",
+    "dialogue_id": 592
+}

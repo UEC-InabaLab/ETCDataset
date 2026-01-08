@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "DS",
+        "listener": "EU"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "悲しいことがあったので聞いてもらえますか。",
+            "emotion_transcription": "とりあえず、悲しい話を聞いてほしかった。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "何があったんですか？",
+            "emotion_transcription": "悲しいといっているので、どのような内容か気になりました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "一生懸命行った作業が意味ないもので、時間を無駄にしました。",
+            "emotion_transcription": "当時の状況を知って、感情を知ってほしかった。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それは、すごく辛かったですね",
+            "emotion_transcription": "一生懸命やったものが意味がないというのはとても残念なことだと思い慰めたいという気持ちです"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "思い出すだけで辛くなります。",
+            "emotion_transcription": "共感を得られて、再度悲しくなっている心情です。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それだけ頑張ってたんだね、えらいね。",
+            "emotion_transcription": "辛くなるほどのことなので、とてもまじめな人の印象があって素直に褒めたい気持ちです。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び",
+                    "嫌悪"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "同じことを繰り返さないように、報連相をしっかりとしようと思います。",
+            "emotion_transcription": "頑張りを褒めてもらったので、嬉しさと反省を感じています。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "次に活かすことを考えることは大事ですね、すごく前向きな考え方でいいと思います。",
+            "emotion_transcription": "失敗から学び、次に活かそうという姿勢は応援してあげたい気持ちです。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そのように言っていただけて嬉しいです。ありがとうございます。",
+            "emotion_transcription": "ポジティブなことを言われ喜んでいます。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そう言ってもらえて、私も嬉しいです。また、悩みがあったらいつでも相談してください。",
+            "emotion_transcription": "とても素直な人なので、悩みがあったらまたいつでも相談してほしいという気持ちです。"
+        }
+    ],
+    "dialogue_emotion": "悲しい",
+    "dialogue_id": 43
+}

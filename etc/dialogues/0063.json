@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "CQ",
+        "listener": "DE"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "自然災害が多くて不安を感じています",
+            "emotion_transcription": "日常が崩れてしまう不安感を相手に知ってもらいたいです"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですよね。地震が多くて不安ですよね。対策はしていますか？",
+            "emotion_transcription": "相手に共感の気持ちを見せて会話を活性化させたいです"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はい。食料などを備蓄しています。",
+            "emotion_transcription": "自分が備蓄していることを認識して少し安心しています"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それは良いですね。避難所なども確認していますか？",
+            "emotion_transcription": "備蓄をしている人がどこまで備えているかに興味がありました"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び",
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それはしていなかったです。後で確認しておこうと思います。ありがとうございます。",
+            "emotion_transcription": "相手から新たな気づきを得て感謝の気持ちを持っています"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "どういたしまして。ローリングストックという方法で備蓄するのが良いらしいですね",
+            "emotion_transcription": "相手にお礼を言われて嬉しい気持ちです。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうなんですよ。賞味期限が切れそうなものを食べたりしています。意外と大変だったりします。",
+            "emotion_transcription": "自分が今やっていることに触れてもらえて嬉しい気持ちです"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんですね。管理するのが大変そうですね",
+            "emotion_transcription": "相手に共感する気持ちを伝えたいと思いました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はい。賞味期限が切れていないか確認する作業が面倒です",
+            "emotion_transcription": "自分の大変さを知ってほしかったです"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "大変だと思いますが備蓄は大事なのでこれからも続けてくださいね。ありがとうございました。",
+            "emotion_transcription": "相手に共感を示しつつ自分の言葉が少しでも役に立てば良いなと思いました"
+        }
+    ],
+    "dialogue_emotion": "不安に思う",
+    "dialogue_id": 63
+}

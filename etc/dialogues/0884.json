@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "AN",
+        "listener": "FJ"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "看護士さんとか美容師さんとか、手に職がある人を見ると羨ましく思います。",
+            "emotion_transcription": "自分にはこれといった職がないので羨ましく思っています"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "本当ですよね。かっこよさと憧れを感じます。",
+            "emotion_transcription": "相手の意見に同調しています。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "その通り。しかも産休や育休でブランクがあってもすぐに復帰できそうなイメージがあるんです。",
+            "emotion_transcription": "確かに、憧れもあると思いました"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "需要は間違いなく多いでしょうし、羨ましい限りです。",
+            "emotion_transcription": "相手の意見を聞いて、ますます羨ましく感じています。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "私は育休後の仕事探しに苦労したので、どうしても比べてしまいます",
+            "emotion_transcription": "需要が多いのはとてもうらやましいです"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それでも復帰は出来たという事でしょうか。素晴らしいです。",
+            "emotion_transcription": "相手を尊敬しています。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ありがとうございます。何とか仕事を見つけることができました。空き時間で何か資格を取ろうとも思っています。",
+            "emotion_transcription": "マイナス思考になっていたが素晴らしいと言われて、単純に嬉しいです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "向上心があって素晴らしいですね。私も見習わなければなりません。",
+            "emotion_transcription": "自分の事が恥ずかしくなってしまっています。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "何かを始めるのに、遅い年齢なんてないと言いますしね。",
+            "emotion_transcription": "頑張ろうと言う気持ちが湧いてきました"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですね。これからは何事も前向きに取り組んでいこうと思います。",
+            "emotion_transcription": "相手の話を聞き、少し気持ちが晴れやかになっています。"
+        }
+    ],
+    "dialogue_emotion": "羨ましい",
+    "dialogue_id": 884
+}

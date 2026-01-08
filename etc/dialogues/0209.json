@@ -1,0 +1,183 @@
+{
+    "participants": {
+        "speaker": "BL",
+        "listener": "EK"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "もうすぐ母の日ですが、プレゼントって欲しいですか？",
+            "emotion_transcription": "がっつきすぎな気がします。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "自分はどんなものでも気持ちが嬉しいですよ｡",
+            "emotion_transcription": "どこか照れくささもあります｡"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私は大げさなリアクションができないので、プレゼントをもらうのは苦手なんです。",
+            "emotion_transcription": "気持ちが大事ですよね。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "特に家族からのプレゼントは恥ずかしさがあります。",
+            "emotion_transcription": "ワクワク感がじわじわきます｡"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び",
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですよね。母の友人は、今年結婚した息子さんのお嫁さんからのプレゼントを期待しているそうです。",
+            "emotion_transcription": "うれし、恥ずかしですよね"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "悲しみ",
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "渡す人によって価値観がかなり変わるように感じます｡",
+            "emotion_transcription": "ドキドキして心配になります｡"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ",
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "お嫁さんからのプレゼントも、関係が良好ならなんでも嬉しいんでしょうけどね。",
+            "emotion_transcription": "難しいですよね。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "普段の感謝の気持ちと気に入ってもらえる物が叶うといいと思います｡",
+            "emotion_transcription": "明るく晴れやかな気分です｡"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そのときだけじゃなくて、普段からの関係が大事ですね。",
+            "emotion_transcription": "そうなるといいですね。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "親しみや思いやりが一番大切だと思います。",
+            "emotion_transcription": "感謝で胸がいっぱいです｡"
+        }
+    ],
+    "dialogue_emotion": "期待する",
+    "dialogue_id": 209
+}

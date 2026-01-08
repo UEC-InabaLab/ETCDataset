@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "DQ",
+        "listener": "HM"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "今から上海に行くために空港で待機しています。わくわくしています。",
+            "emotion_transcription": "わくわくを共有したくおつたえしました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "旅行ですか？私も来週旅行に出かけます。わくわくしています。",
+            "emotion_transcription": "相手に共感すると同時に、自分も旅行に出かけることを相手に伝えて、会話を盛り上げたかったです。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "旅行です。因みにどちらに行かれるのですか？",
+            "emotion_transcription": "相手のわくわくを聞く事で共感したいと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "大阪へ行って万博を観光する予定です。",
+            "emotion_transcription": "相手からの質問に答えて、会話を盛り上げたいと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "万博は私も行きたいと思っていました。気になるパビリオンはありますか？",
+            "emotion_transcription": "私も関心があるので話題を広げたいと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "アメリカパビリオンで月の石を見たいと思っています。",
+            "emotion_transcription": "相手からの質問に回答すると同時に、観光の予定を伝えて会話を盛り上げたいと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "なかなか見れないものなので、いい経験になりますね。",
+            "emotion_transcription": "相手の体験に共感の意を込めました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "万博でしか見れない、貴重な展示物なので今からとても楽しみです。",
+            "emotion_transcription": "相手のコメントに共感すると同時に万博の展示物を見物する楽しみを伝えたかったです。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "人が多いと思うので、気をつけてください。",
+            "emotion_transcription": "これからの旅を安全にしてほしいという気持ちがあります。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はい。迷子にならないように気をつけて観光を楽しんできます。",
+            "emotion_transcription": "相手からの気遣いのコメントに共感したいと思いました。"
+        }
+    ],
+    "dialogue_emotion": "わくわくする",
+    "dialogue_id": 37
+}

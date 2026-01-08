@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "CQ",
+        "listener": "DE"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "うちの子が、県の作文コンクールで最優秀賞をとったんです。本当に誇りに思っています。",
+            "emotion_transcription": "子どもの成果を相手に伝えたかったです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "それはおめでとうございます！すごいですね！どんな作文だったんですか？",
+            "emotion_transcription": "相手の子どもの素晴らしい成果を喜びました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "夏休みに一生懸命書いていたんですが自分の体験を素直な言葉で表現できていて。そのひたむきな努力を思うと胸がいっぱいになります。",
+            "emotion_transcription": "子どもの努力と成長に感動していました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "努力が形になったんですね。自分の力で何かを成し遂げる経験はその子にとって大きな自信になりますね。",
+            "emotion_transcription": "子どもの経験の価値を認めました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "はい。表彰式で名前を呼ばれた時は、自分のこと以上に嬉しくて涙が出そうでした。",
+            "emotion_transcription": "子どもの晴れ姿を見て感極まりました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "親御さんにとってこれほど嬉しい瞬間はないですよね。本当におめでとうございます。",
+            "emotion_transcription": "相手の親としての喜びに共感しました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "作文を書くのが好きみたいなので、これからも自分の気持ちを大切に書いていってくれたらと思っています。",
+            "emotion_transcription": "子どもの好きなことを応援したいと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "素晴らしい才能ですね。応援しています！将来が楽しみですね。",
+            "emotion_transcription": "子どもの将来に期待しました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ありがとうございます。この経験が子供にとっての自信につながってくれたら嬉しいです。",
+            "emotion_transcription": "子どもの今後の成長を願っていました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "きっとそうなりますよ。",
+            "emotion_transcription": "相手の子供の未来を肯定したかったです"
+        }
+    ],
+    "dialogue_emotion": "誇りに思う",
+    "dialogue_id": 411
+}

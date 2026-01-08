@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "CZ",
+        "listener": "DU"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "駅の階段を上る時、最初の段で躓いてこけた事が恥ずかしかったです。",
+            "emotion_transcription": "とても恥ずかしい心情です。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "それは恥ずかしいですね。大勢に見られたのですか？",
+            "emotion_transcription": "同意する気持ちと相手に興味がある気持ち。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "通勤時だったので、数名には見られていました。",
+            "emotion_transcription": "恥ずかしい気持ちがまだあります。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "通勤時ということはお1人でいるときですね。誰か一緒にいれば笑いもおきますが・・・",
+            "emotion_transcription": "同情する気持ち"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "逆に知ってる人に見られていないことが不幸中の幸いでした。",
+            "emotion_transcription": "ほっとしている気持ちです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "それはよかったですね、一瞬恥ずかしいだけですからね",
+            "emotion_transcription": "同意する気持ち"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "階段一段も登れなくなったのかと、筋力の低下には不安があります。",
+            "emotion_transcription": "少し恐怖心があります"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "私も筋力低下は不安があります。対策としてエクササイズなどされていますか？",
+            "emotion_transcription": "相手に興味を持とうという気持ち"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "恥ずかしながら、何もやっていません。だから躓いたのかと思います。",
+            "emotion_transcription": "さらに恥ずかしい気持ちです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "これから何かされたほうがいいかも知れませんね。という私も何もやっていないのですが。",
+            "emotion_transcription": "アドバイスしてあげようという気持ち。"
+        }
+    ],
+    "dialogue_emotion": "恥ずかしい",
+    "dialogue_id": 322
+}

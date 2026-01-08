@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "HP",
+        "listener": "FS"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "ＧＷが終わってしまって悲しいです。",
+            "emotion_transcription": "心から悲しいと思います。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "連休明けは辛いですよね",
+            "emotion_transcription": "休み明けは悲しいということを共感しました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "とりあえず休み明けは3日だけ頑張って、土日になるのが待ち遠しいです。",
+            "emotion_transcription": "もうすでにヘトヘトです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "確かに。金曜日頑張れば休みでもんね。",
+            "emotion_transcription": "自分もあと一日で休みで嬉しいという気持ちがあります"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "でも週末は天気が悪そうなのが残念ですね。",
+            "emotion_transcription": "天気が心配で仕方ありません。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "土日は雨が多いのはなんででしょうね",
+            "emotion_transcription": "休みの日は天候が悪いということを伝えました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "たしかにそうですね。平日の雨も嫌いですが、土日の雨はもっとイヤな気持ちになります。",
+            "emotion_transcription": "天気が悪いと気分が落ち込みます。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "せっかくの休みに天気が悪いとなんか損した気分になりますよね",
+            "emotion_transcription": "天気の悪さにがっかりします"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうえいばもうすぐ梅雨ですね。気が重いです。",
+            "emotion_transcription": "梅雨のない北海道に引っ越したいくらいです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "梅雨はジメジメして嫌ですよね。",
+            "emotion_transcription": "ジメッとしたのが苦手ということを伝えました"
+        }
+    ],
+    "dialogue_emotion": "悲しい",
+    "dialogue_id": 711
+}

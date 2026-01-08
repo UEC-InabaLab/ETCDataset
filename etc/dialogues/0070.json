@@ -1,0 +1,182 @@
+{
+    "participants": {
+        "speaker": "DM",
+        "listener": "FU"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "いつ地震がおこっても冷静でいられるようにしています。",
+            "emotion_transcription": "災難に立ちむかう強い心構えを発信しようとしました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖",
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "日本で生活している以上はそういった覚悟は必要ですね。",
+            "emotion_transcription": "ハッとさせられたので、その気持ちを書きました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんですよね、逃げ場はありませんし。",
+            "emotion_transcription": "賛同の意見に対し、同意の意をあらためて示しました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "災害用のグッズを揃えたりと最低限できることから始めておくべきですね。",
+            "emotion_transcription": "もしものことを考えながら最低限出来ることを考えました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それに加えて、家族と避難先を共有しています。",
+            "emotion_transcription": "自分が用意周到なことをあらためて主張しようとしました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "それ大事です。あとは緊急用の災害ダイヤルなども把握しておいたりと、よく考えると色々準備が必要ですね。",
+            "emotion_transcription": "あらためて災害に対する自分の考えが甘いことに気付かされました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "準備はしすぎるということはありませんからね。",
+            "emotion_transcription": "自分の主張を強化しようと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "災害にあった人たちの経験談などを改めて調べて置いた方が良さそうだなと思いました。",
+            "emotion_transcription": "自分が想像している以上に知らなことが多そうだと思って書きました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "その通りですね。今度いろいろ調べてみます。",
+            "emotion_transcription": "大筋賛同いただけたことで、相手も意見も尊重しようと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ",
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "できれば、というか絶対に災害に遭遇したくないものです。",
+            "emotion_transcription": "他人ごとではないと思っている物の本音は災害などおきてほしくないです。"
+        }
+    ],
+    "dialogue_emotion": "心構えする",
+    "dialogue_id": 70
+}

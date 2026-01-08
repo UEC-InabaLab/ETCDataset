@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "CZ",
+        "listener": "HM"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "明日出かけるので、晴れることを期待しています。",
+            "emotion_transcription": "期待する気持ちです"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ゴールデンウイークで出かけるので、私も明日の天気が晴れることを期待しています。",
+            "emotion_transcription": "外出への期待を相手に伝えたかったです。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "どこへ出かけるんですか。",
+            "emotion_transcription": "驚きの心情です"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "大阪の万博です。よい展示物に出会えることを期待しています。",
+            "emotion_transcription": "万博に出かけて良い思い出を作れることに期待している気持ちを伝えたいと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "いいですね。期待しているパビリオンはありますか。",
+            "emotion_transcription": "楽しみな気持ちです"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "アメリカンパビリオンの月の石に期待しています。",
+            "emotion_transcription": "期待している展示物について解答して会話を盛り上げたかったです。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "良い旅行になる事を祈っています。私は近くの公園に散歩です。",
+            "emotion_transcription": "少し寂しい気持ちです"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "天気の良い日に散歩するのも楽しいですね。花壇に季節の花々が植えられているとなお良いです。",
+            "emotion_transcription": "相手のコメントに共感を示したいと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "お互い良い天気になることを祈りましょう。",
+            "emotion_transcription": "お互いに良い明日を迎えたいと思う気持ちです"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。やはり天気が良いと気分が明るくなりますし、晴天に期待しましょう。",
+            "emotion_transcription": "お互いに良い天気の中、外出できることを期待してコメントしました。"
+        }
+    ],
+    "dialogue_emotion": "期待する",
+    "dialogue_id": 208
+}

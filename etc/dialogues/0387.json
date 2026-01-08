@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "EF",
+        "listener": "FH"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "好きなアーティストのライブに行くことになりました",
+            "emotion_transcription": "とてもうれしかったです"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "いいですね！チケット合戦、大変ではなかったですか？",
+            "emotion_transcription": "わくわくする気持ち"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "大変でした。当たらなかった人が多かったみたいです。",
+            "emotion_transcription": "ほっとしました"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "その中での当選、おめでとうございます！いつ頃いかれるんですか？",
+            "emotion_transcription": "祝福の気持ち"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ありがとうございます。秋頃です！",
+            "emotion_transcription": "うれしいな"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "過ごしやすい季節でさらにいいですね。グッズとかも買われるのでしょうか。",
+            "emotion_transcription": "すっきりした気持ち"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "買います。買いすぎには注意ですね。",
+            "emotion_transcription": "少し心配です"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "楽しみですね。",
+            "emotion_transcription": "自分まで嬉しくなる気持ち"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "仕事がとてもはかどります。",
+            "emotion_transcription": "前向きな気持ち"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "いいですね。当日思いっきり楽しめますように！",
+            "emotion_transcription": "相手の方の幸せを願う気持ち"
+        }
+    ],
+    "dialogue_emotion": "わくわくする",
+    "dialogue_id": 387
+}

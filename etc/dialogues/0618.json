@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "FF",
+        "listener": "BU"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "先日、自転車でこけてしまいました。",
+            "emotion_transcription": "めちゃくちゃ恥ずかしかったです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ケガはされませんでしたか。",
+            "emotion_transcription": "心配になり聞きました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ケガは少し擦り傷だけだったのですが、メガネが壊れてしまいました。",
+            "emotion_transcription": "体の心配をしてもらえてうれしい気持ちです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "危ないですね。メガネでケガしてしまうかもしれませんし。痛みとかはあるのですか。",
+            "emotion_transcription": "ケガの具合が心配になり聞きました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "もう痛みはないのですが、人がたくさん見ていたのですごく恥ずかしかったです。",
+            "emotion_transcription": "親切な人だなと感謝の気持ちです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それは災難ですね。私は先日誰もいないところで派手にこけましたが、それも恥ずかしかったですが…。皆さん心配されたでしょう。",
+            "emotion_transcription": "自分のエピソードも伝えて少し心情をやわらげようと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "人前でこけると恥ずかしいですよね。若いお兄さんが助けてくれたのですが、メガネが壊れてそのあとが大変でした。",
+            "emotion_transcription": "恥ずかしい気持ちと途方にくれた気持ちでした。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "メガネがないと生活が大変ですよね。",
+            "emotion_transcription": "生活への影響が気になって尋ねました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "メガネがないとほとんど見えないので帰りはとぼとぼ歩いて帰りました。目が悪いのは嫌ですね。",
+            "emotion_transcription": "共感してもらえてうれしい気持ちです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "しばらく大変でしょうが、気を付けてお過ごしください。",
+            "emotion_transcription": "生活の無事を祈って書きました。"
+        }
+    ],
+    "dialogue_emotion": "恥ずかしい",
+    "dialogue_id": 618
+}

@@ -1,0 +1,185 @@
+{
+    "participants": {
+        "speaker": "GB",
+        "listener": "EY"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "最近は物騒なニュースが多いですね",
+            "emotion_transcription": "怖いニュースが身近に多い"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はい、多いと思います。今ならストーカーとかひき逃げのニュースで世間が騒いでいますね。",
+            "emotion_transcription": "相手の心情をさぐるため、話を合わせました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖",
+                    "驚き"
+                ],
+                [
+                    "恐怖",
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "今までには無かった様な事が多い世の中になりました。",
+            "emotion_transcription": "想像出来ない事が多く怖い"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "これまでで一番怖く感じた事件ってありますか？ちなみに私は神戸の少年Aの事件です。",
+            "emotion_transcription": "話を膨らませようと思い、自分から相手に質問をしました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖",
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "あれは狂気的なニュースでしたね。",
+            "emotion_transcription": "想像出来ない事が多く怖い"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "そうです、狂気的という言葉がぴったり当てはまります！",
+            "emotion_transcription": "相手の発した狂気的という表現に強く共感しました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖",
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "一昔前前とは違う怖いニュースがホントに増えた気がします。",
+            "emotion_transcription": "想像出来ない事が多い怖さ"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "増えた原因は何が考えられますか？日本人が以前より恨みっぽくなったのでしょうか？",
+            "emotion_transcription": "相手の考察を知りたくなり、自分からさらに質問をしました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖",
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "世の中もそうですし、日本人もどこか昔とは変わってしまったかもしれません。",
+            "emotion_transcription": "悪い方向に進むこわさ"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "日本人も変わってしまいましたね。人間関係が今と昔では違っているように私も感じます。",
+            "emotion_transcription": "相手の考察を見て自分も相手の意見に共感しました。"
+        }
+    ],
+    "dialogue_emotion": "怖い",
+    "dialogue_id": 157
+}

@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "AZ",
+        "listener": "DU"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "GWは特に予定がなく、とても退屈で寂しく過ごしました。",
+            "emotion_transcription": "目立った予定もなく、部屋で過ごしていて孤独を感じていた"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんですね。どこ行っても人は多いですし、家でゆっくり過ごすのも悪くないかもしれませんね。",
+            "emotion_transcription": "元気づける感じでコメントしました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "精々したのは帰省ぐらいなんですが、一泊だったしやることもありませんでした。",
+            "emotion_transcription": "帰省は毎年恒例、ただ帰省してもすることは特にはない"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "なるほど、私は実家暮らしなので移動もせず、親戚の集まりに顔を出したくらいでした。",
+            "emotion_transcription": "自己開示するイメージでコメントしました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "なんだか賑やかで楽しそうですね、私は入れ違いになってしまい親戚には会えず仕舞いでした",
+            "emotion_transcription": "毎回帰省が事務的になってしまっている感があり、賑やかさに欠けてしまう"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "何か家でできる楽しみがあると寂しさを紛らわせられるかもしれませんね。",
+            "emotion_transcription": "アドバイスする感じ"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "いいですねえ、何かおすすめなことってありますか。",
+            "emotion_transcription": "帰省を楽しめることが欲しい"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "料理など普段の生活で楽しめることが私的にはおすすめです。",
+            "emotion_transcription": "アドバイスする感じ"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "普段あまり料理していないことがバレそう(笑)、でも共同作業って楽しいですよね。料理しながら「最近どうなの？」みたいな会話も生まれそう。",
+            "emotion_transcription": "アイデアにワクワクしている"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "たまにやると新鮮で楽しいと思います。何かやりながらだと会話も弾みやすいですしね。",
+            "emotion_transcription": "相手に同意する、親切心"
+        }
+    ],
+    "dialogue_emotion": "さびしい",
+    "dialogue_id": 451
+}

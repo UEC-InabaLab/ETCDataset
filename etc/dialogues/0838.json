@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "EK",
+        "listener": "AW"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "今年の社員旅行は、伊豆の温泉に一泊する予定でとても楽しみです。",
+            "emotion_transcription": "ワクワク明るい気分です｡"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "それは楽しみですね。いつ頃行かれる予定ですか？",
+            "emotion_transcription": "相手の話に興味をもったことを伝えたいと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び",
+                    "恐怖"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "６月中旬の予定になっています。",
+            "emotion_transcription": "期待でドキドキする感じです｡"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "来月ですね。伊豆の温泉には行ったことがないので、私もいつか行ってみたいです。",
+            "emotion_transcription": "羨ましい気持ちを伝えたいと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "自分もはじめてなので､特に料理と温泉が楽しみです｡",
+            "emotion_transcription": "期待で胸がいっぱいになりそうです｡"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "たっぷり楽しんできてくださいね。市内の観光なんかもするんですか？",
+            "emotion_transcription": "楽しみな様子が伝わってくるので、さらに詳しく聞きたいと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですね､西伊豆の辺りをメインに回る予定ですね｡",
+            "emotion_transcription": "ウキウキが止まらない気分です｡"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "西伊豆ですか。季節的に梅雨ですが、過ごしやすい気候だといいですね。",
+            "emotion_transcription": "楽しい旅行になるよう願っていることを伝えました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "自分は晴れ男なので大丈夫だと思います｡",
+            "emotion_transcription": "必ず晴れるように祈ります。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "それは心強いですね。西伊豆、是非楽しんできてください。",
+            "emotion_transcription": "相手にとって楽しい思い出になるといいなと思いました。"
+        }
+    ],
+    "dialogue_emotion": "楽しい",
+    "dialogue_id": 838
+}

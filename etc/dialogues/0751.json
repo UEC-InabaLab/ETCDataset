@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "FJ",
+        "listener": "EI"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "トランプ大統領の外交政策を見ていると恐ろしくなってしまいます。",
+            "emotion_transcription": "現在の不安な心境を訴えています。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "詳しくはわからないのですが、関税が凄いことになってますね！",
+            "emotion_transcription": "スピーカーさんに聞いてみようと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "車や食料品への課税が凄いですものね。",
+            "emotion_transcription": "具体的な内容を伝えています。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "日本はまだマシな方ですよね？",
+            "emotion_transcription": "知っている情報を頭の中で整理してます。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "友好関係って何だろうと思ってしまいます。",
+            "emotion_transcription": "嫌悪感を相手に伝えています。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "確かに。これから先、日本や他の国もどうなるのか不安になるときもあります。",
+            "emotion_transcription": "日本だけでなく、世界中の将来が気になるところであります。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "日本も総理大臣が代わったばかりだというのに、石破さんも大変だなと同情してしまいます。",
+            "emotion_transcription": "相手はどのように感じているのか伺っています。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "安倍さんの時の方がトランプが仲が良かったと思うので、石破さんは大変だと思います。",
+            "emotion_transcription": "共感しました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "何はともあれ、大きな摩擦が生じない事を祈るばかりです。",
+            "emotion_transcription": "今後の不安を相手に伝えています。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はい！これから先少しでも日本、世界中の人々が幸せになって欲しいものです。",
+            "emotion_transcription": "毎日微力ながら頑張っていこうと思いました。"
+        }
+    ],
+    "dialogue_emotion": "恐ろしい",
+    "dialogue_id": 751
+}

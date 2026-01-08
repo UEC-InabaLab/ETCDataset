@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "GN",
+        "listener": "DT"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "猫と遊ぶのって本当に楽しいですね。",
+            "emotion_transcription": "相手にも猫と遊ぶ楽しさをどう思うか聞いてみたいです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "いつまでも遊んじゃいますよね。",
+            "emotion_transcription": "猫の可愛らしい姿が目に浮かんで癒される"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "猫は飼ったことがありますか？",
+            "emotion_transcription": "相手の発言に共感しうれしくなりました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "ないんですが、猫を飼っている友達の家などに遊びに行ったときはずっと遊んでます。",
+            "emotion_transcription": "猫を飼いたいので、友達が羨ましい"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "猫が好きそうでうれしくなりました。",
+            "emotion_transcription": "相手も猫好きで仲間だと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "大好きですよ。たまに猫カフェにも行きます。本当は飼いたいんですけどね。",
+            "emotion_transcription": "相手と同感。猫が可愛くて、見ているだけでも癒されうる"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "猫を飼えない理由はありますか？",
+            "emotion_transcription": "相手も猫が好きでうれしくなり、飼えない理由を聞いてみたくなりました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "マンション住まいで、マンションがNGなんです。",
+            "emotion_transcription": "飼えない理由があり、飼えないのが悲しい"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "そういうことですね。いつか飼えるといいですね。",
+            "emotion_transcription": "相手の飼えない理由がわかり残念な気持ちになりました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "はい、いつか飼うのが夢です。",
+            "emotion_transcription": "将来の夢を伝えて、少し頑張ろうと思った"
+        }
+    ],
+    "dialogue_emotion": "楽しい",
+    "dialogue_id": 549
+}

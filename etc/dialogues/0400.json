@@ -1,0 +1,186 @@
+{
+    "participants": {
+        "speaker": "AZ",
+        "listener": "DP"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "満員電車に乗っていたら大きな荷物を座席に置いている人がいました。",
+            "emotion_transcription": "周りが見えていない乗客に怒りを覚えました"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り",
+                    "驚き"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "いけませんね！とても迷惑です！",
+            "emotion_transcription": "話を聞いて腹立たしさが伝わる心情。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "網棚は空いていたし、スポーツバッグだったので載せられるはずなのに…。ホント迷惑ですよね。",
+            "emotion_transcription": "自分本位な考えをする人間に苛立ちを覚えました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "満員電車で足元に荷物を置いて場所を取る人も迷惑ですよね。",
+            "emotion_transcription": "同意してもらいたい心境。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "迷惑ですね、足元に置かれるとそこの吊革にもつかまれなくなっちゃいます",
+            "emotion_transcription": "実際に自分自身も経験したことのある内容に、とても共感しました"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ",
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "その通りです。声に出して怒りたくてもそうも出来ないし。",
+            "emotion_transcription": "思う様にいかない気持ちを共有したい。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "本当はそうしたいんですけどね(笑)、何なら電車の外にポイっとしてやりたい。",
+            "emotion_transcription": "迷惑な乗客を追い払いたい気持ちがします"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "笑える！ホントにポイポイできれば気分爽快なのに。",
+            "emotion_transcription": "怒りが消えるような気持に切り替わり楽しい心情。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ",
+                    "怒り"
+                ],
+                [
+                    "喜び",
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "マナーを守れる人だけが乗っていいというルールを作ってほしいぐらい！、守れない人は料金3倍で！",
+            "emotion_transcription": "マナーやエチケットを守れる人だけなら快適に載っていられるのに…、という理想を求める気持ちです"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "喜び",
+                    "驚き"
+                ],
+                [
+                    "喜び",
+                    "驚き"
+                ]
+            ],
+            "utterance": "ウケる！怒りも何処かへ飛んでいく！３倍に賛成！",
+            "emotion_transcription": "意外な発言に共感する心情。"
+        }
+    ],
+    "dialogue_emotion": "怒る",
+    "dialogue_id": 400
+}

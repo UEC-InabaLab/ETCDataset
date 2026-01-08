@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "AF",
+        "listener": "BL"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "夏休みに海外旅行へ行く予定を立てていて、胸がわくわくしています",
+            "emotion_transcription": "久しぶりの海外旅行で、楽しみな気持ちと楽しみたい気持ちを共感したいと思いました"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "いいですね。どちらに行かれるんですか。",
+            "emotion_transcription": "うらやましいです。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "バリ島へ行きます。以前に行って、とても居心地が良かったので。",
+            "emotion_transcription": "話に興味を持って接してくれて嬉しい気持ちでした"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "夏のバリ島は暑いですか？",
+            "emotion_transcription": "気持ちよさそうです。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "乾季・雨季と別れているくらいで、基本、年中暑いですね。",
+            "emotion_transcription": "話に興味を持ってくれているようで、詳しい情報を話したいと思いました"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "でも日本とは違ってじめっとはしてなさそうで気持ちよさそうですね。",
+            "emotion_transcription": "なるほどなと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "それが、雨季の季節はすごいジメッとしてるんです。ただ、1日中雨が降り続けるということはないので、気持ちよく過ごせる時間は日本より多いと思います。",
+            "emotion_transcription": "バリ島へ興味を示してくれていて嬉しい気持ちで、詳しい情報を伝ようと思いました"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "意外でした。そうなんですね。でも気持ちよく過ごせるのはいいですね。私もいつか行ってみたいです。",
+            "emotion_transcription": "驚きました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "日本よりも時間がゆっくり流れている感覚が好きで。もし、機会があったら是非、行ってみてください！",
+            "emotion_transcription": "私がバリ島を好きという気持ちと同じような気持ちになってくれて嬉しいと思いました"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "次の旅行先の参考にします。",
+            "emotion_transcription": "教えてもらえてよかったです。"
+        }
+    ],
+    "dialogue_emotion": "わくわくする",
+    "dialogue_id": 682
+}

@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "CE",
+        "listener": "HA"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "昨日友人と訪れたカレー屋さんのカレーが美味しくて感動しました。",
+            "emotion_transcription": "今まで食べたことないカレーだったので楽しめました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "それは良かったですね。なにカレーを食べたのでしょうか？",
+            "emotion_transcription": "相手が嬉しそうで楽しくなってきました。どんなメニューか気になり聞いてみました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "いわしのトマト味のカレーでした。",
+            "emotion_transcription": "食べたことないものってわくわくします。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "いわしですか。美味しくて感動したようですが生臭くはなかったですか？",
+            "emotion_transcription": "どんな味か想像がつかないので疑問が生じてそれについて質問してみました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "きちんと処理されていて揚げ焼きみたいな感じになっていました。",
+            "emotion_transcription": "思い出したらまたたべたくなってきました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんですね。食べてみたいです。どうやってお店を見つけたのでしょうか？",
+            "emotion_transcription": "美味しそうだと思いました。さらに相手に質問したくなりました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "友人が行ったことがあって美味しかったからと言って連れて行ってくれました。",
+            "emotion_transcription": "誘えってもらえてうれしい気持ちでした。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "なるほど。良い友人を持ちましたね。また機会があれば行きますか？",
+            "emotion_transcription": "そんな友達がいて羨ましいです。次も行くか相手に質問してみました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はい、今度が私が誰かを誘いたいと思いました。",
+            "emotion_transcription": "誰かに喜んでもらいたいです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "その感動するほどの美味しさを他の人にも体験してほしいんですね？素敵です。",
+            "emotion_transcription": "やさしい人だと思いました。良いなと感じました。自分も行ってみたいです。"
+        }
+    ],
+    "dialogue_emotion": "感動する",
+    "dialogue_id": 777
+}

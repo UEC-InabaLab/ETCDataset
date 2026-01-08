@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "ED",
+        "listener": "CQ"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "今度、上司との面談に向けていろいろ心構えしているところなんです。",
+            "emotion_transcription": "気持ちを知ってほしかったです"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんですね。何か緊張するようなことでもあるんですか？",
+            "emotion_transcription": "相手の面談が気になりました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "はい。もしかしたら厳しいフィードバックがあるかもしれないので、動揺しないように心の準備をしています。",
+            "emotion_transcription": "厳しい話に備えていました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "なるほど。事前に心の準備をしておくのは大切ですね。",
+            "emotion_transcription": "相手の準備に納得しました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "どんなことを言われても冷静に聞こう、そして建設的に受け止めようと自分に言い聞かせています。",
+            "emotion_transcription": "冷静に対応しようと思っていました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "素晴らしい心構えですね。そう意識するだけでも当日違ってきますよ。",
+            "emotion_transcription": "相手の意識の高さを褒めたいです"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "おかげで、少し不安な気持ちが和らいできました。ちゃんと向き合えそうな気がします。",
+            "emotion_transcription": "準備の効果を感じていました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "準備する時間があるのとないのとでは全く違いますよね。",
+            "emotion_transcription": "準備の重要性に同意しました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "はい。しっかり心構えして、明日に臨みたいと思います。",
+            "emotion_transcription": "覚悟を決めていました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "応援しています！あなたの真摯な姿勢はきっと伝わりますよ。",
+            "emotion_transcription": "相手の健闘を祈りました。"
+        }
+    ],
+    "dialogue_emotion": "心構えする",
+    "dialogue_id": 580
+}

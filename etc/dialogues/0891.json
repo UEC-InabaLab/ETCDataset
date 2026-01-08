@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "GU",
+        "listener": "BB"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "太るからと控えていた焼肉をたくさん食べて満足しました。",
+            "emotion_transcription": "満足した気持ちを、相手に理解して欲しかったです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "焼肉、おいしそうですね。牛肉ですか？",
+            "emotion_transcription": "おいしそうな焼肉を食べたそうでうらやましく思います。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "カルビ、ホルモン、ハラミなどたくさん食べて、また食べたいぐらい満足しています。",
+            "emotion_transcription": "食を食べた満足な気持ちを共感して欲しかったです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それはうらやましいです。私はカルビや牛タンが好きです。味付けはタレですか？",
+            "emotion_transcription": "相手に自分の好みも伝えたいと感じました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "主にタレで食べて飽きたら塩です。焼肉は好きですか？",
+            "emotion_transcription": "相手は焼肉が好きか関心を持ち聞いてみたかったです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "大好きですよ。最近はあまり食べていませんが、機会があればたくさん食べたいと思います。",
+            "emotion_transcription": "相手と焼肉の魅力を共有したいと感じました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "良いですね。好きな物を食べると満足した気にならないですか？",
+            "emotion_transcription": "満足の共感を強く聞きたかったです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "もちろんです。満足感と幸せで生き返ったような気分になります。",
+            "emotion_transcription": "自分と同じような気持ちを相手が感じているようで親近感がわきました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですよね。これからも満足できるような食をしたいです。",
+            "emotion_transcription": "満足できる共感を伝えたかったです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "食は生きる上でとても大切ですよね。心も満たしてくれる最高のものだと思います。",
+            "emotion_transcription": "食の素晴らしさを相手と同時に共有できたようで楽しくなりました。"
+        }
+    ],
+    "dialogue_emotion": "満足",
+    "dialogue_id": 891
+}

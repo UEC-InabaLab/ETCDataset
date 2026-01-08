@@ -1,0 +1,182 @@
+{
+    "participants": {
+        "speaker": "BF",
+        "listener": "BL"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "先日まで歯医者に通っていましたが、今日は歯を磨きましたか？と２回も聞かれて恥ずしかったです。",
+            "emotion_transcription": "お題に対して身近な経験を話すことで話題が広げられたらと思いました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "ちゃんと磨けてませんと言われているようでちょっと気恥ずかしいですね。",
+            "emotion_transcription": "ちょっと嫌ですね。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "まさにそう意味でした。固い歯ブラシで磨いて行ったらその後は大丈夫でした。",
+            "emotion_transcription": "結末も書いて相手の反応を見ることにしました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "対処方法が見つかったのですね。",
+            "emotion_transcription": "よかったです。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び",
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんです。とても単純な理由でした。",
+            "emotion_transcription": "適格な指摘に感心しました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私も歯医者に行く前はいつも以上に念入りに磨きます。最近はあまり言ってないので、一度健診に行かないとです。",
+            "emotion_transcription": "気になりますよね。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私は歯茎が弱いのでいつも超ソフトの歯ブラシを使っているのですがそれだと歯垢が残ってしまってたみたいです。",
+            "emotion_transcription": "相手にも質問したいなと思いつつその時間がなさそうで少し残念です。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び",
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "確かに超ソフトだと磨き残しが出そうですね。私も歯医者に行く前は気をつけようと思います。",
+            "emotion_transcription": "なるほどなと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "健診に行くのはちょっと面倒ですが、是非近いうちに行ってみてくださいね。",
+            "emotion_transcription": "なかなか返信がこなくて心配しましたが無事に会話を終われそうでほっとしています。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "わかりました。気をつけます。",
+            "emotion_transcription": "気遣いが大事ですね。"
+        }
+    ],
+    "dialogue_emotion": "恥じる",
+    "dialogue_id": 355
+}

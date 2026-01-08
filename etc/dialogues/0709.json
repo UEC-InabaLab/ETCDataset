@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "HB",
+        "listener": "FS"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "大ファンの嵐が活動終了するので悲しいです。",
+            "emotion_transcription": "悲しいさみしい"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "ついに解散してしまうんですね。ファンの方は悲しいでしょうね。",
+            "emotion_transcription": "嵐の解散が悲しいということに共感しました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "悲しいてす。ラストコンサートには行きたいです。",
+            "emotion_transcription": "必ず行くという決意の気持ち"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "チケットが争奪戦になりそうですね。",
+            "emotion_transcription": "ラストコンサートのチケットが撮れるか心配しています"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "そうですね。でも会員番号はかなり早いので取れると思ってます。",
+            "emotion_transcription": "決意の気持ち"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "それはすごいですね。チケットはまさにプラチナチケットになりそうですね。",
+            "emotion_transcription": "ラストコンサートのチケットがとれると聞いて驚きました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "取れることを願っています。嵐の知っている曲はありますか？",
+            "emotion_transcription": "興味のある気持ち"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "Love so sweetなどの有名な曲は知っています。",
+            "emotion_transcription": "自分の知っている曲を伝えました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "花男ですね！有名だから皆さん知っていますね。",
+            "emotion_transcription": "うれしい気持ち"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "カラオケでもよく歌いますね。",
+            "emotion_transcription": "自分がカラオケで歌うくらい好きということを伝えました"
+        }
+    ],
+    "dialogue_emotion": "悲しい",
+    "dialogue_id": 709
+}

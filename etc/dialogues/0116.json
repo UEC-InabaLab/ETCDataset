@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "FE",
+        "listener": "EO"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "こんにちは",
+            "emotion_transcription": "まずはあいさつから"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "最近、誇りに思うことってありましたか？",
+            "emotion_transcription": "誇りに感じていることを聞きたいと思いました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はい、まあ大したことでは無いですが",
+            "emotion_transcription": "自分が誇りに思う事"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "どんなことですか？",
+            "emotion_transcription": "詳しく知りたいと思いました"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "自分は今まで一度も借金をしたことが無いです",
+            "emotion_transcription": "昔から借金が嫌いです"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんですね。借金は重荷になるし、返せない時が怖いからしない方がいいですよね。",
+            "emotion_transcription": "借金の怖さを伝えたいと思いました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "カードローンも作りましたが一度も使ったことが無いです",
+            "emotion_transcription": "一応カードは作りました"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "カードローンも金利が高いので利用しない方がいいですよね。",
+            "emotion_transcription": "金利が高いことをお伝えしたかったです"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "お金持ちでは無いですが、これからも借金だけはしないように生きたいです。",
+            "emotion_transcription": "今後の生き方について"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "えらいですね。お互いに借金は作らないようにしましょうね。",
+            "emotion_transcription": "借金をしないことを伝えたいです"
+        }
+    ],
+    "dialogue_emotion": "誇りに思う",
+    "dialogue_id": 116
+}

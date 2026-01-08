@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "GU",
+        "listener": "GQ"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "最近は薄毛になり恥ずかしいです。",
+            "emotion_transcription": "薄毛の恥ずかしさを知って欲しかったです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "私も最近抜け毛が多く、薄毛で恥ずかしく感じますね。",
+            "emotion_transcription": "薄毛の恥ずかしさの共感を得たかったです。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "特に周りに見られることが恥ずかしいですよ。",
+            "emotion_transcription": "薄毛であることで恥ずかしい場面を共感を得たかったです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "すごく分かりますね。周りに見られることが恥ずかしく嫌ですよね。対策はしていますか？",
+            "emotion_transcription": "相手の気持ちを理解しつつ、対策を聞きたかったです。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "はい。育毛剤だけですが、でも良くなった試しがなくて困っています。",
+            "emotion_transcription": "薄毛の対策に困っているのを共感してもらいたかったです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "そうなんですね。私も試してみてもダメでした。だから気持ちが分かりますね。",
+            "emotion_transcription": "相手が悩んでいることを共感したかったです。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "気持ち分かってくれて嬉しいです。早くこの恥ずかしい薄毛を何とかしたいです。",
+            "emotion_transcription": "共感を得ながら、他に対策方法を知りたかったです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "クリニックに行くとかはしないのですか？効果は良いと聞きます。",
+            "emotion_transcription": "薄毛対策の提案を共感して欲しかったです。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "クリニックでもいいのですが、高くて通えないです。でもそのうち考えたいなと思います。",
+            "emotion_transcription": "薄毛を治すためにクリニックに行く期待をしました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私もそのうち通おうと思って、お互い恥ずかしさがない人生を送れるように頑張りたいですね。",
+            "emotion_transcription": "お互い恥ずかしさがない人生を送れるように頑張るような共感を得たかったです。"
+        }
+    ],
+    "dialogue_emotion": "恥ずかしい",
+    "dialogue_id": 621
+}

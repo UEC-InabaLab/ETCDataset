@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "HM",
+        "listener": "FS"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "さっき部屋の中を片付けていた時に大きなムカデが出てきて嫌悪感を感じました。",
+            "emotion_transcription": "自分が体験した嫌悪感を抱いた体験を相手に伝えたいと思いました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それは怖いですね。どれ位大きかったですか？",
+            "emotion_transcription": "ムカデの大きさが気になりました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "18センチくらいの大きいムカデでした。動きがウネウネしていて気持ち悪かったです。",
+            "emotion_transcription": "相手からの質問に詳細に答えた上で私の気持ちに共感して欲しいと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖",
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "ムカデの大きいのは刺されたら大変なことになりそうですね。",
+            "emotion_transcription": "もし刺されたらと思うと恐怖感があります"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "体のサイズが大きい固体ほど、毒の量が多いらしいので嫌ですね。",
+            "emotion_transcription": "ムカデに感じた嫌悪感を相手に伝えて会話を盛り上げたいと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そのムカデはどうなったのですか？",
+            "emotion_transcription": "ムカデの行く末がとても気になりました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "火バサミで摘んで家から離れた場所まで移動させて逃がしました。",
+            "emotion_transcription": "ムカデを殺すのは可哀想なので逃がしました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "火ばさみで掴んだのですか。勇気がありますね、私には無理です。",
+            "emotion_transcription": "お相手の勇気にとても感心しました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "気持ち悪いムカデだったので、火バサミを持つ手が震えました。必死に抵抗していて動きが気持ち悪かったです。",
+            "emotion_transcription": "ムカデを必死に運び出した事を相手に伝えて会話を盛り上げたいと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "ムカデは本当に怖いですよね。自分も絶対嫌です",
+            "emotion_transcription": "気持ち悪さを共感しました"
+        }
+    ],
+    "dialogue_emotion": "嫌悪感を抱く",
+    "dialogue_id": 783
+}

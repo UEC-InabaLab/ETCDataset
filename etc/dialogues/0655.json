@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "CU",
+        "listener": "EE"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "年齢を重ねていくと懸念されることで驚きました",
+            "emotion_transcription": "懸念内容が心配になりました"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "どういったことに懸念されるんですか？",
+            "emotion_transcription": "懸念した内容が気になったので質問してみたくなりました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "腰や膝、関節の衰えにすごい懸念が出てきました",
+            "emotion_transcription": "ものすごい心に動揺がありました"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "カラダに負担がかかる年代なんですか？",
+            "emotion_transcription": "衰えについてお年寄りなのかと気になり伝えてみました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "そうですね　50代が近く体のケアに気を配っています",
+            "emotion_transcription": "自分の体のケアが心配な感情を表しています"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "どんなケアを主にされていますか？",
+            "emotion_transcription": "気を配る内容が気になってしまいました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "定期的な運動や食習慣の改善ですね",
+            "emotion_transcription": "大変気を配っている感情を表現しています"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "すごく健康的に行動されていて見習いたいです。",
+            "emotion_transcription": "自分より改善されていて驚きました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "これからも健康的に生活していきたいです",
+            "emotion_transcription": "積極的に取り組む前向きな気持ちを表現しています"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですよね。懸念点も改善できるのですから、これからも頑張ってください。",
+            "emotion_transcription": "相手のことを励ましたくなりました。"
+        }
+    ],
+    "dialogue_emotion": "懸念する",
+    "dialogue_id": 655
+}

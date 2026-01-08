@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "HB",
+        "listener": "EP"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "5月にディーズニーシーに行きます。",
+            "emotion_transcription": "わくわくする気持ち。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それはたのしみですね。私も一度だけ行ったことがあります。",
+            "emotion_transcription": "共通の経験を教えたい気持ちでした。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "一度だけ行かれたことがあるのですね。どんなアトラクションに乗りましたか？",
+            "emotion_transcription": "興味がある"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "なんて名前か忘れましたが、船に乗りました。夏休みだったのですごく暑かったことだけ覚えています。",
+            "emotion_transcription": "自分の体験を伝えたい気持ちです。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "色々なアトラクションがあるので難しいですよね！",
+            "emotion_transcription": "共感する気持ち"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ですね。乗れる数には限りがありますしね。何かお目当てのアトラクションがあるのですか？",
+            "emotion_transcription": "相手の話をもっと聞きたい気持ちでした。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "大好きなラプンツェルの乗り物を楽しみにしています。ファンタジースプリングスのホテルにも泊まります。",
+            "emotion_transcription": "すごく楽しみでわくわくする気持ち"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "えーホテルまでですか。それは本当に楽しみですね。",
+            "emotion_transcription": "とても楽しみにしていることが伝わりました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "予約がとても大変でした。頑張って取りました。",
+            "emotion_transcription": "少しだけ自慢のような気持ち"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "頑張ったかいがありましたね。いい旅になりますようね。",
+            "emotion_transcription": "相手が楽しめることを願いました。"
+        }
+    ],
+    "dialogue_emotion": "わくわくする",
+    "dialogue_id": 388
+}

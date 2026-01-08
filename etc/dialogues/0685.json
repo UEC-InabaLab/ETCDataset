@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "GB",
+        "listener": "HM"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "いよいよ関西万博が開幕しましたね。",
+            "emotion_transcription": "楽しみにしていたイベントの開幕で気持ちが高揚しワクワクします。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "今度の土日にまた万博へ行ってみようと思います。わくわくしています。",
+            "emotion_transcription": "万博に観光でかけるのが楽しみです。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "それは楽しみですね。どのパビリオンを予約されましたか？",
+            "emotion_transcription": "行く前の予約作業も楽しくてワクワクしてしまいます。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "アメリカンパビリオンを予約しました。月の石を見物したいです。貴重な展示物なので楽しみです。",
+            "emotion_transcription": "珍しい展示を見るのが今から楽しみです。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "私の友人は日本館で火星の石を見てきたと言っていました。",
+            "emotion_transcription": "日頃目にすることが出来ないものに触れることが出来てワクワクします。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "日本館も面白そうですね。火星の石も見てみたくなりました。",
+            "emotion_transcription": "有益な情報をもらえて嬉しかったです。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ぜひ見てくださいね。ほかにもいろいろ見どころは多いらしいですから。",
+            "emotion_transcription": "非日常が楽しめるのはワクワクします。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "あなたは今度の土日どこかにお出かけする予定はありますか？",
+            "emotion_transcription": "会話をしていて相手の土日の予定が気になったので尋ねてみようと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "はい。温泉旅行に行ってきます。それはそれで楽しみです。",
+            "emotion_transcription": "今週末の予定が近づいてきてワクワクします。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "温泉旅行良いですね。思い切り楽しんできてください。",
+            "emotion_transcription": "良い旅行になりますようにという願いを込めてコメントしました。"
+        }
+    ],
+    "dialogue_emotion": "わくわくする",
+    "dialogue_id": 685
+}

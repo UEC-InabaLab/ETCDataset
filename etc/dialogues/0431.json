@@ -1,0 +1,185 @@
+{
+    "participants": {
+        "speaker": "FR",
+        "listener": "DU"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "最近は様々な場面でいらいらする機会が増えてきたように思います。",
+            "emotion_transcription": "いらいらすることが多い"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "ストレス社会といわれてますからね。どういう場面でイライラしますか？",
+            "emotion_transcription": "相手に同意する気持ちと、相手に関心を持つ気持ち"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "スーパーのレジ待ちや何かの抽選に外れた時ですかね。",
+            "emotion_transcription": "私生活の中でのいらいら"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "些細なことなんですね。深呼吸するなど、身体を整えるとイライラが収まるかもしれません。",
+            "emotion_transcription": "アドバイスする気持ちと、話を広げたいという思い。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "そうは思っていてもなかなか実践できないもので困ってしまいます。",
+            "emotion_transcription": "ふがいない自分の態度にいらいら"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "仕事や家事などで忙しいとそうなるかもしれませんね。私も余裕がないときは些細なことでイライラしがちです。",
+            "emotion_transcription": "同意する感じ。自己開示しようとする気持ち"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ",
+                    "怒り"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "年を取ると丸くなるとは言いますが私の場合はそうではないようで難しいですね。",
+            "emotion_transcription": "年をとっても自分を統制できない自分が惨め"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ",
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "もともとの性格や気質というのはあるでしょうね。",
+            "emotion_transcription": "相手の回答を補足、解説するイメージです。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り",
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ",
+                    "怒り"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "人間の性格はなかなか変えることはできませんしね。",
+            "emotion_transcription": "自分の性格に不満"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "とはいえ、今後なるべくイライラしないような対処法が見つかるといいですね",
+            "emotion_transcription": "相手を気遣う気持ち、励ます気持ち"
+        }
+    ],
+    "dialogue_emotion": "いらいらする",
+    "dialogue_id": 431
+}

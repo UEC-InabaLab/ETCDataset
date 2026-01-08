@@ -1,0 +1,182 @@
+{
+    "participants": {
+        "speaker": "AR",
+        "listener": "EI"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "行きつけのラーメン屋さんが閉店してしまいました。",
+            "emotion_transcription": "残念な気持ちをわかって欲しいです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それは残念ですね…どのくらい通っていたのですか？",
+            "emotion_transcription": "詳しく聞きたいので聞いてみました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "3年ぐらい通ってました。",
+            "emotion_transcription": "店に対する自分の愛着を表現しました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "何系のラーメンですか？？",
+            "emotion_transcription": "私もラーメンが好きなので詳しく聞いてみました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "豚骨醤油系です。",
+            "emotion_transcription": "ラーメンの話ができて嬉しいです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "絶対美味しいやつです！私もこってり系大好きです。",
+            "emotion_transcription": "好きなラーメンの話で嬉しい。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り",
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ",
+                    "怒り"
+                ]
+            ],
+            "utterance": "美味しいですよね。どうやらこの物価高でスープの材料が値上げして経営が苦しかったみたいです。",
+            "emotion_transcription": "不景気を恨みたい気持ちです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "確かに。野菜や他の材料も高くて、お店の方は続けていくの大変ですよね。",
+            "emotion_transcription": "大変な状況が浮かんできます。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "あまりにも値上げするとお客さんが離れていきますし、バランスが難しいところですよね。500円で食べられてた時代が懐かしいです。",
+            "emotion_transcription": "人を寄せるための価値を考えるのは難しいです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "確かに！最近は1000円は軽く超えてきますからね。また好きな味に出会えるといいですね。",
+            "emotion_transcription": "物価高が大変ですが、前向きに考えて欲しいなと思いました。"
+        }
+    ],
+    "dialogue_emotion": "がっかりする",
+    "dialogue_id": 861
+}

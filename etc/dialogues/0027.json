@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "GJ",
+        "listener": "AJ"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "一昨日のテレビドラマで母校の大学が舞台になっていたのが嬉しかったです",
+            "emotion_transcription": "とても懐かしかったです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "有名な母校なのでしょうね、すごいな。",
+            "emotion_transcription": "相手の話題に興味を持ったことを伝えました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "それほど知名度はないです。",
+            "emotion_transcription": "でも満足しました"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんですね、でもいいなあ。私も母校がドラマの舞台だったら満足感あります。",
+            "emotion_transcription": "相手と同じ気持ちをシェアする事の楽しさを書きました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "本当にそうですね。",
+            "emotion_transcription": "画面に映る校舎を見てちょっと感傷的にもなりました"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ドラマに出た母校は大学ですか？",
+            "emotion_transcription": "相手の話題に興味を持ち、更に話を深く掘り下げたいと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "東京都練馬区にある大学です。",
+            "emotion_transcription": "最寄りの駅に大学が三校あり活気があります"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "首都圏の大学って、お洒落な学生が多いんだろうなあ。",
+            "emotion_transcription": "相手の話を聞く姿勢を示したく、質問をしました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "母校は地方からの学生も多いですが在学中におしゃれになっていくようです",
+            "emotion_transcription": "東京に来たという満足感はあるかもしれないですね"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "なるほど、確かに。地方出身の学生たちも、きっと満足行く大学生活が送れたでしょうね。。",
+            "emotion_transcription": "話題から、満足感を感じられる内容にまとめました。"
+        }
+    ],
+    "dialogue_emotion": "満足",
+    "dialogue_id": 27
+}

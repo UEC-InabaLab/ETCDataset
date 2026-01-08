@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "AV",
+        "listener": "GV"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "スーパーの前で2人の子どもがチューペットを割って食べていたのを見て懐かしくなりました。",
+            "emotion_transcription": "子どもの頃がよみがえりました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "チューペット！凍らせて、真ん中でぽきっと割るやつですか？",
+            "emotion_transcription": "自分の想定している内容が正しいのか確認したいと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "はい。そのスーパーでは凍らせたものも販売していました。",
+            "emotion_transcription": "チューペットが全国にないかもとドキドキしています。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "素敵なスーパーですね！私は家で凍らせていた記憶があります。",
+            "emotion_transcription": "凍った状態で売っていることに驚きました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "私も子どもの頃、冷蔵庫から取り出して食べたので、懐かしいと感じました。",
+            "emotion_transcription": "共有できて嬉しいです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "今の子どもたちも、チューペットを食べるんですね。私も久しぶりにこの夏買ってみようかな。",
+            "emotion_transcription": "懐かしさを感じ、自分も味わってみたいと興味が湧きました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "私も驚きました。かなり安いので、ちょっとしたときに良さそうです。",
+            "emotion_transcription": "私も買おうと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "普通のアイスを買うより安いですよね。懐かしさも味わえるし節約にもなりそうです。",
+            "emotion_transcription": "チューペットに興味が湧き、今度探してみようと思っています。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "本当にそう思います。あとは分かち合う相手が欲しいです。",
+            "emotion_transcription": "ちょっと寂しさを伝えました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "確かに。私は…きっと一人でぺろりと食べちゃいそうです。",
+            "emotion_transcription": "相手に共感して自分だとどうするか共有したくなりました。"
+        }
+    ],
+    "dialogue_emotion": "懐かしい",
+    "dialogue_id": 855
+}

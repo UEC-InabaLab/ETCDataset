@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "DQ",
+        "listener": "BY"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "先日、飛行機で海外に行ったのですが機内食が口に合わずがっかりしました。",
+            "emotion_transcription": "自身の体験に共感してもらいたく発言しました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "どのようなメニューでしたか？",
+            "emotion_transcription": "内容が気になります。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "お米とアジア系のスパイスが効いた鶏肉でした。お米がパサパサでした。",
+            "emotion_transcription": "相手に自身の経験を共有すべくおくりました"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "それは確かに好みが分かれそうですね。慣れてなさそうですし。",
+            "emotion_transcription": "自分は美味しいそうかもと少し思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "日本人なのでお米が美味しいかどうかはとても重要でした。",
+            "emotion_transcription": "相手の共感に自身の意見を交えて返しました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "日本食に慣れ親しんだ日本人にはそういうアジアンテイストは向かないかもしれないですね。",
+            "emotion_transcription": "お米の調理ひとつで我々の許容範囲も変わりそうかもしれないですね。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そのように感じます。海外に行くといかに日本がいい国かというのを実感する事ができます。",
+            "emotion_transcription": "再度自身の意見を交え、相手に共感してほしく発言しました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "やっぱりどこでも同じ味が食べれるというのが如何に偉業か改めて実感しますね。",
+            "emotion_transcription": "何気ないことへのありがたみを感じました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。私は海外に旅行する機会も多いので日本の良さを再実感できるいい機会かもしれません。",
+            "emotion_transcription": "自身の経験を交え、今後の感想も伝えました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "昨今はお米の高騰も続くのでありがたみを噛み締めながら食べたいですね。",
+            "emotion_transcription": "和食の美味しさを噛み締めたいと想いました。"
+        }
+    ],
+    "dialogue_emotion": "がっかりする",
+    "dialogue_id": 857
+}

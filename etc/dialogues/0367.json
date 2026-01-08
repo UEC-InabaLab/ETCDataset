@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "CS",
+        "listener": "DU"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "小さな男の子が一生懸命挑戦している姿を見て、なんだかすごく心に響きました。",
+            "emotion_transcription": "昔の自分を見ているようで、胸が熱くなった気持ちを聞いてほしい気持ち。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "子どもが頑張っているのを見ると、勇気をもらえますよね",
+            "emotion_transcription": "同意する気持ち"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私はこの数日、街のあちこちで楽しそうな子どもたちの姿を見かけて、心が温まりました。",
+            "emotion_transcription": "相手の共感の言葉にうれしい気持ち。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "GWなので、子供同士、親子の姿が多く見らえてとても微笑ましいです。心も温まりますね。",
+            "emotion_transcription": "微笑ましい光景を見てうれしくなります。親御さんは子どもに誠実に向き合っている感じがします。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "本当にそうですね。GWならではの光景で、見ているとこちらまで幸せな気持ちになります。",
+            "emotion_transcription": "相手の『微笑ましい』という言葉に共感し、より気持ちを伝えたいと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "話が戻りますが、小さな男の子は何に挑戦していたのですか？",
+            "emotion_transcription": "好奇心がある"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ジャグリングの道具を一生懸命に操ろうとしていました。",
+            "emotion_transcription": "小さな男の子の話ができそうで、うれしい気持ち。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "難しそうですけど、挑戦し甲斐がありそうですね。一生懸命の姿を見るととても感動します。",
+            "emotion_transcription": "感動的な光景であることを伝えたいと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "本当にそうですね。真剣な表情で挑戦していて。その一生懸命さに、私もなんだか胸が熱くなりました。",
+            "emotion_transcription": "相手の共感にうれしい気持ち。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "とても心温まりますよね。そういう挑戦は大人になってから何かと役立ちそうですね。",
+            "emotion_transcription": "頑張ってほしいなという気持ちを伝えました。"
+        }
+    ],
+    "dialogue_emotion": "誠実な気持ち",
+    "dialogue_id": 367
+}

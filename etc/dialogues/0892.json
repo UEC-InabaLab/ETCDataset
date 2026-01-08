@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "CQ",
+        "listener": "BW"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "この間ずっと欲しかったカメラのレンズをやっと手に入れてすごく満足しています",
+            "emotion_transcription": "探していた物を見つけられた喜びを話して相手に共感してもらいたかったです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "おお、レンズを手に入れたんですね。おめでとうございます",
+            "emotion_transcription": "相手の良い出来事を祝福したいと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ありがとうございます。ちょっと高い買い物でしたけど性能に満足しています",
+            "emotion_transcription": "高価だったけれど、その価値に見合う物だと感じていることを話して、相手に納得してもらいたかったです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "納得のいく性能なんですね。それは良い買い物をしましたね",
+            "emotion_transcription": "相手の感じた価値を認め、良い買い物ができたことを肯定しました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "はい。これで撮りたいものが色々撮れると思うとわくわくします。",
+            "emotion_transcription": "今後の活動への期待感が高まっていることを話しました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "わくわくしますね！ どんなものを撮る予定なんですか？",
+            "emotion_transcription": "相手の新しい挑戦への期待に共感し、具体的な活動内容について聞きたくなりました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "風景写真が好きなので週末に早速どこか撮りに行ってみようかなと考えています。",
+            "emotion_transcription": "具体的な計画を話して、相手に自分の行動意欲を伝えたかったです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "それは良いですね！ 新しいレンズでの撮影、楽しみですね。",
+            "emotion_transcription": "新しい挑戦への期待感を共有しました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "はい、楽しみです",
+            "emotion_transcription": "楽しいという気持ちを共有したいと思いました"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "楽しんでください。",
+            "emotion_transcription": "相手の幸せを願いました"
+        }
+    ],
+    "dialogue_emotion": "満足",
+    "dialogue_id": 892
+}

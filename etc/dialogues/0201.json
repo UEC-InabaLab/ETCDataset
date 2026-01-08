@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "BK",
+        "listener": "BF"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "今日はちょっとイラッとしました",
+            "emotion_transcription": "話を聞いて欲しいです"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び",
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "どうしましたか？",
+            "emotion_transcription": "どんな話なのか聞くのがちょっとドキドキしています。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "美容師が私の後ろ髪を見て、うわっ白髪すごいですね染めないんですかって言ったんです。",
+            "emotion_transcription": "愚痴を共感して欲しいです"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "あら、それは良くないですね。プロとは思えない。",
+            "emotion_transcription": "非常にリアルに場面を想像できました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "うわっの言い方に嫌悪感を覚えてそれから無口になってしまいました。",
+            "emotion_transcription": "共感してもらえて嬉しいです"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "とてもわかります。",
+            "emotion_transcription": "同じような経験を思い出し共感を伝えたいと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "白髪染めの営業トークのつもりだったんでしょうか。",
+            "emotion_transcription": "美容師の行動を理解したい気持ちを共感して欲しいです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ところで白髪は染めていますか？私は知り合いの半分ぐらいはもう染めてないんです。",
+            "emotion_transcription": "興味のある話題なので相手の心情からは離れるかもしれないけれど、意見を聞いてみたいと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "まだちらほらなので特別な行事のときだけ染めています。",
+            "emotion_transcription": "話題が少し変わったので冷静に回答しました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんですね。それにしても営業トークだとしたら下手な美容師さんでしたね。",
+            "emotion_transcription": "うまく相手の気持ちに沿うコメントができなくて不甲斐ない気持ちです。"
+        }
+    ],
+    "dialogue_emotion": "嫌悪感を抱く",
+    "dialogue_id": 201
+}

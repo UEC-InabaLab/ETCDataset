@@ -1,0 +1,182 @@
+{
+    "participants": {
+        "speaker": "CU",
+        "listener": "AR"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "自分の仕事を誇りに思っていますか？",
+            "emotion_transcription": "素朴な疑問を質問しています"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "毎日の仕事にいっぱいいっぱいで誇りを無くしてしまいました",
+            "emotion_transcription": "このつらさをどうにかしたい気持ちです。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "悲しみ",
+                    "驚き"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "仕事でどのようなことがありましたか？",
+            "emotion_transcription": "心配な気持ちを表現しています"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "仕事内容よりも、物価高で生活が苦しいので、がむしゃらに稼ぐしかないという感じです。",
+            "emotion_transcription": "厳しい現実を共有したいです。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "それは大変ですね。　物価高が物凄くで驚きますね！",
+            "emotion_transcription": "驚いた様子を表しています"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "まさかこんなに早く物価高になるとは思いませんでした。",
+            "emotion_transcription": "どうすればいいかわからない不安を伝えました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "仕事が忙しければまだいいかもしれません。日々の生活も大変ですしね",
+            "emotion_transcription": "相手を思いやる気持ちを示しています"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。その中でも楽しさを見つけたいです。",
+            "emotion_transcription": "前向きな気持ちを表現したいです。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "この先いろいろ楽しいことがあると良いですね！",
+            "emotion_transcription": "明るい前向きな気持ちを表現しています"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "大変な世の中ですがお互い頑張っていきましょう。",
+            "emotion_transcription": "やる気に満ち溢れた気持ちになりました。"
+        }
+    ],
+    "dialogue_emotion": "誇りに思う",
+    "dialogue_id": 408
+}

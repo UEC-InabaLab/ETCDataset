@@ -1,0 +1,182 @@
+{
+    "participants": {
+        "speaker": "EZ",
+        "listener": "FO"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "外を歩いていたら目の前にナメクジがいてびっくりしました",
+            "emotion_transcription": "驚きました"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "具体的にナメクジはどこにいたのですか。",
+            "emotion_transcription": "ナメクジの位置に関して情報が足りないので追加の情報を得ようと考えました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖",
+                    "驚き",
+                    "嫌悪"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "散歩道にいました",
+            "emotion_transcription": "いきなりいたのでびっくりした"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "踏んづけそうになったりしたのですか。",
+            "emotion_transcription": "なぜびっくりしたのかの原因を知りたいと感じその可能性に関して提示しようと考えました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね、目の前にいたので踏みそうになりました。",
+            "emotion_transcription": "すごくびっくりした"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "大変でしたね。転んだりはしなかったのですか。",
+            "emotion_transcription": "相手に何かトラブル等がなかったか心配になり気になってしまいました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ありがとうございます。転んだりはしなかったのですが少し足をひねってしまいました",
+            "emotion_transcription": "動揺してしまった"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "それはかわいそうですね。ひねった箇所は大丈夫ですか。",
+            "emotion_transcription": "相手が実際に怪我をしてしまった様でそれに対して心配な気持ちになりました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ありがとうございます。つま先の方だったのですが何とか平気でした。",
+            "emotion_transcription": "ひねってしまった"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですか、お大事にしてください。",
+            "emotion_transcription": "相手の怪我は大したことはなかったようなので安心した気持ちになりました。"
+        }
+    ],
+    "dialogue_emotion": "おどろく",
+    "dialogue_id": 82
+}

@@ -1,0 +1,182 @@
+{
+    "participants": {
+        "speaker": "FY",
+        "listener": "BY"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "3月の卒園式に向けて買ったスラックスが履けなくて、ダイエットして6キロ痩せたのにまだ履けなくて、打ちのめされました",
+            "emotion_transcription": "恥ずかしいです。悲しいです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "それは非常に強い衝撃でしたね。",
+            "emotion_transcription": "ご愁傷様です。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "はい。さすがにもう履けると思ったんですが、適当に生きてきたツケが回ってきてしまいました。",
+            "emotion_transcription": "もっとちゃんと生きてくればよかったと後悔しました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "体形管理はかなり難しい問題ですからね。かくいう私もコロナにでもならないと大幅な減量なんてしませんでした。",
+            "emotion_transcription": "人生で一番のダイエットした苦痛の日々でした。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "難しいです。食べることが1番楽しい人生だったので、食べられなくてストレスが増えました。",
+            "emotion_transcription": "病気で痩せてしまうのは辛いなと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "無理な絶食は返って身体に毒ですからね。",
+            "emotion_transcription": "ストレスしか感じません。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですよね。ご飯を100gにするとか、1日のカロリーを抑えることで、食べながら痩せようと頑張ってきたのですが、足りないです。",
+            "emotion_transcription": "モデルさんは相当努力してるんだろうなと改めて思いました"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "結局のところ最適解はしっかり三食と適度な運動、無理しない範囲で間食が一番なのかもしれません。",
+            "emotion_transcription": "三食遵守しても返って辛いです。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "そうですよね。運動が続かないんですが…がんばります！",
+            "emotion_transcription": "みんなダイエットに対して言うことは同じだけど、難しいんだよなぁと改めて思いました"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ぜひ頑張ってください！！",
+            "emotion_transcription": "応援してます。"
+        }
+    ],
+    "dialogue_emotion": "打ちのめされる",
+    "dialogue_id": 606
+}

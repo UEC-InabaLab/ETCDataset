@@ -1,0 +1,186 @@
+{
+    "participants": {
+        "speaker": "CE",
+        "listener": "BX"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "最近近くで窃盗など事件が多く心配です。",
+            "emotion_transcription": "心配事がありそわそわしています。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "本当に怖いですよね。自分の短な地域でもあって、人が少し怖いです。",
+            "emotion_transcription": "相手の方の気持ちがよくわかり、共感しました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "戸締まりの確認などを徹底するなどしています。",
+            "emotion_transcription": "やれることはしっかりやろうと思っています。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖",
+                    "嫌悪"
+                ],
+                [
+                    "恐怖",
+                    "嫌悪"
+                ],
+                [
+                    "恐怖",
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "そうですよね。でも今の窃盗犯はガラスも破って入ってくるので、どんな神経をしているんだろうと嫌悪感を抱きます。",
+            "emotion_transcription": "怖くて嫌な気持ちを共感して欲しいと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "確かにそうですね。人間不信になってしまいますよね。",
+            "emotion_transcription": "同じ気持ちの方がいると安心しました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖",
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "そうなんです。人を疑いたくないのですが、この人平気かなとか思ってしまうんですよね。そんな自分も嫌だったりします。",
+            "emotion_transcription": "人間不信になる気持ちがよくわかる心情です。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び",
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "本当に信頼できる人って少ないかもしれないです。",
+            "emotion_transcription": "同じ気持ち方がいて共感できました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "そうですね。短にいる人からでも裏切られることがありますから。",
+            "emotion_transcription": "相手方の言うことに共感しました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "安心で平和に暮らしていきたいですよね。",
+            "emotion_transcription": "気持ちを共有したいと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖",
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "本当ですね。不安な気持ちや、嫌な気持ちよりも、安心して楽しい日々を過ごせるといいですね。",
+            "emotion_transcription": "相手の方の気持ちにかなり賛同しました。"
+        }
+    ],
+    "dialogue_emotion": "嫌悪感を抱く",
+    "dialogue_id": 494
+}

@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "GN",
+        "listener": "HM"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "最近定期預金の金利が高いですね。",
+            "emotion_transcription": "金利の高さに驚きつつ相手にも共有したいです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "ネットのニュース記事で見て私も驚きました。",
+            "emotion_transcription": "同じ感想だったので共感を示して会話を盛り上げたいと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "私もSBI新生銀行に口座を開設して定期でお金を預けました。",
+            "emotion_transcription": "相手も驚いているようで共感が持てました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "仕事が忙しく時間に余裕が無いので、私は夏のボーナスが支給されて貯金が貯まってから預けようと思っています。",
+            "emotion_transcription": "自分の予定を相手にも伝えて少しでも会話が盛り上がればいいなと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "利息が以前より多くもらえるというのは気持ち的にうれしいです。",
+            "emotion_transcription": "相手が考えていることが理解できて共感が持てました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "利息が増えて貯金が急に増えると嬉しい驚きですね。",
+            "emotion_transcription": "相手と似た考えだったので共感しつつ自分の感想を伝えたいと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "国債の金利も最近は1%程度まであがっているようです。",
+            "emotion_transcription": "相手が共感してくれたのでさらに金利の高い別の商品のことも伝えてみようと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "それは知りませんでした。今のうちにしっかり貯金しておこうと思います。",
+            "emotion_transcription": "国債の金利が思っていた以上に上がっていて驚きました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "老後に向けて貯蓄していくことは重要ですよね。",
+            "emotion_transcription": "相手の考えていることがしっかりしているので安心できました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "何かと物価高な世の中なのでお金に余裕を持たせていきたいですね。",
+            "emotion_transcription": "貯蓄をしっかり行って行きたいと思いました。"
+        }
+    ],
+    "dialogue_emotion": "おどろく",
+    "dialogue_id": 676
+}

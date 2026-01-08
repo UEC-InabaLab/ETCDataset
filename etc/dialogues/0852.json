@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "AD",
+        "listener": "BL"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "GoogleMapsのストリートビューで昔住んでいた地域を散歩して、懐かしい気持ちになりました。",
+            "emotion_transcription": "懐かしい気持ちになったので誰かとこういう経験を共有できたらと思いました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "おもしろいですね。すごい時代になったなと思います。",
+            "emotion_transcription": "懐かしいですね。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですね。あちこちに住みましたがなかなか行けないので、嬉しいです。",
+            "emotion_transcription": "良い時代だと思えて嬉しいです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "私も学生時代に住んでいた場所を数年後に見たことがありますが、すっかり様変わりしていて少し寂しかったです。",
+            "emotion_transcription": "楽しそうです。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "たしかに、様変わりしてしまうと寂しいですね。逆に新しい店を発見すると「こんなところに！」と嬉しくなります。",
+            "emotion_transcription": "googlemapsでの散歩体験をたくさん思い出してみました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "そうですね。パソコンひとつで世界中を見ることができるのはすごいことだと思います。",
+            "emotion_transcription": "なるほどなと思います。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "さっきは、何年も行けていない義実家の近所を巡り、昔ここを歩いたなぁと懐かしい気持ちになりました。",
+            "emotion_transcription": "一つの体験に気持ちが寄りました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "家にいながらプチ旅行をしているようで楽しそうですね。私も久しぶりに学生時代の懐かしい場所を探検してみたくなりました。",
+            "emotion_transcription": "なるなどなと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ぜひmap上で行ってみてください！ 学生時代に住んでいたアパートがまだあって驚きましたよ。",
+            "emotion_transcription": "また体験してみようという気持ちが増しました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "なかなか現実の旅行には行けないので、グーグルマップ旅行やってみます！",
+            "emotion_transcription": "楽しんでみようと思いました。"
+        }
+    ],
+    "dialogue_emotion": "懐かしい",
+    "dialogue_id": 852
+}

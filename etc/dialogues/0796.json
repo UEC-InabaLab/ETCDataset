@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "BJ",
+        "listener": "DI"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "まもなく任天堂が新しいゲーム機を発売するそうなので、それに期待しています！",
+            "emotion_transcription": "任天堂の新型ゲーム機に対する期待感を相手に伝えて、私の気持ちを理解してもらおうと思いました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "Switch2ですね。ゲームはやらないのですが凄そうとは思っています。",
+            "emotion_transcription": "相手からの話題を自分のことを考えてみて"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうです。私もそれほどゲームはやらないのですが、いつか買ってみたいと思います！",
+            "emotion_transcription": "いつかSwitch2を買いたいことを相手に伝えてみようと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "まだPS6は出なさそうなので当面ゲームの期待株はSwitch2ですね。",
+            "emotion_transcription": "期待の対象の範囲を考えてみて発言"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "おそらくそうなりそうですね。PS5は価格が高くてあきらめましたが、PS6はもっと価格が高くなりそうですよね",
+            "emotion_transcription": "PS6の話題が出るとは思わなかったので少し驚きました。またPS5とPS6の価格についても話して、相手の反応をみようと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "Switch2も5万円よりちょっと安いくらいでしたっけ。",
+            "emotion_transcription": "相手の反応から話題を振り返って"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "はい。日本語版が49,980円（税込）です。これでもけっこう高いですね…。",
+            "emotion_transcription": "Switch2 の値段について調べてみたら、わりと高いことに気が付きました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "Switchはたしか29800円くらいでしたよね。",
+            "emotion_transcription": "ゲーム機の価格の話題から過去を思い出して"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですね。今思えば、29800円の時代が懐かしいです。あの頃に戻りたいです。",
+            "emotion_transcription": "Switichの値段を聞いて、昔の物価がとても安くて、とても良い時代だったと懐かしく思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "セガサターンが39800円だったことを考えるとSwitch初期はいい時代でしたね",
+            "emotion_transcription": "相手の会話から更に過去のゲーム機の価格を思い出しての反応"
+        }
+    ],
+    "dialogue_emotion": "期待する",
+    "dialogue_id": 796
+}

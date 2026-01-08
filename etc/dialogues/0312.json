@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "CZ",
+        "listener": "EB"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "部活の試合で相手が強すぎて打ちのめされました。",
+            "emotion_transcription": "負けてしまって、打ちのめされて悲しい心情です。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "上には上が必ずいるという事ですが、その気持ちがとてもいいです。",
+            "emotion_transcription": "面白い話題とそれを話す事が興味深いと感じた。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "地区予選の１回戦負けなので、あまりにも弱いです。",
+            "emotion_transcription": "どうしてよいか分からない心情です"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "一回戦でも変わらないですよ。次につながるものだと思っています。",
+            "emotion_transcription": "段々と内容が出てきたと感じた。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ありがとうございます。練習頑張って１回勝ちたいです。",
+            "emotion_transcription": "多少前向きな気持ちになりました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "向上心があることはとても良い事でその気持ちがとてもいいです。どの様な競技ですか？",
+            "emotion_transcription": "さらに色々と聞いてみたくなりました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "サッカー部でキーパーをやっています。",
+            "emotion_transcription": "頑張ろうという気持ちになりました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "サッカーでしたか。そして重要な役割ですね。責任感がありそうです。",
+            "emotion_transcription": "性格が分かってきて責任感があるかたと感じました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "ミスすると、失点に直結するので、プレッシャーで練習通りにいかなくなるんです。",
+            "emotion_transcription": "不安な気持ちが芽生えました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "そうですよね。でもチームで行っていてスピーカー様以外にはいないので頑張って下さい。",
+            "emotion_transcription": "気持ちは分かると感じて応援したくなりました。"
+        }
+    ],
+    "dialogue_emotion": "打ちのめされる",
+    "dialogue_id": 312
+}

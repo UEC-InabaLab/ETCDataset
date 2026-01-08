@@ -1,0 +1,183 @@
+{
+    "participants": {
+        "speaker": "GB",
+        "listener": "FS"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "実は最近妻が妊娠していることがわかりまして子供の誕生が楽しみなんです。",
+            "emotion_transcription": "子供の誕生が待ち遠しいです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "それはとても楽しみですね。おめでとうございます。",
+            "emotion_transcription": "お子様の誕生にこちらも嬉しくなる気持ちを伝えました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び",
+                    "恐怖"
+                ],
+                [
+                    "喜び",
+                    "恐怖"
+                ],
+                [
+                    "喜び",
+                    "恐怖"
+                ]
+            ],
+            "utterance": "有難うございます。初めての子供なんで不安もありますが・・・",
+            "emotion_transcription": "新たな命の誕生を期待と不安で待ち望みます。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "私は結婚もしていないので、ぜんぜんお気持ちはわかりませんが不安なのはわかります。",
+            "emotion_transcription": "不安という気持ちを共感しました"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "私も独身の時は子供には興味がなかったのですが、いざ自分のこととなるとドキドキですよ。",
+            "emotion_transcription": "子供という新たな体験を大きく待ち望んでいます。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "お子様が生まれるというのはドキドキでしょうねえ。私はまず結婚しないと始まりませんが。",
+            "emotion_transcription": "お子様が誕生するドキドキの気持ちを共感しました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ぜひぜひ結婚してくださいね。自分もしてみるとよかったですから。",
+            "emotion_transcription": "他人の結婚ですがお祝い事は常に待ち望みます。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。婚活頑張りたいですね。",
+            "emotion_transcription": "自分も結婚したいという気持ちを語りました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ぜひぜひ。私も結婚前は独身の方がよかったのですが、案外いろんな楽しみが見えてきますよ。",
+            "emotion_transcription": "結婚という新しいライフステージを他人事ながら待ち望んでしまいます。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ぜひ独身生活にピリオドを打ちたいです。",
+            "emotion_transcription": "独身から卒業したいという気持ちを伝えました"
+        }
+    ],
+    "dialogue_emotion": "待ち望む",
+    "dialogue_id": 827
+}

@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "DI",
+        "listener": "GU"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "ネットニュースで同じ記事が何種類もでるとがっかりします。",
+            "emotion_transcription": "身近ながっかりすることを思い出して"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "最近のニュースはがっかりするものばかりですね。特にどういうニュースにがっかりしますか？",
+            "emotion_transcription": "相手の気持ちを理解し、がっかりするニュースのことをもっと知りたいと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "芸能人の発言のニュースとかそれほど重大でないものです。",
+            "emotion_transcription": "がっかりした内容を\nより深く思い出してみて"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "分かります。本当にくだらないと思いますし、見るたびにがっかりしてしまいます。",
+            "emotion_transcription": "相手の気持ちを共感しました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ネットニュースを観ている人それぞれに合わせるシステムがあるらしいのですが逆効果ですね",
+            "emotion_transcription": "相手の反応から話題を広げようと考えて"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんですね。がっかりするニュースを見たときはブロックとかはするのですか？",
+            "emotion_transcription": "がっかりするニュースで、どうするのか聞きたく関心を持ちました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "あまり連発するとブロックします。ネット広告とかは見る人によって違うそうですね。",
+            "emotion_transcription": "相手の反応から自分の行動を思い出して"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "こちらもブロックします。面白いニュースばかり見たいものです。",
+            "emotion_transcription": "相手の気持ちに共感しました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "スマホはブロックの仕方がわからないので困っています。",
+            "emotion_transcription": "相手の話題ブロックから自分を振り返ってみて"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "調べてブロックするようにした方がいいですね。",
+            "emotion_transcription": "相手の気持ちに答えました。"
+        }
+    ],
+    "dialogue_emotion": "がっかりする",
+    "dialogue_id": 858
+}

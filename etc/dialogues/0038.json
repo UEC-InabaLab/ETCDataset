@@ -1,0 +1,182 @@
+{
+    "participants": {
+        "speaker": "DP",
+        "listener": "BQ"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "新製品のシャンプーを購入したんです。",
+            "emotion_transcription": "ここに入ワクワク好き持ちを聞いて欲しい信条です\n\n----\nわくわくする理由を聞いて欲しい信条です。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "新しいシャンプーいいですね！",
+            "emotion_transcription": "興味を持っています"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "髪質癖が酷いものでどんな効果が得られるか届く日が待ち遠しいです",
+            "emotion_transcription": "商品到着を待つ間のワクワクした気持ちを分かってもらいたい心情です"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "最近のシャンプーの性能は進化していますよね。私も癖があるので試してみたいです。",
+            "emotion_transcription": "シャンプーの効果が気になります"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び",
+                    "恐怖"
+                ]
+            ],
+            "utterance": "ネット広告を見て購入したので到着まで少し掛かるようなのですが。",
+            "emotion_transcription": "商品が到着するまで不安とワクワク感が入り混じる心情です。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び",
+                    "恐怖"
+                ]
+            ],
+            "utterance": "そうなのですね。でも届くまでのワクワク感も意外と楽しいですよね。",
+            "emotion_transcription": "共感しています"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうなんです。使用後の髪の変化を想像してみたりして。",
+            "emotion_transcription": "相手が心情を理解してくれて嬉しい気持ちです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "いいですね。どんな髪が理想ですか？",
+            "emotion_transcription": "相手のワクワク感が伝わってきてちょっと楽しいです"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "うねりが無く、風に靡くような髪を想像するとワクワクが止まりません。",
+            "emotion_transcription": "ワクワクする心情をより聞いてもらえてうれしい気持ちです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "風になびくサラサラな髪いいですよね～。理想の髪になれることを願っています！",
+            "emotion_transcription": "相手の理想にあった効果が得られたらいいなぁと思っています"
+        }
+    ],
+    "dialogue_emotion": "わくわくする",
+    "dialogue_id": 38
+}

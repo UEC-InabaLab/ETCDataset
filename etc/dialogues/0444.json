@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "AR",
+        "listener": "EE"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "引っ越すたびにその土地や人が恋しくなってさびしいです。",
+            "emotion_transcription": "少しセンチメンタルな気持ちを伝えたいです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "引っ越しは良くするのですか？",
+            "emotion_transcription": "さびしくなる内容について気になることを質問したくなりました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "仕事で2.3年に一回はしています。",
+            "emotion_transcription": "自分の境遇を伝えたいです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "早いスパンですね。2年程度なら人間関係も良好になる年数ですよね。",
+            "emotion_transcription": "内情を知り、さらに深追いしたくなりました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "そうですね。会社の人間関係もそうですが、行きつけのラーメン屋さんもいけなくなるのが辛いです。",
+            "emotion_transcription": "環境の変化に慣れるのは大変です。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "常連になるほど通っていたんですか？",
+            "emotion_transcription": "行きつけについて気になってしまいました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "引っ越すたびに家の近くで行きつけを探すのが好きなんです。ラーメン屋なら1人でもいけますし、夜遅くまで営業しているので。",
+            "emotion_transcription": "店を探すことの素晴らしさを共有したいです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですよね。今の土地でも行きつけは見つかりましたか？",
+            "emotion_transcription": "相手の今の現状をしりたくなりました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "実は何軒か目をつけています。これから沢山通いたいと思います。",
+            "emotion_transcription": "期待を込めて、探したいです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "また、引っ越す際にさみしくなりますね。でも巡りまわってまた縁があるかもしれませんね。",
+            "emotion_transcription": "さみしさより楽しさが生まれた気がしました。"
+        }
+    ],
+    "dialogue_emotion": "さびしい",
+    "dialogue_id": 444
+}

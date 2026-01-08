@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "BL",
+        "listener": "EU"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "毎日子供が寝た後に、お菓子を食べてしまっています。",
+            "emotion_transcription": "子供にうしろめたいです、"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "子供が寝静まった後に食べるお菓子は気分を落ち着けもするけれど、同時に罪悪感も感じそうですね",
+            "emotion_transcription": "相手の気持ちに対して共感できるので寄り添いたい気持ちです。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうなんです。一日の疲れを癒す薬でありつつ、うしろめたさもあります。",
+            "emotion_transcription": "わかってくれてうれしいです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "うしろめたさを軽減するために、お子さんとおやつ作りをしてみるのもいいかもしれませんね",
+            "emotion_transcription": "相手のうしろめたさをなくすために何かしてあげたい"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "素敵なアイデアですね。娘がいるので連休中やってみたいです。何かおすすめはありますか。",
+            "emotion_transcription": "思いつかなかったです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ヨーグルトにベリーを混ぜて平らに広げ凍らせるヨーグルトバークおすすめです",
+            "emotion_transcription": "最近作っておいしかったのでぜひ試してほしい気持ちです"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "材料も少なくてよさそうですし、おいしそうですね。",
+            "emotion_transcription": "簡単にできそうですね。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "お子さんと一緒にぜひ作ってみてください。",
+            "emotion_transcription": "気に入ってもらえたようでうれしい"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "作ってみます。連休中の楽しみがひとつ増えました。ありがとうございます。",
+            "emotion_transcription": "子供がよろこびそうです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "喜んでいただけて嬉しいです。素敵な連休をお過ごしください。",
+            "emotion_transcription": "楽しい連休になることを願っています。"
+        }
+    ],
+    "dialogue_emotion": "うしろめたい",
+    "dialogue_id": 178
+}

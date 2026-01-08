@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "HM",
+        "listener": "DP"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "最近プレステ5を買って新作ゲームをプレイしたのですが、グラフィックのリアルさに感動しました。",
+            "emotion_transcription": "自分が体験した感動体験を相手に伝えたかったです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "新作ゲームですか！いいですね！どんなジャンルのゲームですか？",
+            "emotion_transcription": "心情を共有したく聞いてみたい。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "モンスターハンターワイルズというアクションRPGのゲームです。自然の風景がとてもリアルで美しかったです。",
+            "emotion_transcription": "自分がプレイしたゲームのグラフィックの感動的な美しさを相手に伝えたかったです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "RPGは世界観に感動する作品がおおいですよね。",
+            "emotion_transcription": "同じ考えを持つ事がわかり嬉しい気持ち。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうなんです。特に水の質感の表現がリアルだったので感動しました。",
+            "emotion_transcription": "共感してくれて嬉しいと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "水の質感にまで拘るなんて素敵な作品ですね！",
+            "emotion_transcription": "もっと詳しく聞いてみたい気持ち。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "登場するモンスターのデザインも格好良いものが多くて感動しました。細かい部分まで良く作りこまれたゲームでした。",
+            "emotion_transcription": "共感してくれて嬉しかったですし、他に感動した部分を相手に伝えて会話を盛り上げたかったです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ゲームを進めていくほどに、もっと新たな感動がありそうですね。",
+            "emotion_transcription": "気持ちの高ぶりを共感したい。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですね。このまま最後までプレイして新しい感動を探してみようと思います。",
+            "emotion_transcription": "色んな感動を探すためにゲームをもっとプレイしてみたいという気持ちになりました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "どんな感動が待っているのか又聞かせて欲しいです！",
+            "emotion_transcription": "共有できる話題に嬉しい気持ち。"
+        }
+    ],
+    "dialogue_emotion": "感動する",
+    "dialogue_id": 484
+}

@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "DV",
+        "listener": "HG"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "以前、天気の急変に驚いたことがあります",
+            "emotion_transcription": "天気が急変して驚いたのを共有しようと思いました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "どんな天候だったのでしょうか？",
+            "emotion_transcription": "相手の話に興味が湧いたので質問しました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "晴れていたのに、急に空が暗くなり、ザーザー降り出しました",
+            "emotion_transcription": "相手の質問に答えました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それは大変でしたね。かなり濡れたのではないですか？",
+            "emotion_transcription": "相手の状況を慮り、さらに詳しく話を聞きたくなって質問しました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "急いで雨宿りしに行きましたが、濡れました",
+            "emotion_transcription": "相手の質問になるべく状況を詳しく答えました"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "風邪を引いたりはしませんでしたか？",
+            "emotion_transcription": "相手の状況が心配になり、病気になっていないか質問しました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "体調は大丈夫でした。洗濯物を干したままだったので、それが大変でした。",
+            "emotion_transcription": "相手の質問に答え、話を広げました"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "洗濯物は大変そうですね。ずぶ濡れになってしまうと洗い直す必要がありますもんね。いきなり天気が変わって驚く気持ち、わかります。",
+            "emotion_transcription": "相手の話に同意し、自分の考えを伝え、驚く気持ちに共感しました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "洗濯物があるとやってしまったという気持ちになります。天気予報が追い付かないこともあるんだと驚きます",
+            "emotion_transcription": "相手に共感してもらえたことを踏まえ、気持ちや意見を書きました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "天気予報がアテにならないこともありますもんね。天気には十分注意したいものですね。",
+            "emotion_transcription": "天気について自分の考えを伝え、お互い注意しましょうと答えました。"
+        }
+    ],
+    "dialogue_emotion": "おどろく",
+    "dialogue_id": 674
+}

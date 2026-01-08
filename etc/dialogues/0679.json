@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "FU",
+        "listener": "BL"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "昨日は嵐が解散するというニュースを知っておどろきました。",
+            "emotion_transcription": "昨日驚いたときの心境を相手にも知ってほしかったです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "衝撃的でしたね。",
+            "emotion_transcription": "なるほどなと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び",
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "リーダーの大野君が久しぶりだったので懐かしい気分にもなりました。",
+            "emotion_transcription": "驚きとともに懐かしい心境にもなったことを伝えました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "たまに週刊誌に撮られてたぐらいでしたからね。私は大野君が一番好きでした。",
+            "emotion_transcription": "ほんとだなと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "最後にツアーをやってくれるので嵐ファンにはとても喜ばしいことでもあると思います。",
+            "emotion_transcription": "嵐のファンの心情を想像しながら発話をしてみました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "このままフェイドアウトするのかなと思っていましたが、嵐らしいなと思いましたね。嵐、お好きですか。",
+            "emotion_transcription": "行けるといいなと思います。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "実はそこまでコアなファンというわけではないです。ただ華やかな存在なのでバラエティ番組は見ていました。",
+            "emotion_transcription": "ファンではないものの、テレビ番組での活躍が好きだった心情を伝えました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私はお正月に連続で嵐のバラエティ番組を見尽くすのが数年間のルーティンになっていたので、活動休止後のお正月は暇でした。",
+            "emotion_transcription": "なるほどなと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "個々での活動は行うみたいなので、それまでは最後の嵐を楽しみたいですね。",
+            "emotion_transcription": "メンバーそれぞれの活躍に期待したいと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "そうですね。これからも個々で頑張ってほしいです。",
+            "emotion_transcription": "さみしいです。"
+        }
+    ],
+    "dialogue_emotion": "おどろく",
+    "dialogue_id": 679
+}

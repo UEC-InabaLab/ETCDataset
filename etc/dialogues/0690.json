@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "GA",
+        "listener": "AW"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "日直で2人担当だったのですが、ペアの人が遅刻してきました。",
+            "emotion_transcription": "それまで自分だけで仕事なので、頭にきました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんですね。ペアの方はどれくらい遅刻されたんですか？",
+            "emotion_transcription": "話しに興味を示して、もう少し詳しく聞きたいと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "３０分以上来なくて、黙々と寂しく仕事をしておりました。",
+            "emotion_transcription": "本当に来てくれるのか、不安が募ってきた。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それは大変でしたね。遅刻の理由はなんだったんですか？",
+            "emotion_transcription": "状況に共感して、さらに詳しく聞きたいと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "日にちを間違えただけです。まあ、謝ったのですぐ許しましたが・・",
+            "emotion_transcription": "まあ誰でもあるからと、怒りが少し収まりました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "お相手の勘違いということですね。謝られたら許すしかないのですが、待たされる方は不安になりますよね。",
+            "emotion_transcription": "状況が把握できたので、相手の気持ちを思いやりたいと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですよね、まあ、自分も同じミスしたことありますんでね。",
+            "emotion_transcription": "自分もやらないように気をつけねばと、緊張しました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "勘違いは誰にでもありますもんね。自分にもかなり心当たりがあります。",
+            "emotion_transcription": "誰にでも起こりうることで、共感しているということを伝えたいと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね、こういう時あまり厳しくいうと逆のときが怖いですから・・",
+            "emotion_transcription": "寛大な気持ちが大事だな。悟った気になりました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "分かります！あまり怒ってしまうと逆になった時の気まずさがありますね。",
+            "emotion_transcription": "とても理解できる心情で共感出来ました。"
+        }
+    ],
+    "dialogue_emotion": "怒る",
+    "dialogue_id": 690
+}

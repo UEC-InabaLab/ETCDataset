@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "HC",
+        "listener": "EI"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "明日は自分へのご褒美にスイーツバイキングへ行くので、わくわくしています。",
+            "emotion_transcription": "ドキドキする"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "本当ですかー？それは羨ましいです。何時間食べ放題ですか？",
+            "emotion_transcription": "スイーツバイキングはあまり行った事がないので、詳しく聞いてみようと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "90分間だとおもいます。たくさん食べたいです。",
+            "emotion_transcription": "ワクワクする"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "自分へのご褒美は必要ですよね！特に甘い物食べると満たされますよね。",
+            "emotion_transcription": "羨ましいので共感しました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね！ストレス発散にもなりますね！",
+            "emotion_transcription": "がんばるぞ！"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "日頃食べ放題は行かないので、行ってみたいです。",
+            "emotion_transcription": "あまり行った事がなかったので、興味があります。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "食べ放題は色々と種類もあるので選ぶ楽しさもありますよ!",
+            "emotion_transcription": "楽しい気持ち"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "旅行とか行くとたまにバイキングはあるのですが、スイーツは好きだけど沢山は食べれなくて…しょっぱい物も欲しくなります。",
+            "emotion_transcription": "自分の話を盛り込んで、スピーカーさんの話も聞きたいという気持ちです。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "しょっぱい物もあるので、甘いのに飽きるとしょっぱいのもいけます。",
+            "emotion_transcription": "おいしいな"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうなんですね！明日は楽しんで行ってきてください！",
+            "emotion_transcription": "私も楽しい気持ちになりました。"
+        }
+    ],
+    "dialogue_emotion": "わくわくする",
+    "dialogue_id": 683
+}

@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "GJ",
+        "listener": "BX"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "羨ましい気持ちって嫉妬なんでしょうか。",
+            "emotion_transcription": "いい意味での嫉妬だといいとは思います"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。色々な捉え方があると思いますが、嫉妬に近いと思います。最近羨ましいと思ったことはりますか？",
+            "emotion_transcription": "相手の話を聞きたいと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "嫉妬まではいかないですが宝くじで高額当選された方の話を身近で聞きました",
+            "emotion_transcription": "正直、嫉妬と羨ましいが混ざった気持ちかもしれません"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それは羨ましいですね！でも、羨ましい反面少し嫉妬してしまいますね。",
+            "emotion_transcription": "相手の話を聞いて、自分の気持ちを知って欲しいと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね、人間だから仕方ない心情かもしれませんね。",
+            "emotion_transcription": "とても複雑な気持ちになるかもです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私も最近知り合いが株で儲けたと話を聞いて、羨ましいと思ったことがあります。",
+            "emotion_transcription": "自分の話も聞いて欲しいと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "株ですか。難しいとは聞いたことがあります。",
+            "emotion_transcription": "うまく儲ける人は羨ましいという気持ちはあるかもしれません"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんです。難しいのにも関わらず、儲けているなんてすごいなと思いました。",
+            "emotion_transcription": "自分の心情を知って欲しいと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "人間の羨ましいという気持ちを象徴するような話ですね。",
+            "emotion_transcription": "羨ましいと嫉妬は紙一重かもしれないと思います"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "本当ですね！羨ましい話ばかりを聞いていると、嫉妬心も増えそうで嫌です。",
+            "emotion_transcription": "相手の言うことに共感しました。"
+        }
+    ],
+    "dialogue_emotion": "羨ましい",
+    "dialogue_id": 590
+}

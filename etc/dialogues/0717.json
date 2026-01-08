@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "AR",
+        "listener": "EI"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "隣の部屋の騒音がうるさくて夜も眠れません。",
+            "emotion_transcription": "どうにか解決できないかという気持ちです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "それは大変ですね。毎日ですか？",
+            "emotion_transcription": "内容が大変そうだったので、詳しく聞こうと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "毎日ではないですが、大学生のようで、頻繁に友達を呼んでるみたいです。",
+            "emotion_transcription": "どうにか解決できないかという気持ちです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "大学生ですか…それはうるさそうですね。アパートですか？",
+            "emotion_transcription": "内容からして毎日は大変そうだと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ",
+                    "怒り"
+                ]
+            ],
+            "utterance": "一応マンションです。壁は薄いですが、、。",
+            "emotion_transcription": "きっちり家選びをすればよかったです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "マンションなんですね。大家さんに言うしかないですかね。",
+            "emotion_transcription": "解決方法を提案してみましたが、もうしてるかもしれません。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "それも考えたのですが、よく考えたら自分も若い頃は周りの方に迷惑をかけてたかもしれないと思ってます。",
+            "emotion_transcription": "心の広い人になりたいです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "社会人にならないとわからないと思います。でも夜も寝られず翌日大変な思いをするなら、言うべきですね。",
+            "emotion_transcription": "共感しつつ、やはり注意をした方がいいと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "たしかに限度はありますね。管理会社に伝えてみようと思います。",
+            "emotion_transcription": "問題が解決できたらいいなという気持ちです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですね！少しでも改善されますように。",
+            "emotion_transcription": "スピーカーさんが前向きに考えてくれたので良かったです。"
+        }
+    ],
+    "dialogue_emotion": "いらいらする",
+    "dialogue_id": 717
+}

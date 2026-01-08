@@ -1,0 +1,184 @@
+{
+    "participants": {
+        "speaker": "GB",
+        "listener": "EO"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "GWだというのに私は特に予定もなく家でゴロゴロしています",
+            "emotion_transcription": "取り残されてさみしい"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "私も同じで予定が入ってなくて家でTVを見ています。",
+            "emotion_transcription": "私も同じ状態でいること伝えたかった。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "周りは旅行や買い物なんかの予定がある様でなんか取り残された感じです",
+            "emotion_transcription": "ひとりぼっちの気がしてさびしい"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "そうですね。TVで賑やかな観光地の映像が流れると羨ましいなと思います。",
+            "emotion_transcription": "世間とのギャップを感じていることを伝えたかった"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "何か予定はあったりされますか？",
+            "emotion_transcription": "さみしくてつらい"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "近所のショッピングセンターに行くくらいですね。今からでも他に予定を入れたいですね。",
+            "emotion_transcription": "今から予定をいれたら悲しい気持ちが和らぐことを伝えたかった。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "そうですね。誰かを誘って近場でも行けると楽しいでしょうね",
+            "emotion_transcription": "さみしくていやだ"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "誘う友人の予定が詰まっていたら寂しくなるから、一人カラオケなど行ってみようかな考えています",
+            "emotion_transcription": "一人でも楽しめることを考えてほしいと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "それもいいですね。でも一人はさみしい気がします。",
+            "emotion_transcription": "一人はさみしい"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "寂しいと思っているのは私も同じです。次の連休は前もって計画を立てようと思いました",
+            "emotion_transcription": "共感の気持ちや今後の行動をつたえたいと思いました。"
+        }
+    ],
+    "dialogue_emotion": "さびしい",
+    "dialogue_id": 49
+}

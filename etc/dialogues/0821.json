@@ -1,0 +1,182 @@
+{
+    "participants": {
+        "speaker": "FJ",
+        "listener": "EI"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "将来について不安に思う事があるのです。",
+            "emotion_transcription": "現在自分が思っている事を話そうとしています。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんですね。例えばどんな不安事ですか？",
+            "emotion_transcription": "相手の話の内容から詳しく聞きたいと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖",
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "やはり、お金の問題ですね。年金だけでは厳しいのではないかと考えています。",
+            "emotion_transcription": "具体的な内容を相手に伝えています。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "年金がもらえるにはまだまだ先なんですが、いったいいくらもらえるか？不安ですよね。",
+            "emotion_transcription": "まだ先の事ですが、話を聞いて不安になりました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですよね。現在提示されている額よりも少なくなってしまう可能性もあるでしょうから。",
+            "emotion_transcription": "更に同意を得ようと相手に話しかけています。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私の親が年金を数年前から年金をもらってますが、少しずつ減っているような話も聞きました。",
+            "emotion_transcription": "共感しつつ、家族の話をしてみました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "世知辛い世の中ですね。若い世代への負担も心配です。",
+            "emotion_transcription": "話の幅を広げて相手に同調を促しています。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "将来の事も気にしつつ、節約も大事ですが、楽しみたい気持ちもあるので、こういった在宅ワークを少ししてます。",
+            "emotion_transcription": "将来的な話から込み入った話をしてみました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。年金受給以外の収入源についても、模索していこうと思います。",
+            "emotion_transcription": "打開策を検討している事を相手に伝えようとしています。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "喜び",
+                    "恐怖"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうなんですよ！私もこれからいろいろ調べようと思います。",
+            "emotion_transcription": "将来の不安もありつつ、気持ちが前向きになりました。"
+        }
+    ],
+    "dialogue_emotion": "不安に思う",
+    "dialogue_id": 821
+}

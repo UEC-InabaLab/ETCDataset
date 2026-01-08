@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "ED",
+        "listener": "CQ"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "虫がこれから多くなると思うと嫌悪感がすごいです",
+            "emotion_transcription": "虫の嫌さを分かってもらえるか気になります"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "そうですよね。私も虫は苦手です。嫌いな虫はいますか？",
+            "emotion_transcription": "共感する気持ちがありました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "苦手なのは足が多いムカデとかです",
+            "emotion_transcription": "ムカデを思い出して少し嫌な気持ちになっています"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "私もムカデは苦手です。他の虫は大丈夫ですか？",
+            "emotion_transcription": "自分との共通点を探そうとしています"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "正直他の虫も苦手です。子供のころは触れていたのですが大人になると嫌悪感をかんじるようになりました。",
+            "emotion_transcription": "昔を思い出して懐かしんでいます"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんですね。何か虫を嫌いになるきっかけがあったのですか？",
+            "emotion_transcription": "嫌いになった理由を知りたい気持ちです"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "小学生の頃、毛虫に刺されてすごく痛い思いをしたからです",
+            "emotion_transcription": "昔の光景が浮かんできて懐かしさを感じています"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それは大変でしたね。どうやって対処したのですか？",
+            "emotion_transcription": "毛虫に刺された場合の対処法が知りたいと思いました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "親に病院に連れて行ってもらいました。そこからはあまり覚えていません。",
+            "emotion_transcription": "泣いていた気持ちを思い出して懐かしんでいます"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "毛虫に刺されると病院に行くくらいの症状になってしまうのですね。私も気をつけたいと思いました。ありがとうございました。",
+            "emotion_transcription": "どのくらい痛いのか気になりました。"
+        }
+    ],
+    "dialogue_emotion": "嫌悪感を抱く",
+    "dialogue_id": 56
+}

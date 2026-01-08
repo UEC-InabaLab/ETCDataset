@@ -1,0 +1,182 @@
+{
+    "participants": {
+        "speaker": "HG",
+        "listener": "FS"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "昨日、金縛りに遭う恐ろしい経験をしました。",
+            "emotion_transcription": "自分に起きた出来事を相手に話し、共感してもらいたかったです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "それは怖いですね。なぜ金縛りにあったのですか？",
+            "emotion_transcription": "とても興味深い話で理由を聞きたくなりました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "理由はわかりません。突然体が動かなくなり、全身から汗が吹き出しました。そして、誰かが首を絞めてくるのです。",
+            "emotion_transcription": "共感してもらって嬉しくなり、さらに詳しく起こった出来事を話しました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖",
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "怖すぎますね。誰が首を絞めてきたのでしょうか？",
+            "emotion_transcription": "首を絞められるのは怖すぎると思いました"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "誰かはわからないのです。目も開けられなかったので、確認できませんでした。",
+            "emotion_transcription": "相手の疑問に答えるように回答しました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖",
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "なるほど。確かに恐怖で目は開けられませんよね。すごい体験をしましたね。",
+            "emotion_transcription": "自分が体験したら嫌だなというきもちです"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "初めての経験で気が動転してしまいました。翌朝、鏡を見ると首にくっきりと手の跡が付いていてゾッとしました。",
+            "emotion_transcription": "同意してもらって嬉しくなりました。自分の経験をさらに詳しく話しました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "うわっなんかそれはヤバすぎますね。",
+            "emotion_transcription": "相手に同調する気持ちを伝えました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "はい、気持ちが悪くなってしまいました。不思議で恐ろしい体験を聞いていただきありがとうございました。",
+            "emotion_transcription": "同意してもらって嬉しくあり、お礼を言いました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "怖い体験はそんなにしたことがないのでとても興味深かったです。",
+            "emotion_transcription": "自分が興味深い話を聞けたという事を伝えました"
+        }
+    ],
+    "dialogue_emotion": "恐ろしい",
+    "dialogue_id": 468
+}

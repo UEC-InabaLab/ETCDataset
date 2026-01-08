@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "DE",
+        "listener": "ED"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "今日は天気が良くて窓辺で本を読んでいる時間がすごく満足できる瞬間でした。",
+            "emotion_transcription": "穏やかな時間に満足していました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "それは良いですね！そういうゆったりした時間、大切ですよね。どんな本を読んでいたんですか？",
+            "emotion_transcription": "相手の過ごし方に共感しました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "前から読みたかった小説なんです。暖かい日差しの中でページをめくるのが心地よかったです",
+            "emotion_transcription": "心地よい読書時間について話しました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "想像するだけで癒やされますね。そういう日常の中の小さな幸せってすごく満たされた気持ちになりますよね",
+            "emotion_transcription": "小さな幸せの価値を認めました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "はい。何かに追われることもなく、ただただ静かに自分の時間を過ごせて心が落ち着きました。",
+            "emotion_transcription": "心が平穏になったことを知らせたかったです"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ストレスが多い毎日だからこそ、そういうホッとできる時間は貴重ですね。",
+            "emotion_transcription": "リラックスできる時間の重要性に同意しました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "大きな成果じゃなくても、こういう小さな満足感を積み重ねていくことが幸せなのかもしれないと感じました。",
+            "emotion_transcription": "気づいたことを示したかったです"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "それは本当にそうですね。日々の小さな良いことを見つけるのが大切ですね。",
+            "emotion_transcription": "日々の感謝を見つけることの大切さに同意しました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "今日はこの満足感を胸に、ゆっくり過ごしたいと思います。",
+            "emotion_transcription": "現在の穏やかな気持ちを味わいたかったです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "素敵な一日ですね。どうぞゆっくりと過ごしてください。",
+            "emotion_transcription": "相手の穏やかな時間を応援しました。"
+        }
+    ],
+    "dialogue_emotion": "満足",
+    "dialogue_id": 598
+}

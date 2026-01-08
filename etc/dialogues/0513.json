@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "GT",
+        "listener": "CU"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私はお菓子作りがだいすきで毎月お菓子作りをしています！",
+            "emotion_transcription": "緊張しています"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "どんなお菓子を作ったりしているのですか？得意なものはありますか？",
+            "emotion_transcription": "素朴な疑問を質問しています"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "抹茶系のお菓子作りが大好きです。抹茶のクッキーやチーズタルト作りが得意です",
+            "emotion_transcription": "話に興味を持っていただけてうれしいです"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "美味しそうですね！クッキーやタルトが自信があるなんてすごいですね！",
+            "emotion_transcription": "驚いている様子を表現しています"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "作るのに時間がかかってしまうのですが食べてくれる家族や友人のおいしかったの声のおかげで自信がつきました",
+            "emotion_transcription": "人に言うのが初めてだったので誰かにこのことが話せてうれしいです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "時間がかかっても食べてくれる人のことを思って作れるのは凄いことだと思います。",
+            "emotion_transcription": "関心している様子を表現しています"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですね、ありがとうございます。そのおかげでまた今まで作ったことのないマカロンやシュークリーム作りにも今挑戦しています。",
+            "emotion_transcription": "褒めて頂けて嬉しい気持ちです"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "いろいろなお菓子を作れてお菓子屋さんも将来できそうですね！",
+            "emotion_transcription": "相手を褒めている感情を表しています"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "はい、将来は自分で洋菓子屋さんを個人的に経営したいと考えています。",
+            "emotion_transcription": "思っていることが伝わって嬉しいです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "素敵な目標があって羨ましいです。私も目標を持っていきたいです！",
+            "emotion_transcription": "相手に共感しています"
+        }
+    ],
+    "dialogue_emotion": "自信がある",
+    "dialogue_id": 513
+}

@@ -1,0 +1,182 @@
+{
+    "participants": {
+        "speaker": "FE",
+        "listener": "CX"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "最近感動した話を聞いてもらえますか？",
+            "emotion_transcription": "意外なもので感動です。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "もちろんです。どんな話でしょうか。",
+            "emotion_transcription": "どんな話をされるのかわくわくしています。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "子供に人気のアンパンマンは知ってますよね？",
+            "emotion_transcription": "子供に見せてもらい感動です。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "日本人なら誰もが通る道ですね。もちろん知っています。",
+            "emotion_transcription": "アンパンマンというワードが出てきてとても興味を持っています。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "息子にアンパンマンとバイキンマンの中身が入れ替わる話を見せてもらいました。",
+            "emotion_transcription": "こういうネタがあるのに驚きです。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "えっ？それは聞いたことがありません。",
+            "emotion_transcription": "面食らっています。驚きのストーリーです。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はい、それからバイキンマンがアンパンマンを助ける話を見せてもらいました。",
+            "emotion_transcription": "この話は衝撃です。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "目から鱗ですね！正直、私の時代にはなかった話です。",
+            "emotion_transcription": "知っていると思っていたアンパンマンのストーリーが覆されています。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び",
+                    "驚き"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び",
+                    "驚き"
+                ]
+            ],
+            "utterance": "雪崩からアンパンマンを助けるバイキンマンに感動しました。",
+            "emotion_transcription": "いつもと違う展開に感動です。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "ちょっとだけお話を聞いただけでも感動しそうです。",
+            "emotion_transcription": "あとで調べてみよう。"
+        }
+    ],
+    "dialogue_emotion": "感動する",
+    "dialogue_id": 192
+}

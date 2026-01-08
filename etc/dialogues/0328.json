@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "FS",
+        "listener": "HF"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "相手に対して思いやりを持って行動することがなかなかできません。",
+            "emotion_transcription": "自分に共感してもらいたい気持ちを伝えました"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "それはよくないですね。",
+            "emotion_transcription": "相手の言動について良くないと思っています。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "思いやりを持つにはどうすればいいでしょうか",
+            "emotion_transcription": "自分の気になっていることを訪ねてみました"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "やはり自分が人にこうされたら嬉しいということを日々思うことでしょうか。",
+            "emotion_transcription": "相手に何かひらめきを与えたく思って意見しました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "確かに人にされて嬉しい事をするのは大切ですよね",
+            "emotion_transcription": "相手に共感する気持ちを伝えました"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "抽象的な意見かもしれませんが、まずはそこから始めてやがてはしっかり実践に結びつけばよいと思います。",
+            "emotion_transcription": "相手にこちらの意図を理解してほしく説明してみました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "すごく参考になります。他になにかいい案はありますでしょうか？",
+            "emotion_transcription": "相手の意見に賛同する気持ちを伝えました"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "自分に優しくしてくれた人間をモデルに考えを深めるべきです。それは身近な人物を対象にするほどよいと考えます。",
+            "emotion_transcription": "具体的な意見を示してあげたく思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それは良いですね。是非試してみたいと思います！",
+            "emotion_transcription": "相手に同調する気持ちを伝えました"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "よい心がけですね。",
+            "emotion_transcription": "相手の言動に好感を持っています。"
+        }
+    ],
+    "dialogue_emotion": "思いやりを持つ",
+    "dialogue_id": 328
+}

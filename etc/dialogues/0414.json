@@ -1,0 +1,182 @@
+{
+    "participants": {
+        "speaker": "GN",
+        "listener": "FS"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "最近お米の値段が急騰していて悲しいです。",
+            "emotion_transcription": "お米の値段が高いことを相手はどう思っているか聞いてみたくなりました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "お米の価格高騰は物価高騰で一番つらいですよね",
+            "emotion_transcription": "愛艇の意見に賛同する気持ちを伝えました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び",
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "米だけでなくその他の製品も値段がどんどん上がっていて生活が苦しいです。",
+            "emotion_transcription": "相手の同調発言に共感出来てほっとしました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。給料はそこまで上がらないの物価だけがどんどん高騰していってますからね",
+            "emotion_transcription": "相手の意見に同調する気持ちを伝えました"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び",
+                    "恐怖"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "政府が可能であれば減税してくれるとうれしいのですが。",
+            "emotion_transcription": "相手も同調してくれており一体感を感じれました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "減税は確かにしてほしいです。特に消費税の10%をなんとかしてほしいです",
+            "emotion_transcription": "自分の意見に同調してほしいと思いました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "本当にそう思います。金額が大きくなればなるほど消費税は負担が大きいので。",
+            "emotion_transcription": "相手が同調してくれたことにうれしさを覚えました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "10000円のものを買うと1000円も払わないといけないのはホントしんどすぎます",
+            "emotion_transcription": "自分の気持ちを相手に理解してもらいたいと思いました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "節約も大事ですけど使うときは使いたいですよね。",
+            "emotion_transcription": "相手の発言に同調し自分の気持ちも相手に伝えたい気持ちになりました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "消費もしないといけないのはそうだと思います",
+            "emotion_transcription": "相手の気持に同調しました"
+        }
+    ],
+    "dialogue_emotion": "悲しい",
+    "dialogue_id": 414
+}

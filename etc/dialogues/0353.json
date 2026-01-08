@@ -1,0 +1,182 @@
+{
+    "participants": {
+        "speaker": "HF",
+        "listener": "FS"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "実は兄にお金を借りています。それを数年返せていないのを恥じています。",
+            "emotion_transcription": "生活を振り返って情けなく思っています。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それは大変ですね。",
+            "emotion_transcription": "相手に共感する気持ちを伝えました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "そうなのです。兄は催促してきません。その優しさにまた情けなくなってきます。",
+            "emotion_transcription": "自分の行いを反省しています。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "お金の問題は難しいですよね。お兄さんはいい人だと思います。",
+            "emotion_transcription": "自分の気持ちを伝えました"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ですよね。忘れているわけではなく、こちらが言い出すのを待っている状態です。しかしまだ準備が出来ていないので返せないのです。",
+            "emotion_transcription": "相手に肯定意見をもらえてやや安心しています。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "お金はちょっとずつ返していくしかありませんよね。",
+            "emotion_transcription": "相手に同乗しました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そのために少しずつ給与を貯金するようにしました。",
+            "emotion_transcription": "問題解決のために何をしているのか聞いてもらいたく思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんですね。それはとても良いことだと思います",
+            "emotion_transcription": "相手に同調する気持ちを伝えました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "これからも少しずつそうして返して行こうと思います。応援して下さい。",
+            "emotion_transcription": "相手の肯定を最大限得たく思っています。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "頑張ってください！心より応援しております",
+            "emotion_transcription": "相手にエールを送る気持ちを伝えました"
+        }
+    ],
+    "dialogue_emotion": "恥じる",
+    "dialogue_id": 353
+}

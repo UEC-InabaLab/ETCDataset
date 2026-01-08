@@ -1,0 +1,184 @@
+{
+    "participants": {
+        "speaker": "DP",
+        "listener": "CF"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き",
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "新しいスニーカーを購入したのですが、雨の中マンホールの上を歩くと滑ってしまって。転ぶところでした。",
+            "emotion_transcription": "ひやっとした思いを聞いて欲しい。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "わかります。私もゴム製のスリッパで雨の日とか良く滑りそうになります。",
+            "emotion_transcription": "ドキッとする感じです。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "あの滑る感覚、何とも言えない怖さがありますよね。",
+            "emotion_transcription": "相手の気持ちが同じだとわかり安堵する心境。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖",
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "ドキッとします。道路の白線の上とか、店に入る時のワックスの効いたところとか",
+            "emotion_transcription": "驚いてハッとする感じです。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "靴底にもう一工夫して欲しいです。お値段も結構なものなのに。",
+            "emotion_transcription": "共感を得る事が出来るか心配な心情。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "そうですね。私のは使いこんでいるクロックスで底がツルツルなので仕方ないですが、新品だとクレーム入れたくなりますね。",
+            "emotion_transcription": "製品に納得いかない感じです。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ",
+                    "恐怖"
+                ]
+            ],
+            "utterance": "クレームを言いたくてもクレーマーだと勘違いされるのが怖くて言えないんです。",
+            "emotion_transcription": "情けない心情を理解してもらえるか気になる。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "クレーマーには思われたくないですよね。意見としてメーカーに伝えるのもひとつの方法かもしれませんね。",
+            "emotion_transcription": "落としどころを探す感じです。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び",
+                    "驚き"
+                ]
+            ],
+            "utterance": "まるほど。意見としてなら怖がる必要はありませんね。ありがとうございます。",
+            "emotion_transcription": "新たな視点が分かり嬉しい心境。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "いいえ、何にせよ転ぶと危ないので、お互い雨の日は気をつけましょう。",
+            "emotion_transcription": "注意したい気持ち"
+        }
+    ],
+    "dialogue_emotion": "怖い",
+    "dialogue_id": 460
+}

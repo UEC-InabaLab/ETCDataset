@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "AG",
+        "listener": "AY"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ゴールデンウィーク中、誰とも会いませんでした。",
+            "emotion_transcription": "寂しい状況を相手に伝えようとしました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんですね。おうちにいらっしゃったということですか？",
+            "emotion_transcription": "どう過ごされていたのだろうと気になり、相手に問いかけました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ずっと家で一人ぼっちでした。",
+            "emotion_transcription": "相手の質問に対して、状況をより詳しく伝えようとしました。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "食料品はどうされていたのですか？",
+            "emotion_transcription": "衣食住のことが気になり、聞いてみたくなりました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "買い貯めていたもので食事を済ませていました。",
+            "emotion_transcription": "状況を振り返って、相手の質問に回答しました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "明日からは、また日常が始まりますね。",
+            "emotion_transcription": "明日からは状況が変わり、気持ちも前向きになるのではとおもいました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね、人と会えるので安心しています。",
+            "emotion_transcription": "状況が変化して、心配が解消されることを伝えようとしました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "人と会うことはお好きですか？",
+            "emotion_transcription": "人と会えるのを安心されていたので、ＧＷ中も人と会いたかったのかなと思い、問いかけました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "人とおしゃべりをするのがとても好きです。",
+            "emotion_transcription": "自分の好みを相手に伝えて、理解してもらおうとしました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "私も好きです。明日からまたたくさんお話しできるといいですね。",
+            "emotion_transcription": "相手の不安が解消されそうだったので安心しました。"
+        }
+    ],
+    "dialogue_emotion": "さびしい",
+    "dialogue_id": 445
+}

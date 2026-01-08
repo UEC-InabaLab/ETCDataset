@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "FS",
+        "listener": "GD"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "自分のゲームの腕に自身があります",
+            "emotion_transcription": "ゲームが得意ということをわかってほしいと思いました"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "アクションですか？それともパズルやシューティングとかでしょうか？",
+            "emotion_transcription": "どんなゲームが得意なのか興味がわき聞いてみました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "シューティングです。いわゆるFPSというジャンルです",
+            "emotion_transcription": "FPSが特に得意ということを伝えました"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "FPSとなるとフォートナイトとかでしょうか？",
+            "emotion_transcription": "自分の知っているタイトルを上げてみました"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "まさにそのとおりです。フォートナイトはすごく得意です。",
+            "emotion_transcription": "自分の得意のジャンルをズバリ当てられて嬉しい気持ちです"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "バトルロワイアルですよね。間違っていたら申し訳ないですが、敵味方入り混じっての戦闘でお互いの立ち位置とかわかるのですか？",
+            "emotion_transcription": "相手の方の好きな作品を当てられて嬉しい気持ちと同時に疑問がある点を聞いてみました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "長い時間プレイしていると感覚でわかってきますね。",
+            "emotion_transcription": "フォートナイトを長時間プレイしていることを伝えました"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "すごいですね。目が回るハイスピードについていけないので尊敬します。",
+            "emotion_transcription": "フォートナイトのプレイの難しい気持ちをつたえました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "いえいえ。すいません自分のつまらない自慢を言ってしまいました。",
+            "emotion_transcription": "しょうもない自慢をしてしまい申し訳ない気持ちです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そんなことないですよ。私もシューティングをプレイをしたことがあるので的にうまくあてるのが難しいのはわかります",
+            "emotion_transcription": "率直な意見を伝えてみました"
+        }
+    ],
+    "dialogue_emotion": "自信がある",
+    "dialogue_id": 807
+}

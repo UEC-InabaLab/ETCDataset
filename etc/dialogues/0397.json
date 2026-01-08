@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "EF",
+        "listener": "AU"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "置き配で届いた商品の中身が傷ついていました",
+            "emotion_transcription": "ムカついた気持ち"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "それは悲しいです。何が原因だったのでしょうね？",
+            "emotion_transcription": "悲しい出来悲しい出来事だと思いました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "雨で配達が面倒だったのかもしれないです",
+            "emotion_transcription": "むなしい気持ち"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "配達時の取り扱いが乱雑だったかもですね",
+            "emotion_transcription": "配達時に問題があったのだと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ",
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "貴重品の注意書きもあったのに、残念です。",
+            "emotion_transcription": "くやしい気持ち"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "大切なお品で注意書きまであったのにお気持ち察します",
+            "emotion_transcription": "気をつけていたのにこういうことが起こるとは残念でした"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "次からはきちんと届くことを願います。",
+            "emotion_transcription": "前向きな気持ち"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "補償は受けられなかったのですか？",
+            "emotion_transcription": "こういうミスが無くなる事を願いました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "一応連絡しました。いまは補填待ちです。",
+            "emotion_transcription": "わらにもすがる思い"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ひとまず安心しました。良い結果になる事を願っています。",
+            "emotion_transcription": "うまく解決できればいいなと思いました。"
+        }
+    ],
+    "dialogue_emotion": "怒る",
+    "dialogue_id": 397
+}

@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "GO",
+        "listener": "EU"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "AI技術に対してどう思いますか？",
+            "emotion_transcription": "相手が自分とどのくらい同じ意見を持っているのか気になります。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "AI技術には大きな期待をしていて、未来において新たな可能性が広がると感じています。",
+            "emotion_transcription": "興味深い問いかけなので楽しみです"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "私もそう思います。特にどの分野に期待していますか？",
+            "emotion_transcription": "同じような期待感を持っていて嬉しいです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ヘルスケア分野においての早期診断や個別化治療などの実現に期待しています。",
+            "emotion_transcription": "相手と自分の興味が一致していることが嬉しい"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "少子高齢化社会が進むのでその分野でも大いに役立つと思いますか？",
+            "emotion_transcription": "相手が賢そうで会話が楽しく感じます。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はい、介護負担の軽減や子育てサポートに関しても役立つと思います。",
+            "emotion_transcription": "これから先のことを考えると無視できない問題でもあるので、興味深い話題です。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "自動運転技術に対してはどう感じますか？",
+            "emotion_transcription": "相手の回答が楽しみです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "事故を削減するということが重要ですが、高齢者や運転が難しい人の移動を支援するという点では大いに期待しています。",
+            "emotion_transcription": "興味のある話題を提供してくれるので会話が楽しく感じます。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですね。防災などにも活用できると良いと思います。",
+            "emotion_transcription": "共感できる回答で嬉しいです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "これから先、さまざまな分野でAI技術がより便利で快適な生活をおくれるようにサポートしてくれることを期待してます。",
+            "emotion_transcription": "AIに関してはもともと興味があったので楽しい時間を過ごせてよかったです。"
+        }
+    ],
+    "dialogue_emotion": "期待する",
+    "dialogue_id": 210
+}

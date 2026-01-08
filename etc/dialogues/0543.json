@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "BV",
+        "listener": "CK"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "今年娘が結婚して内心孫が生まれることを心待ちにしています",
+            "emotion_transcription": "今心待ちにしていることを素直に書きました"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それはおめでとうございます！初孫ですか？",
+            "emotion_transcription": "めでたい話だなと思いました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "はいそうです。",
+            "emotion_transcription": "相手の問いかけに素直に答えました"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "ではなおさらですね。",
+            "emotion_transcription": "シンプルな答えのみだったので怒らせてしまったかなと少し心配になりました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "ただ表立ってはそういう素振りも見せられないですが",
+            "emotion_transcription": "相手の問いかけに誠実に対応したいと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうですね。私は顔にいろいろ出てしまう方なので、娘が結婚したら顔に出ないよう気をつけないといけません。",
+            "emotion_transcription": "娘想いの方だとほっこりしました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "今何か待ち望んでいることはありますか",
+            "emotion_transcription": "相手のことも聞きたいと思いました"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き",
+                    "嫌悪"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "華やかな話ではなくて申し訳無いですが、景気がよくなることですね。",
+            "emotion_transcription": "こちらに話題を振られたので驚きました。ぱっと浮かんだ答えをそのまま答えていいのか悩みました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "そうですよね。ほんとに良くないニュースが多くて、景気の先行きが心配になりますが、何か良いことが起こって景気が上向くことを私も望んでいます。",
+            "emotion_transcription": "相手の問いかけに誠実に答えたいと思いました。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "はい。みんなが幸せになれる世の中になってほしいと思います。",
+            "emotion_transcription": "同意してくれてホッとしました。本当に世の中良くなってほしいです。"
+        }
+    ],
+    "dialogue_emotion": "待ち望む",
+    "dialogue_id": 543
+}

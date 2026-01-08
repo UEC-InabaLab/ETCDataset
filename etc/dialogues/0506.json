@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "GB",
+        "listener": "FX"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "このGWに万博に行って来ましたよ",
+            "emotion_transcription": "話題の万博に期待を持っています"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "今話題になってますね、何か期待して見に行ったパビリオンはありますか？",
+            "emotion_transcription": "どんな楽しいことがあったのかきになりました"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "海外のパビリオン、特にイタリア館ですかね。",
+            "emotion_transcription": "話題のパビリオンにがどのようなものか期待しています"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "イタリア館にはどんな特徴があるんですか？",
+            "emotion_transcription": "自分の知らない情報を知りたいと思い、相手に質問をしてみました"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "本物の芸術品が見れるとの事したので。",
+            "emotion_transcription": "日本にいながら本物の芸術に触れることへ期待が増します"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "実際に見た印象はどうでしたか？期待通りのものでしたか？",
+            "emotion_transcription": "見たい芸術品が見られて、どんな気持ちになったのか気になりました"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "本当に素晴らしいものでした。",
+            "emotion_transcription": "本物に触れる事への期待感は大変大きなものでした"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それは絵画や銅像のようなものですか？",
+            "emotion_transcription": "相手がどんなものかを詳しく教えてくれないので、突っ込んで聞いてみました"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "芸術に疎く詳しくはわからないのですが絵画です。私の様な者にも感動を与えてくれました。",
+            "emotion_transcription": "芸術に疎い人も楽しめる本物の迫力には期待すべきことが多いです"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "素晴らしいものだったんですね！私も機会ができたら見に行ってきたいと思います！",
+            "emotion_transcription": "相手から気になる情報を得られたので、私も行ってこようと思いました"
+        }
+    ],
+    "dialogue_emotion": "期待する",
+    "dialogue_id": 506
+}

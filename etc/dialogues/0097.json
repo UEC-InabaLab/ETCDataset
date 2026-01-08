@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "BL",
+        "listener": "CS"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ゴールデンウイーク真っ只中ですね。ご予定はありますか。",
+            "emotion_transcription": "長いお休みでうれしいです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "はい、実は前から計画していた旅行に行く予定なんです。",
+            "emotion_transcription": "ワクワクした気持ちが伝わってきたので、会話を盛り上げたいという気持ち。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "それはたのしみですね。どちらに行かれるんですか。",
+            "emotion_transcription": "うらやましいです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ずっと行ってみたかった北海道の富良野に行くんです、あなたのご予定は？",
+            "emotion_transcription": "相手も楽しそうに聞いてくれているので、もっと話したい気持ち。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "うらやましいですね。北海道は食べ物がおいしいので大好きです。",
+            "emotion_transcription": "お休みを満喫されるんだなと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですよね！新鮮な牛乳やチーズとか、おすすめがあれば聞いてみたいです。",
+            "emotion_transcription": "教えてもらえたら嬉しい気持ち。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "以前空港に行ったときに、おいしそうなソフトクリームがたくさんあって、どれを食べようか迷いました。どれもおいしかったですよ。",
+            "emotion_transcription": "乳製品がお好きなのかなと思いました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び",
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "空港のソフトクリームもそんなにおいしいんですね！今度チェックしてみます。",
+            "emotion_transcription": "すごく参考になって、ありがたい気持ち。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "気を付けて、旅行楽しんできてくださいね。",
+            "emotion_transcription": "リフレッシュしてきてほしいなと思います。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "温かい言葉、ありがとうございます。",
+            "emotion_transcription": "気遣ってもらえて、とてもうれしい気持ち。"
+        }
+    ],
+    "dialogue_emotion": "わくわくする",
+    "dialogue_id": 97
+}

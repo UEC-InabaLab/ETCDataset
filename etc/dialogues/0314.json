@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "DP",
+        "listener": "GD"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "自分の不器用さに改めて打ちのめされた気分なんです。",
+            "emotion_transcription": "落ち込む気持ちを聞いて欲しい。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "喜び",
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "私も不器用で世渡り下手だから気持ちがわかります。もっと器用になりたいと思いますね",
+            "emotion_transcription": "自分も同じ境遇だから気持ちがよく伝わります"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうなんですね。本当になんでいつもこうなんだろうと落ち込む事ばかりで。",
+            "emotion_transcription": "同じ気持ちにほっとする心情です。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうですね。なんとか失敗だけはしないようにと考えてもうまくいかない事ってありますね",
+            "emotion_transcription": "共感する気持ちが高まります"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "とことん落ち込んで打ちのめされて、なぜ繰り返す！と自信を叱り飛ばすのですが。",
+            "emotion_transcription": "状況打破の方法を教えて欲しい心情です。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "でも反省されているのだからいいと思います。失敗は成功のもとって言いますし次は大丈夫ですよ。",
+            "emotion_transcription": "失敗してもそれを教訓にして頑張ってほしいです"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ありがとうございます。ポジティブな思考、是非とも真似たい。",
+            "emotion_transcription": "考え方を変える方法を教えてもらえた嬉しい気持ちです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "いえいえ。たまにしかポジティブな思考になれないです。普段はいつも落ち込んでいます。",
+            "emotion_transcription": "前向きな思考になるのって難しいですよね"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "とてもそんな風には感じない心強いお言葉に、前向きに頑張れそうです。",
+            "emotion_transcription": "感謝の気持ちを伝えたい。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そう思っていただけたなら光栄です。お互い頑張りましょう。",
+            "emotion_transcription": "私もあなたの言葉に励まさまれした。ありがとうございます"
+        }
+    ],
+    "dialogue_emotion": "打ちのめされる",
+    "dialogue_id": 314
+}

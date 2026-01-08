@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "GB",
+        "listener": "AR"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "テレビを見ているとGWの行楽のニュースが多いですが私は特に予定もありません。",
+            "emotion_transcription": "予定がないさみしさ"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "私も同じです。旅行に行かないといけないという同調圧力が苦手です。",
+            "emotion_transcription": "相手に共感しました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "というもののなかなか出掛けるのは億劫で",
+            "emotion_transcription": "行動に移せずさみしい"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "わかります。とはいえ、何もやる事がないのも人生を無駄にしている気がしてしまいます。",
+            "emotion_transcription": "わかってはいるけどもどかしい気持ちです。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "そうなんです！でもどうしてもお金がかかりますからね。",
+            "emotion_transcription": "お金がなくてさみしい"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "人の温かさを感じたい気持ちがある一方、物価高に尻込みしていまいますよね。",
+            "emotion_transcription": "綺麗事ではうまくいかないという葛藤があります。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "先立つものかないのはさみしいですよね。でも工夫次第てわ楽しめますかね。",
+            "emotion_transcription": "たのしさを探せないさみしさ"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "不景気になると人間余裕がなくなりますよね。毎日の生活を工夫したり、行き先を近場にしたりして、安い観光をする目指すのがいいかもしれませんね。",
+            "emotion_transcription": "どうにかして楽しみたいという苦悩があります。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "確かに自分で工夫して何かしらの楽しみを探す必要がありますね。",
+            "emotion_transcription": "工夫を見出せないさみしさ"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "そのためにはまずは情報収集から始めましょう",
+            "emotion_transcription": "一緒に頑張りましょうという気持ちです。"
+        }
+    ],
+    "dialogue_emotion": "さびしい",
+    "dialogue_id": 148
+}

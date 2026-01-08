@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "DP",
+        "listener": "DS"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "先日、友人と口論になってしまったんです。",
+            "emotion_transcription": "反省している気持ちをどう相手に伝えるべきか聞いて欲しい。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "なぜ、口論になってしまったんですか？",
+            "emotion_transcription": "何が原因なのか気になっています。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "もう一人の友人の事を悪く言うことが許せないと感じた事からなんです。",
+            "emotion_transcription": "腹立たしく感じた事を知ってもらいたい。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "許せないときもあるので、口論になるのわかります。",
+            "emotion_transcription": "同じ状況になることがあるなと思いました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ",
+                    "嫌悪"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "どちらも大切な友人なのにと今になって反省しきりなんです。情けないです。",
+            "emotion_transcription": "自責の念にかられている心情を分かって欲しい。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "その後、きちんと仲直りはできましたか？",
+            "emotion_transcription": "心配しています。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "言い過ぎた事を素直に伝えたいのですが、誠実な気持ちを伝えるのも難しくて。",
+            "emotion_transcription": "上手く伝える事が出来ない事に助言が欲しい。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "自分の気持ちに正直になって、ちゃんと伝えると伝わると思います。",
+            "emotion_transcription": "うまくいくようにと思っています。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "正直になる事が大切ですね。しっかり誠実さが伝わる様に話してみます。",
+            "emotion_transcription": "話を聞いてもらえて自信がついた心情です。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "うまくいくことを願ってます。頑張ってください。",
+            "emotion_transcription": "仲直りできるようにと願っています。"
+        }
+    ],
+    "dialogue_emotion": "誠実な気持ち",
+    "dialogue_id": 371
+}

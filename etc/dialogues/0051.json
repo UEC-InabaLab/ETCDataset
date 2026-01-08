@@ -1,0 +1,181 @@
+{
+    "participants": {
+        "speaker": "GA",
+        "listener": "AA"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ]
+            ],
+            "utterance": "庭に出ていたら、アブが近寄ってきました。",
+            "emotion_transcription": "ビックリしました"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖",
+                    "驚き"
+                ]
+            ],
+            "utterance": "それはびっくりしますね。虫が急に飛んでくるだけでちょっと怖いです。",
+            "emotion_transcription": "相手の状況を想像し、自分なら抱くであろう心情を述べました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "怖かったので散歩を中断して家に戻りました。",
+            "emotion_transcription": "刺されそうなのでほんとにか怖かったです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "災難でしたね。アブだと刺さない種類も多いらしいですが、見ただけだと分からないし、ハチそっくりなのでそれだけでも怖くなります。",
+            "emotion_transcription": "相手の心情を理解しつつ、恐怖を和らげるように情報を付け足してみました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "そうなんですね。安心しました。で、あきらめて、戻ったら、家族がスイーツを食べていたのです。",
+            "emotion_transcription": "少し安心したので、また出てみようかな。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "こちらとしてはハラハラしていたのに、ちょっと面白いギャップですね。",
+            "emotion_transcription": "相手の心情を気遣いつつ、状況を面白く感じたことを伝えました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "そうなんです。いわゆる怪我の功名というのかもしれませんね。",
+            "emotion_transcription": "少しポジティブな気持ちになってきました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "その後、スイーツを一緒に食べられたんですか。",
+            "emotion_transcription": "相手の状況に興味を持ち、より詳しく知りたいと思い尋ねました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "悲しみ"
+                ]
+            ],
+            "utterance": "食べたんですが、残念なことに、一番好きなケーキの種類はもうありませんでした。",
+            "emotion_transcription": "残念な気持ちになったけどもう諦めよう。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ちょっとほのぼのしたオチがついた感じで、なごんでしまいました。",
+            "emotion_transcription": "相手の話にユーモアを感じ、気遣いながらそのことを伝えました。"
+        }
+    ],
+    "dialogue_emotion": "怖い",
+    "dialogue_id": 51
+}

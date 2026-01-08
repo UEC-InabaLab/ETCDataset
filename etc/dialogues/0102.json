@@ -1,0 +1,180 @@
+{
+    "participants": {
+        "speaker": "BL",
+        "listener": "GW"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "先日、運転中に後続車に煽られてしまいました。",
+            "emotion_transcription": "怖かったです。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "煽り運転ですね。ケガはありませんでしたか？",
+            "emotion_transcription": "煽られたを聞いて、相手への心配の気持ちが湧きました。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "ご心配ありがとうございます。大丈夫でしたが怖かったです。",
+            "emotion_transcription": "心配してくれてうれしいです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "悲しみ"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "心中お察しします。酷いことをしますね。",
+            "emotion_transcription": "相手への同情と共感をしました。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "いろいろニュースになっているのになぜ？という気持ちでした。",
+            "emotion_transcription": "本当にひどいですよね。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ],
+                [
+                    "怒り"
+                ]
+            ],
+            "utterance": "本当ですね。犯罪だという自覚は無いのでしょうか。そういう無神経な人に、腹が立ちますね。",
+            "emotion_transcription": "共感しながら、同じように怒りが湧いてきました。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "本当に腹が立ちました。煽られたご経験、ありますか？",
+            "emotion_transcription": "わかってもらえてうれしいです。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ],
+                [
+                    "嫌悪"
+                ]
+            ],
+            "utterance": "似たようなことは、よくあります。いい加減ウンザリします。",
+            "emotion_transcription": "過去を振り返り、嫌な記憶を思い出しました。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "ほんとですよね。お互いに事故に巻き込まれないように気を付けましょう。",
+            "emotion_transcription": "気を付けて運転してほしいです。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "恐怖"
+                ]
+            ],
+            "utterance": "そうですね。気を付けて運転しましょう。",
+            "emotion_transcription": "相手の話に同調しています。"
+        }
+    ],
+    "dialogue_emotion": "怒る",
+    "dialogue_id": 102
+}

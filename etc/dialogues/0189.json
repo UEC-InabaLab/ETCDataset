@@ -1,0 +1,182 @@
+{
+    "participants": {
+        "speaker": "GN",
+        "listener": "DP"
+    },
+    "dialogue": [
+        {
+            "turn": 1,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "家庭菜園をやっているのですがはじめてサニーレタスが収穫できて感動しました。",
+            "emotion_transcription": "サニーレタスが収穫できてうれしくて感動しました。"
+        },
+        {
+            "turn": 1,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "すごいですね！家庭菜園なんて。しかも収穫できたなんて素敵ですね。",
+            "emotion_transcription": "感動に同意できる気持ちを伝えたい。"
+        },
+        {
+            "turn": 2,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "他にもほうれん草も収穫できたんですよ。",
+            "emotion_transcription": "野菜を収穫できたことへの喜びが何ともいえないです。"
+        },
+        {
+            "turn": 2,
+            "role": "listener",
+            "emotions": [
+                [
+                    "驚き"
+                ],
+                [
+                    "喜び",
+                    "驚き"
+                ],
+                [
+                    "喜び",
+                    "驚き"
+                ]
+            ],
+            "utterance": "家庭菜園の域を超えてるじゃないですか！すごい！",
+            "emotion_transcription": "驚きと敬意を伝えたい。"
+        },
+        {
+            "turn": 3,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "コメリで買ってきた比較的安い値段の種でしたがやってみればできるものですね。",
+            "emotion_transcription": "チャレンジしてみることの大切さをしりました。"
+        },
+        {
+            "turn": 3,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "驚き"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "他に肥料等はいらないのですか？",
+            "emotion_transcription": "もっと詳しく内容を知りたい心情です。"
+        },
+        {
+            "turn": 4,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "土を耕して化成肥料を成長に合わせてあげました。",
+            "emotion_transcription": "相手の質問に対して明確な回答を提示しました。"
+        },
+        {
+            "turn": 4,
+            "role": "listener",
+            "emotions": [
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ],
+                [
+                    "該当なし"
+                ]
+            ],
+            "utterance": "詳しいのですね。もう何年も家庭菜園をされてるのですか？",
+            "emotion_transcription": "相手の行動を掘り下げて知りたい心情です。"
+        },
+        {
+            "turn": 5,
+            "role": "speaker",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "今年で2年目ですが、家庭菜園は本当に楽しいです。",
+            "emotion_transcription": "相手に家庭菜園の面白さを伝えたい心情です。"
+        },
+        {
+            "turn": 5,
+            "role": "listener",
+            "emotions": [
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ],
+                [
+                    "喜び"
+                ]
+            ],
+            "utterance": "楽しみながら感動も味わえるなんて。本当に素敵ですね。",
+            "emotion_transcription": "楽しさが伝わり同意する気持ちを伝えました。"
+        }
+    ],
+    "dialogue_emotion": "感動する",
+    "dialogue_id": 189
+}
