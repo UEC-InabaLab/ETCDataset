@@ -2,74 +2,80 @@
 
 [![License: CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
-Emotion Transcription in Conversation Dataset は，対話中の各発話に対して話者自身が記述した心情文を含む，約1,000 件の対話からなる日本語対話データセットです．また，心情文に基づく感情ラベルや，話者の性格特性（TIPI-J）も含まれています．
+The Emotion Transcription in Conversation (ETC) Dataset is a Japanese dialogue dataset of approximately 1,000 conversations. Each utterance is paired with an emotion transcription, a natural language description of the speaker's internal emotional state at the time of the utterance. The dataset also includes emotion labels corresponding to the emotion transcriptions, as well as speakers' personality traits (TIPI-J).
 
-本データセットは，発話の背後にある話者の心情を自然言語で記述するタスク「対話における心情記述 (Emotion Transcription in Conversation; ETC)」のためのベンチマークデータセットとして構築されました．
+This dataset was constructed as a benchmark for the task of Emotion Transcription in Conversation (ETC): describing the emotional states behind speakers' utterances in natural language.
+
+> [!Note]
+> A Japanese version of this README is available [here](./README_ja.md).
 
 > [!NOTE]
-> 本ページで公開されているデータは，収集した対話に対して品質チェックを行い，倫理的観点から問題があると考えられる対話を除外したものです．
-> [論文](#-引用)では，上記の不適切な内容が含まれる対話を除外する前のデータセットに基づく分析結果が報告されており，公開版の統計情報とは異なることにご注意ください．また，話者名はデータセット作成者が付与した匿名IDに置き換えられています．
+> The published data has been quality-checked, and dialogues considered ethically problematic have been excluded.
+> Please note that the analysis reported in the [paper](#-citation) is based on the dataset prior to the exclusion of such dialogues and may differ from the statistics of the published version. Additionally, speaker names have been replaced with anonymous IDs assigned by the dataset creators.
 
 > [!CAUTION]
-> 本データセットに含まれる対話の内容は，クラウドソーシングにより収集されたものであり，データセット作成者やその所属機関の信条や意見を表すものではありません．
+> The dialogue content in this dataset was collected via crowdsourcing and does not represent the beliefs or opinions of the dataset creators or their affiliated institutions.
 
-## 🌟 統計情報
+
+## 🌟 Statistics
 
 |  | ETC Dataset |
 | --- | --- |
-| 対話数 | 997 対話 |
-| 話者数 | 198 名 |
-| 発話数 / 心情文数 | 9,970 |
-| 対話あたりの発話数 | 10 発話 |
-| 発話の平均長（文字数） | 42.72 文字 |
-| └ スピーカー | 44.65 文字 |
-| └ リスナー | 40.79 文字 |
-| 心情文の平均長（文字数） | 28.88 文字 |
-| └ スピーカー | 28.91 文字 |
-| └ リスナー | 28.85 文字 |
-| 感情カテゴリ数 | 7（Ekman の 6 基本感情 + 該当なし）|
-| 言語 | 日本語 |
+| # Dialogues | 997 |
+| # Speakers | 198 |
+| # Utterances / emotion transcriptions | 9,970 |
+| Utterances per dialogue | 10 |
+| Avg. utterance length (characters) | 42.72 |
+| └ Speaker | 44.65 |
+| └ Listener | 40.79 |
+| Avg. emotion transcription length (characters) | 28.88 |
+| └ Speaker | 28.91 |
+| └ Listener | 28.85 |
+| # Emotion categories | 7 (Ekman's 6 basic emotions + Neutral) |
+| Language | Japanese |
 
-## 📁 データ構成
+## 📁 Data Structure
 
-``etc/`` 内に，対話データ ``dialogues/*.json`` と，話者のTIPI-J[^1]に基づく性格特性データ ``personality_traits.json`` が格納されています．
+The `etc/` directory contains the dialogue data (`dialogues/*.json`) and speaker personality trait data based on TIPI-J[^1] (`personality_traits.json`).
 
 ```
 etc/
-├── dialogues/              // 対話データ（1ファイルにつき1対話）
+├── dialogues/              // Dialogue data (one file per dialogue)
 │   ├── 0001.json
 │   ├── 0002.json
 │   ├── ...
 │   └── 0997.json
-├── personality_traits.json // 話者の性格特性データ
-└── split.json              // Train/Valid/Test 分割情報
+├── personality_traits.json // Speaker personality traits data
+└── split.json              // Train/Valid/Test split information
 ```
 
 
-### 💬 対話データ
+### 💬 Dialogue Data
 
-対話データには，参加者ID，発話，心情文，感情ラベルが含まれます．
-各対話はスピーカーの発話から始まり，スピーカーとリスナーが交互に発話します（1対話あたり合計10発話）．
+The dialogue data includes participant IDs, utterances, emotion transcriptions, and emotion labels.
+Each dialogue begins with the Speaker's utterance, and the Speaker and Listener take turns alternately (10 utterances per dialogue in total).
 
-対話の収集にあたり，EmpatheticDialoguesの対話設定[^3]を採用しました．話者には特定の感情ラベル（「感動する」「がっかりする」「自信がある」など，全32種類）が指定されました．スピーカーはその感情を感じた体験に関してリスナーに語り，リスナーはスピーカーの話に反応する形式で対話が進行します．
+For dialogue collection, we adopted the dialogue setup from EmpatheticDialogues[^3]. For each dialogue, a specific emotion label (e.g., "impressed," "disappointed," "confident"—32 types in total) was assigned. The Speaker talks about an experience related to that emotion, while the Listener responds to the Speaker's utterances.
 
-感情ラベルは Ekman の6基本感情[^2]（喜び・悲しみ・恐怖・怒り・驚き・嫌悪）に「該当なし」を加えた7カテゴリで構成されています．各心情文には3名のアノテータがマルチラベル形式でアノテーションを行いました．
+Emotion labels consist of 7 categories: Ekman's 6 basic emotions[^2] (joy, sadness, fear, anger, surprise, and disgust) plus "Neutral." Each emotion transcription was annotated by 3 annotators in a multi-label format.
 
-| キー | 型 | 説明 |
+
+| Key | Type | Description |
 | --- | --- | --- |
-| dialogue_id | int | 対話ID |
-| dialogue_emotion | str | 対話実施時に指定された感情ラベル |
-| participants | dict | 話者IDの辞書 |
-| participants.speaker | str | スピーカーのID |
-| participants.listener | str | リスナーのID |
-| dialogue | list (dict) | 発話情報のリスト |
-| dialogue.turn | int | ターン番号（1始まり） |
-| dialogue.role | str | 話者の役割．`speaker` または `listener` |
-| dialogue.utterance | str | 発話テキスト |
-| dialogue.emotion_transcription | str | 発話時の話者の心情文 |
-| dialogue.emotions | list (list (str)) | 心情文が表す感情ラベルのリスト（3名のアノテータによるマルチラベル形式） |
+| dialogue_id | int | Dialogue ID |
+| dialogue_emotion | str | Emotion label assigned to the participant pair for the dialogue |
+| participants | dict | Dictionary of speaker IDs |
+| participants.speaker | str | Speaker ID |
+| participants.listener | str | Listener ID |
+| dialogue | list (dict) | List of utterance information |
+| dialogue.turn | int | Turn number (1-indexed) |
+| dialogue.role | str | Role: `speaker` or `listener` |
+| dialogue.utterance | str | Utterance text |
+| dialogue.emotion_transcription | str | The participant's emotion transcription for the utterance |
+| dialogue.emotions | list (list (str)) | List of emotion labels for the emotion transcription (multi-label format by 3 annotators)  |
 
-**例: `etc/dialogues/0945.json`**
+
+**Example: `etc/dialogues/0945.json`**
 
 ```json
 {
@@ -108,22 +114,23 @@ etc/
 ```
 
 
-### 👤 話者の性格特性データ
+### 👤 Participant Personality Trait Data
 
-性格特性データには，TIPI-J（日本語版Ten-Item Personality Inventory）[^1]の質問項目と話者による回答，および回答から算出されたBig Fiveのスコアが含まれます．
+The personality trait data includes TIPI-J (Japanese version of the Ten-Item Personality Inventory)[^1] questionnaire items, speaker responses, and Big Five scores computed from those responses.
 
-| キー | 型 | 説明 |
+| Key | Type | Description |
 | --- | --- | --- |
-| item | dict | 質問項目（i01〜i10） |
-| personality | dict | 話者IDをキーとした性格特性データ |
-| personality.*.participant_id | str | 話者ID |
-| personality.*.response | dict | 各質問項目への回答 |
-| personality.*.score | dict | Big Five の各次元のスコア |
-| personality.*.score.openness | int | 開放性（2〜14） |
-| personality.*.score.conscientiousness | int | 勤勉性（2〜14） |
-| personality.*.score.extraversion | int | 外向性（2〜14） |
-| personality.*.score.agreeableness | int | 協調性（2〜14） |
-| personality.*.score.neuroticism | int | 神経症傾向（2〜14） |
+| item | dict | Questionnaire items (i01–i10) |
+| personality | dict | Personality trait data keyed by speaker ID |
+| personality.*.participant_id | str | Participant ID |
+| personality.*.response | dict | Responses to each questionnaire item |
+| personality.*.score | dict | Scores for each Big Five dimension |
+| personality.*.score.openness | int | Openness (2–14) |
+| personality.*.score.conscientiousness | int | Conscientiousness (2–14) |
+| personality.*.score.extraversion | int | Extraversion (2–14) |
+| personality.*.score.agreeableness | int | Agreeableness (2–14) |
+| personality.*.score.neuroticism | int | Neuroticism (2–14) |
+
 
 ```json
 {
@@ -154,41 +161,51 @@ etc/
 }
 ```
 
-### 🗂️ 分割情報
+### 🗂️ Split Information
 
-`split.json` には，[論文](#-引用)の実験で使用した Train / Valid / Test の分割情報が記録されています．なお，論文の実験で使用したデータセットには，倫理的観点から不適切と判断し本データセットから除外された対話データも含まれています．
+`split.json` contains the Train / Valid / Test split information used in the experiments reported in the [paper](#-citation). Note that the dataset used in the paper's experiments includes dialogues that were later excluded from this published dataset due to ethical concerns.
 
-## 🛡️ 本データセットの使用にあたって
+## 🛡️ Guidelines for Use
 
 > [!CAUTION]
-> **本データセットの使用にあたっては，次のことに十分注意してください．**
-> - 本データセットのデータから個人を特定しようとしないこと．
-> - 本データセットを，特定の話者へのなりすましに用いないこと．
-> - 本データセットを話者の性格特性の推定などに用いる際は，自身の情報を推定されたくない話者の権利についても留意すること．
+> **Please observe the following guidelines when using this dataset:**
+> - Do not attempt to identify individuals from the data in this dataset.
+> - Do not use this dataset to impersonate any specific speaker.
+> - When using this dataset for purposes such as predicting speakers' personality traits, be mindful of the rights of speakers who may not wish to have their personal information inferred.
 
 
-## 📄 引用
-
-本データセットを使用した研究成果を発表する際は，以下の論文を引用してください．
+## 📄 Citation
 
 ```bibtex
 @inproceedings{tanaka-etal-2026-etcdataset,
+  title = "Emotion Transcription in Conversation: A Benchmark for Capturing Subtle and Complex Emotional States through Natural Language",
+  author = "Tanaka, Yoshiki and 
+    Uehara, Ryuichi and 
+    Inoue, Koji and 
+    Inaba, Michimasa",
+  booktitle = "Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)",
+  year = "2026",
+  pages = "9692--9709",
+  publisher = "European Language Resources Association (ELRA)"
+}
+
+@inproceedings{tanaka-etal-2026-etcdataset-ja,
     title = "対話における心情記述: 自然言語による機微かつ複雑な心情理解のためのベンチマーク",
     author = "田中 義規 and 上原 隆一 and 井上 昂治 and 稲葉 通将",
     booktitle = "言語処理学会第32回年次大会発表論文集",
     year = "2026",
-    note = "to appear"
+    pages = "1328--1333"
 }
 ```
 
-## 🙇 謝辞
+## 🙇 Acknowledgments
 
-本研究は，科研費 学術変革領域研究（B）（25H01382）の支援を受けました．
+This work was supported by JSPS KAKENHI Grant Number 25H01382.
 
 
-## ⚖️ ライセンス
+## ⚖️ License
 
-本データセットは [CC BY-NC 4.0][cc-by-nc] の下で提供されます．
+This dataset is licensed under [CC BY-NC 4.0][cc-by-nc].
 
 [![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
 
